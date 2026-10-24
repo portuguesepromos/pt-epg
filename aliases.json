@@ -1,0 +1,1582 @@
+{
+  "TVE.24h.pt": {
+    "ids": [],
+    "names": [
+      "TVE 24h",
+      "24H",
+      "MEO: TVE 24 ᴿᴬᵂ",
+      "TVE 24",
+      "VO: 24H ᴴᴰ"
+    ]
+  },
+  "24Kitchen.HD.pt": {
+    "ids": [
+      "24Kitchen.pt",
+      "24kitchen.pt"
+    ],
+    "names": [
+      "24Kitchen HD",
+      "24 KITCHEN",
+      "MEO: 24 KITCHEN ᴿᴬᵂ",
+      "VO: 24 KITCHEN ᴴᴰ"
+    ]
+  },
+  "A.Bola.TV.HD.pt": {
+    "ids": [
+      "ABolaTV.pt"
+    ],
+    "names": [
+      "A Bola TV HD",
+      "A",
+      "A BOLA",
+      "MEO: A BOLA ᴿᴬᵂ",
+      "VO: A ᴴᴰ"
+    ]
+  },
+  "Afro.Music.Channel.pt": {
+    "ids": [],
+    "names": [
+      "Afro Music Channel",
+      "MEO: AFRO MUSIC ᴿᴬᵂ",
+      "PT: AFRO TV"
+    ]
+  },
+  "Al.Jazeera.pt": {
+    "ids": [],
+    "names": [
+      "Al Jazeera",
+      "MEO: ALJAZEERA ᴿᴬᵂ",
+      "VO: ALJAZEERA ᴴᴰ"
+    ]
+  },
+  "AMC.Break.HD.pt": {
+    "ids": [
+      "amcbreak.pt",
+      "blaze.pt"
+    ],
+    "names": [
+      "AMC Break HD",
+      "AMC BREAK",
+      "MEO: AMC BREAK ᴿᴬᵂ",
+      "PT: BREAK",
+      "PT: BREAK HD",
+      "VO: AMC BREAK ᴴᴰ"
+    ]
+  },
+  "AMC.Crime.HD.pt": {
+    "ids": [],
+    "names": [
+      "AMC Crime HD",
+      "AMC CRIME",
+      "MEO: AMC CRIME ᴿᴬᵂ",
+      "VO: AMC CRIME ᴴᴰ"
+    ]
+  },
+  "AMC.HD.pt": {
+    "ids": [
+      "AMC.pt"
+    ],
+    "names": [
+      "AMC HD",
+      "AMC",
+      "MEO: AMC ᴿᴬᵂ",
+      "VIP: AMC ᴴᴰ",
+      "VIP: AMC ᴿᴬᵂ",
+      "VO: AMC ᴴᴰ"
+    ]
+  },
+  "ARTV.pt": {
+    "ids": [],
+    "names": [
+      "ARTV",
+      "AR TV",
+      "MEO: ARTV ᴿᴬᵂ",
+      "VO: AR TV ᴴᴰ"
+    ]
+  },
+  "AXN.HD.pt": {
+    "ids": [
+      "AXN.pt"
+    ],
+    "names": [
+      "AXN HD",
+      "AXN",
+      "MEO: AXN ᴿᴬᵂ",
+      "VIP: AXN ᴴᴰ",
+      "VIP: AXN ᴿᴬᵂ",
+      "VO: AXN ᴴᴰ"
+    ]
+  },
+  "AXN.Movies.HD.pt": {
+    "ids": [
+      "AXNMovies.pt"
+    ],
+    "names": [
+      "AXN Movies HD",
+      "AXN MOVIES",
+      "MEO: AXN MOVIES ᴿᴬᵂ",
+      "VIP: AXN MOVIES ᴴᴰ",
+      "VO: AXN MOVIES ᴴᴰ"
+    ]
+  },
+  "AXN.White.HD.pt": {
+    "ids": [
+      "AXNWhite.pt"
+    ],
+    "names": [
+      "AXN White HD",
+      "AXN WHITE",
+      "MEO: AXN WHITE ᴿᴬᵂ",
+      "VIP: AXN WHITE ᴴᴰ",
+      "VIP: AXN WHITE ᴿᴬᵂ",
+      "VO: AXN WHITE ᴴᴰ"
+    ]
+  },
+  "Baby.TV.pt": {
+    "ids": [
+      "BabyTV.pt",
+      "babytv.pt"
+    ],
+    "names": [
+      "Baby TV",
+      "MEO: BABY TV ᴿᴬᵂ",
+      "VO: BABY TV ᴴᴰ"
+    ]
+  },
+  "BTV1.HD.pt": {
+    "ids": [
+      "BenficaTV1.pt"
+    ],
+    "names": [
+      "BTV1 HD",
+      "BTV1",
+      "MEO: BTV ᴿᴬᵂ",
+      "VIP: BENFICA TV ᴴᴰ",
+      "VIP: BTV ᴿᴬᵂ"
+    ]
+  },
+  "Bloomberg.pt": {
+    "ids": [
+      "bloomberg.pt"
+    ],
+    "names": [
+      "Bloomberg",
+      "MEO: BLOOMBERG ᴿᴬᵂ",
+      "VO: BLOOMBERG ᴴᴰ"
+    ]
+  },
+  "BVN.pt": {
+    "ids": [],
+    "names": [
+      "BVN",
+      "MEO: BVN ᴿᴬᵂ"
+    ]
+  },
+  "CacaEPesca.pt": {
+    "ids": [
+      "Caça.e.Pesca.pt"
+    ],
+    "names": [
+      "Caça e Pesca",
+      "CACA E PESCA",
+      "MEO: CAÇA E PESCA ᴿᴬᵂ"
+    ]
+  },
+  "Canal.11.HD.pt": {
+    "ids": [
+      "Canal11.pt"
+    ],
+    "names": [
+      "Canal 11 HD",
+      "CANAL 11",
+      "MEO: 11 ᴿᴬᵂ",
+      "VO: 11 ᴴᴰ"
+    ]
+  },
+  "Canal.180.pt": {
+    "ids": [],
+    "names": [
+      "Canal 180",
+      "180 MUSIC",
+      "MEO: CANAL 180 ᴿᴬᵂ",
+      "VO: 180 MUSIC ᴴᴰ"
+    ]
+  },
+  "Canal.Hollywood.HD.pt": {
+    "ids": [
+      "canalhollywood.pt"
+    ],
+    "names": [
+      "Canal Hollywood HD",
+      "CANAL HOLLYWOOD",
+      "MEO: HOLLYWOOD ᴿᴬᵂ",
+      "PT: HOLLYWOOD 4K",
+      "VO: CANAL HOLLYWOOD ᴴᴰ"
+    ]
+  },
+  "Canal.Panda.HD.pt": {
+    "ids": [
+      "Panda.pt",
+      "panda.pt"
+    ],
+    "names": [
+      "Canal Panda HD",
+      "CANAL PANDA",
+      "MEO: PANDA ᴿᴬᵂ",
+      "VO: PANDA ᴴᴰ"
+    ]
+  },
+  "Canal.Q.pt": {
+    "ids": [
+      "CanalQ.pt",
+      "canalq.pt"
+    ],
+    "names": [
+      "Canal Q",
+      "MEO: Q ᴿᴬᵂ",
+      "VO: CANAL Q ᴴᴰ"
+    ]
+  },
+  "Cartoonito.pt": {
+    "ids": [],
+    "names": [
+      "Cartoonito",
+      "MEO: CARTOONITO ᴿᴬᵂ",
+      "PT: CARTOONITO",
+      "VO: CARTOONITO ᴴᴰ"
+    ]
+  },
+  "Cartoon.Network.HD.pt": {
+    "ids": [
+      "CartoonNetwork.pt",
+      "cartoonnetwork.pt"
+    ],
+    "names": [
+      "Cartoon Network HD",
+      "CARTOON NETWORK",
+      "MEO: CARTOON NETWORK ᴿᴬᵂ",
+      "VO: CARTOON NETWORK ᴴᴰ"
+    ]
+  },
+  "Casa.e.Cozinha.HD.pt": {
+    "ids": [],
+    "names": [
+      "Casa e Cozinha HD",
+      "CAA AVISION",
+      "CASA COZINHA",
+      "CASA E COZINHA",
+      "MEO: CASA E COZINHA ᴿᴬᵂ",
+      "PT: CASA & COZINHA HD",
+      "VIP: CASA E COZINHA ᴴᴰ",
+      "VIP: CAÃ§AVISION ᴴᴰ",
+      "VO: CASA E COZINHA ᴴᴰ"
+    ]
+  },
+  "CCTV.4.pt": {
+    "ids": [],
+    "names": [
+      "CCTV 4",
+      "CCTV4",
+      "MEO: CCTV4 ᴿᴬᵂ"
+    ]
+  },
+  "CGTN.pt": {
+    "ids": [],
+    "names": [
+      "CGTN",
+      "MEO: CGTN ᴿᴬᵂ"
+    ]
+  },
+  "Cinemundo.pt": {
+    "ids": [
+      "cinemundo.pt"
+    ],
+    "names": [
+      "Cinemundo",
+      "CINE MUNDO",
+      "MEO: CINEMUNDO ᴿᴬᵂ",
+      "VO: CINE MUNDO ᴴᴰ"
+    ]
+  },
+  "CMTV.HD.pt": {
+    "ids": [
+      "Cmtv.pt"
+    ],
+    "names": [
+      "CMTV HD",
+      "CM TV",
+      "CMTV",
+      "MEO: CMTV ᴿᴬᵂ",
+      "VIP: CM TV ᴴᴰ",
+      "VIP: CM TV ᴿᴬᵂ",
+      "VO: CM TV ᴴᴰ"
+    ]
+  },
+  "CNBC.pt": {
+    "ids": [],
+    "names": [
+      "CNBC",
+      "CNBC EUROPE",
+      "MEO: CNBC ᴿᴬᵂ",
+      "VO: CNBC EUROPE ᴴᴰ"
+    ]
+  },
+  "CNN.pt": {
+    "ids": [],
+    "names": [
+      "CNN",
+      "MEO: CNN ᴿᴬᵂ",
+      "VO: CNN ᴴᴰ"
+    ]
+  },
+  "CNN.Portugal.HD.pt": {
+    "ids": [
+      "cnnportugal.pt"
+    ],
+    "names": [
+      "CNN Portugal HD",
+      "CNN PORTUGAL",
+      "MEO: CNN PORTUGAL ᴿᴬᵂ",
+      "PT: CNN PT",
+      "VO: CNN PORTUGAL ᴴᴰ"
+    ]
+  },
+  "Conta.Lá.pt": {
+    "ids": [],
+    "names": [
+      "Conta Lá",
+      "CONTA LA",
+      "MEO: CONTA LÁ ᴿᴬᵂ"
+    ]
+  },
+  "Cubavisión.Internacional.pt": {
+    "ids": [],
+    "names": [
+      "Cubavisión Internacional",
+      "CUBAVISION INTERNACIONAL",
+      "MEO: CUBAVISION ᴿᴬᵂ"
+    ]
+  },
+  "DAZN.1.pt": {
+    "ids": [
+      "ElevenSports1.pt"
+    ],
+    "names": [
+      "DAZN 1",
+      "MEO: DAZN 1 ᴿᴬᵂ",
+      "PT: DAZN 1 SD",
+      "PT: DAZN 1 ᴴᴰ",
+      "PT: DAZN 1 ᴿᴬᵂ",
+      "VIP: DAZN 1 ᴴᴰ",
+      "VIP: DAZN 1 ᴿᴬᵂ"
+    ]
+  },
+  "DAZN.2.pt": {
+    "ids": [
+      "ElevenSports2.pt"
+    ],
+    "names": [
+      "DAZN 2",
+      "MEO: DAZN 2 ᴿᴬᵂ",
+      "PT: DAZN 2 SD",
+      "PT: DAZN 2 ᴴᴰ",
+      "PT: DAZN 2 ᴿᴬᵂ",
+      "VIP: DAZN 2 ᴴᴰ",
+      "VIP: DAZN 2 ᴿᴬᵂ"
+    ]
+  },
+  "DAZN.3.pt": {
+    "ids": [
+      "ElevenSports3.pt"
+    ],
+    "names": [
+      "DAZN 3",
+      "MEO: DAZN 3 ᴿᴬᵂ",
+      "PT: DAZN 3 SD",
+      "PT: DAZN 3 ᴴᴰ",
+      "PT: DAZN 3 ᴿᴬᵂ",
+      "VIP: DAZN 3 ᴴᴰ",
+      "VIP: DAZN 3 ᴿᴬᵂ"
+    ]
+  },
+  "DAZN.4.pt": {
+    "ids": [
+      "ElevenSports4.pt"
+    ],
+    "names": [
+      "DAZN 4",
+      "MEO: DAZN 4 ᴿᴬᵂ",
+      "PT: DAZN 4 SD",
+      "PT: DAZN 4 ᴴᴰ",
+      "PT: DAZN 4 ᴿᴬᵂ",
+      "VIP: DAZN 4 ᴴᴰ",
+      "VIP: DAZN 4 ᴿᴬᵂ"
+    ]
+  },
+  "DAZN.5.pt": {
+    "ids": [],
+    "names": [
+      "DAZN 5",
+      "MEO: DAZN 5 ᴿᴬᵂ",
+      "PT: DAZN 5 4K",
+      "PT: DAZN 5 SD",
+      "PT: DAZN 5 ᴴᴰ",
+      "PT: DAZN 5 ᴿᴬᵂ",
+      "VIP: DAZN 5 ᴴᴰ",
+      "VIP: DAZN 5 ᴿᴬᵂ"
+    ]
+  },
+  "Discovery.HD.pt": {
+    "ids": [
+      "DiscoveryChannel.pt",
+      "discoverychannel.pt"
+    ],
+    "names": [
+      "Discovery HD",
+      "DISCOVERY",
+      "MEO: DISCOVERY CHANNEL ᴿᴬᵂ",
+      "VO: DISCOVERY ᴴᴰ"
+    ]
+  },
+  "Disney.Channel.HD.pt": {
+    "ids": [
+      "DisneyChannel.pt",
+      "disneychannel.pt"
+    ],
+    "names": [
+      "Disney Channel HD",
+      "DISNEY CHANNEL",
+      "MEO: DISNEY CHANNEL ᴿᴬᵂ",
+      "VO: DISNEY CHANNEL ᴴᴰ"
+    ]
+  },
+  "Disney.Junior.HD.pt": {
+    "ids": [
+      "DisneyJunior.pt",
+      "disneyjunior.pt"
+    ],
+    "names": [
+      "Disney Junior HD",
+      "DISNEY JUNIOR",
+      "MEO: DISNEY JUNIOR ᴿᴬᵂ",
+      "VO: DISNEY JR ᴴᴰ"
+    ]
+  },
+  "DOGTV.pt": {
+    "ids": [],
+    "names": [
+      "DOGTV",
+      "DOG TV",
+      "MEO: DOG TV ᴿᴬᵂ",
+      "PT: DOG TV"
+    ]
+  },
+  "Euronews.pt": {
+    "ids": [
+      "euronews.pt"
+    ],
+    "names": [
+      "Euronews",
+      "MEO: EURONEWS ᴿᴬᵂ",
+      "PT: EURONEWS",
+      "VO: EURONEWS ᴴᴰ"
+    ]
+  },
+  "Eurosport.1.HD.pt": {
+    "ids": [
+      "Eurosport1.pt"
+    ],
+    "names": [
+      "Eurosport 1 HD",
+      "EURO SPORT 1",
+      "EUROSPORT 1",
+      "MEO: EURO SPORT 1 ᴿᴬᵂ",
+      "VIP: EUROSPORT 1 ᴴᴰ",
+      "VIP: EUROSPORT 1 ᴿᴬᵂ",
+      "VO: EUROSPORT 1 ᴴᴰ"
+    ]
+  },
+  "Eurosport.2.HD.pt": {
+    "ids": [
+      "Eurosport2.pt"
+    ],
+    "names": [
+      "Eurosport 2 HD",
+      "EURO SPORT 2",
+      "EUROSPORT 2",
+      "MEO: EURO SPORT 2 ᴿᴬᵂ",
+      "VIP: EUROSPORT 2 ᴴᴰ",
+      "VIP: EUROSPORT 2 ᴿᴬᵂ",
+      "VO: EUROSPORT 2 ᴴᴰ"
+    ]
+  },
+  "France.24.(F).pt": {
+    "ids": [],
+    "names": [
+      "France 24 (F)",
+      "FRANCE 24",
+      "FRANCE 24 F",
+      "MEO: FRANCE 24 (F) ᴿᴬᵂ",
+      "VO: FRANCE 24 ᴴᴰ"
+    ]
+  },
+  "France.24.(I).pt": {
+    "ids": [],
+    "names": [
+      "France 24 (I)",
+      "FRANCE 24 ENGLISH",
+      "FRANCE 24 I",
+      "MEO: FRANCE 24 (I) ᴿᴬᵂ",
+      "VO: FRANCE 24 ENGLISH ᴴᴰ"
+    ]
+  },
+  "TV.Galicia.pt": {
+    "ids": [],
+    "names": [
+      "TV Galicia",
+      "MEO: TV GALÍCIA ᴿᴬᵂ",
+      "VIP: TV GALICIA ᴴᴰ",
+      "VO: TV CALICIA ᴴᴰ"
+    ]
+  },
+  "HGTV.pt": {
+    "ids": [],
+    "names": [
+      "HGTV",
+      "MEO: HOME & GARDEN TV ᴿᴬᵂ",
+      "VO: HGTV ᴴᴰ"
+    ]
+  },
+  "Canal.História.HD.pt": {
+    "ids": [
+      "HistoryChannel.pt"
+    ],
+    "names": [
+      "Canal História HD",
+      "CANAL HISTORIA",
+      "MEO: HISTÓRIA ᴿᴬᵂ",
+      "VIP: HISTORIA ᴴᴰ",
+      "VIP: HISTORIA ᴿᴬᵂ",
+      "VO: HISTORIA ᴴᴰ"
+    ]
+  },
+  "ID.Investigation.Discovery.pt": {
+    "ids": [
+      "investigationdiscovery.pt"
+    ],
+    "names": [
+      "ID Investigation Discovery",
+      "ID",
+      "INVESTIGATION DISCOVERY",
+      "MEO: INVESTIGATION DISCOVERY ᴿᴬᵂ",
+      "PT: ID INVESTIGATION DISCOVERY HD",
+      "VO: ID ᴴᴰ"
+    ]
+  },
+  "KBS.World.HD.pt": {
+    "ids": [],
+    "names": [
+      "KBS World HD",
+      "KBS WORLD",
+      "MEO: KBS WORLD ᴿᴬᵂ",
+      "VO: KBS WORLD ᴴᴰ"
+    ]
+  },
+  "Kuriakos.TV.pt": {
+    "ids": [
+      "KuriakosTv.pt",
+      "kuriakostv.pt"
+    ],
+    "names": [
+      "Kuriakos TV",
+      "KURIAKOSTV",
+      "MEO: KURIAKOS TV ᴿᴬᵂ",
+      "VO: KURIAKOSTV ᴴᴰ"
+    ]
+  },
+  "LocalvisaoTV.pt": {
+    "ids": [
+      "Localvisão.TV.HD.pt"
+    ],
+    "names": [
+      "Localvisão TV HD",
+      "LOCALVISAO TV",
+      "MEO: LOCALVISÃO TV ᴿᴬᵂ",
+      "VO: LOCALVISAO ᴴᴰ"
+    ]
+  },
+  "M6.pt": {
+    "ids": [],
+    "names": [
+      "M6",
+      "MEO: M6 ᴿᴬᵂ"
+    ]
+  },
+  "MCM.Pop.pt": {
+    "ids": [
+      "MCMPop.pt",
+      "mcmpop.pt"
+    ],
+    "names": [
+      "MCM Pop",
+      "MEO: MCM POP ᴿᴬᵂ"
+    ]
+  },
+  "MCM.Top.pt": {
+    "ids": [],
+    "names": [
+      "MCM Top",
+      "MEO: MCM TOP ᴿᴬᵂ",
+      "VO: MCM TOP ᴴᴰ"
+    ]
+  },
+  "Mezzo.pt": {
+    "ids": [
+      "mezzo.pt"
+    ],
+    "names": [
+      "Mezzo",
+      "MEO: MEZZO ᴿᴬᵂ",
+      "PT: MEZZO"
+    ]
+  },
+  "Mezzo.Live.HD.pt": {
+    "ids": [],
+    "names": [
+      "Mezzo Live HD",
+      "MEO: MEZZO LIVE ᴿᴬᵂ",
+      "MEZZO LIVE",
+      "VO: MEZZO LIVE ᴴᴰ"
+    ]
+  },
+  "NatGeo.pt": {
+    "ids": [
+      "National.Geographic.HD.pt",
+      "nationalgeographic.pt"
+    ],
+    "names": [
+      "National Geographic HD",
+      "MEO: NATIONAL GEOGRAPHIC ᴿᴬᵂ",
+      "NATGEO GRAPHIC",
+      "NATIONAL GEOGRAPHIC",
+      "VO: NATGEO GRAPHIC ᴴᴰ"
+    ]
+  },
+  "National.Geographic.WILD.HD.pt": {
+    "ids": [
+      "nationalgeographicwild.pt"
+    ],
+    "names": [
+      "National Geographic WILD HD",
+      "MEO: NATIONAL GEOGRAPHIC WILD ᴿᴬᵂ",
+      "NATIONAL GEOGRAPHIC WILD",
+      "PT: NAT GEO WILD",
+      "PT: NAT GEO WILD HD",
+      "VO: NATGEO WILD ᴴᴰ"
+    ]
+  },
+  "New.Brasil.pt": {
+    "ids": [],
+    "names": [
+      "New Brasil",
+      "MEO: NEW BRASIL ᴿᴬᵂ"
+    ]
+  },
+  "NewsNOW.pt": {
+    "ids": [],
+    "names": [
+      "NewsNOW",
+      "MEO: NEWS NOW ᴿᴬᵂ",
+      "NEWS NOW",
+      "NOW",
+      "VO: NOW ᴴᴰ"
+    ]
+  },
+  "NHK.World.TV.pt": {
+    "ids": [],
+    "names": [
+      "NHK World TV",
+      "VO: NHK WORLD ᴴᴰ"
+    ]
+  },
+  "Nickelodeon.pt": {
+    "ids": [
+      "nickelodeon.pt"
+    ],
+    "names": [
+      "Nickelodeon",
+      "MEO: NICKELODEON ᴿᴬᵂ",
+      "VO: NICKELODEON ᴴᴰ"
+    ]
+  },
+  "Nick.Jr..pt": {
+    "ids": [
+      "NickJr.pt",
+      "nickjr.pt"
+    ],
+    "names": [
+      "Nick Jr.",
+      "MEO: NICK JR. ᴿᴬᵂ",
+      "NICK JR"
+    ]
+  },
+  "ODISSEIA.HD.pt": {
+    "ids": [
+      "Odisseia.pt"
+    ],
+    "names": [
+      "ODISSEIA HD",
+      "MEO: ODISSEIA ᴿᴬᵂ",
+      "ODISSEIA",
+      "VIP: ODISSEIA ᴴᴰ",
+      "VIP: ODISSEIA ᴿᴬᵂ",
+      "VO: ODISSEIA ᴴᴰ"
+    ]
+  },
+  "OneToro.TV.pt": {
+    "ids": [],
+    "names": [
+      "OneToro TV",
+      "MEO: ONETORO TV ᴿᴬᵂ"
+    ]
+  },
+  "Panda.KIDS.pt": {
+    "ids": [],
+    "names": [
+      "Panda KIDS",
+      "MEO: PANDA KIDS ᴿᴬᵂ",
+      "VO: PANDA KIDS ᴴᴰ"
+    ]
+  },
+  "Porto.Canal.HD.pt": {
+    "ids": [
+      "Porto.pt",
+      "porto.pt"
+    ],
+    "names": [
+      "Porto Canal HD",
+      "MEO: PORTO CANAL",
+      "PORTO CANAL",
+      "VO: CANAL PORTO ᴴᴰ"
+    ]
+  },
+  "Rai.Italia.pt": {
+    "ids": [],
+    "names": [
+      "Rai Italia",
+      "MEO: RAI ITÁLIA ᴿᴬᵂ",
+      "RAI 1",
+      "VO: RAI 1 ᴴᴰ"
+    ]
+  },
+  "Record.News.pt": {
+    "ids": [],
+    "names": [
+      "Record News",
+      "MEO: RECORD NEWS ᴿᴬᵂ",
+      "VO: RECORD NEWS ᴴᴰ"
+    ]
+  },
+  "Record.pt": {
+    "ids": [
+      "recordtv.pt"
+    ],
+    "names": [
+      "Record",
+      "PT: TV RECORD",
+      "PT: TV RECORD HD"
+    ]
+  },
+  "Globo.HD.pt": {
+    "ids": [
+      "Globo.pt",
+      "GloboNow.pt"
+    ],
+    "names": [
+      "Globo HD",
+      "GLOBO",
+      "MEO: GLOBO ᴿᴬᵂ",
+      "PT: GLOBO",
+      "TV GLOBO TV PORTUGAL",
+      "VIP: TV GLOBO TV PORTUGAL ᴴᴰ",
+      "VIP: TV GLOBO TV PORTUGAL ᴿᴬᵂ",
+      "VO: GLOBO ᴴᴰ"
+    ]
+  },
+  "Russia.Today.pt": {
+    "ids": [],
+    "names": [
+      "Russia Today",
+      "MEO: RUSSIA TODAY ᴿᴬᵂ"
+    ]
+  },
+  "RTP.1.HD.pt": {
+    "ids": [
+      "Rtp1.pt",
+      "rtp1.pt"
+    ],
+    "names": [
+      "RTP 1 HD",
+      "MEO: RTP 1 ᴿᴬᵂ",
+      "RTP 1",
+      "VO: RTP 1 ᴴᴰ"
+    ]
+  },
+  "RTP.2.HD.pt": {
+    "ids": [
+      "Rtp2.pt",
+      "rtp2.pt"
+    ],
+    "names": [
+      "RTP 2 HD",
+      "MEO: RTP 2 ᴿᴬᵂ",
+      "RTP 2",
+      "VO: RTP 2 ᴴᴰ"
+    ]
+  },
+  "RTP.Açores.pt": {
+    "ids": [],
+    "names": [
+      "RTP Açores",
+      "MEO: RTP AÇORES ᴿᴬᵂ",
+      "RTP ACORES",
+      "VO: RTP ACORES ᴴᴰ"
+    ]
+  },
+  "RTP.África.pt": {
+    "ids": [],
+    "names": [
+      "RTP África",
+      "MEO: RTP ÁFRICA ᴿᴬᵂ",
+      "RTP AFRICA",
+      "VIP: RTP AFRICA ᴴᴰ",
+      "VIP: RTP AFRICA ᴿᴬᵂ",
+      "VO: RTP AFRICA ᴴᴰ"
+    ]
+  },
+  "RTP.Madeira.pt": {
+    "ids": [
+      "RtpMadeira.pt",
+      "rtpmadeira.pt"
+    ],
+    "names": [
+      "RTP Madeira",
+      "MEO: RTP MADEIRA ᴿᴬᵂ",
+      "RTP 3 MADEIRA",
+      "VO: RTP 3 MADEIRA ᴴᴰ"
+    ]
+  },
+  "RTP.Memória.pt": {
+    "ids": [
+      "RtpMemoria.pt",
+      "rtpmemoria.pt"
+    ],
+    "names": [
+      "RTP Memória",
+      "MEO: RTP MEMÓRIA ᴿᴬᵂ",
+      "RTP MEMORIA",
+      "VO: RTP MEMORIA ᴴᴰ"
+    ]
+  },
+  "RTP.Notícias.HD.pt": {
+    "ids": [
+      "Rtp3.pt",
+      "rtp3.pt"
+    ],
+    "names": [
+      "RTP Notícias HD",
+      "MEO: RTP 3 ᴿᴬᵂ",
+      "RTP NOTICIAS",
+      "VO: RTP 3 ᴴᴰ"
+    ]
+  },
+  "SIC.HD.pt": {
+    "ids": [
+      "Sic.pt",
+      "sic.pt"
+    ],
+    "names": [
+      "SIC HD",
+      "MEO: SIC ᴿᴬᵂ",
+      "SIC",
+      "VO: SIC ᴴᴰ"
+    ]
+  },
+  "SIC.Caras.HD.pt": {
+    "ids": [
+      "SicCaras.pt",
+      "siccaras.pt"
+    ],
+    "names": [
+      "SIC Caras HD",
+      "MEO: SIC CARAS ᴿᴬᵂ",
+      "SIC CARAS",
+      "VO: SIC CARAS ᴴᴰ"
+    ]
+  },
+  "SIC.K.HD.pt": {
+    "ids": [
+      "sick.pt"
+    ],
+    "names": [
+      "SIC K HD",
+      "K SIC",
+      "MEO: SIC K ᴿᴬᵂ",
+      "PT: SIC K",
+      "PT: SIC K HD",
+      "SIC K",
+      "VO: K SIC ᴴᴰ"
+    ]
+  },
+  "SIC.Mulher.HD.pt": {
+    "ids": [
+      "SicMulher.pt",
+      "sicmulher.pt"
+    ],
+    "names": [
+      "SIC Mulher HD",
+      "MEO: SIC MULHER ᴿᴬᵂ",
+      "SIC MULHER",
+      "VO: SIC MULHER ᴴᴰ"
+    ]
+  },
+  "SIC.Notícias.HD.pt": {
+    "ids": [
+      "SicNoticias.pt",
+      "sicnoticias.pt"
+    ],
+    "names": [
+      "SIC Notícias HD",
+      "MEO: SIC NOTÍCIAS ᴿᴬᵂ",
+      "SIC NOTICIAS",
+      "VO: SIC NOTICIAS ᴴᴰ"
+    ]
+  },
+  "SIC.Novelas.pt": {
+    "ids": [],
+    "names": [
+      "SIC Novelas",
+      "MEO: SIC NOVELAS ᴿᴬᵂ",
+      "PT:  SIC Novelas HD",
+      "VO: SIC NOVELAS ᴴᴰ"
+    ]
+  },
+  "SIC.Radical.HD.pt": {
+    "ids": [
+      "SicRadical.pt",
+      "sicradical.pt"
+    ],
+    "names": [
+      "SIC Radical HD",
+      "MEO: SIC RADICAL ᴿᴬᵂ",
+      "SIC RADICAL",
+      "VO: SIC RADICAL ᴴᴰ"
+    ]
+  },
+  "Sky.News.pt": {
+    "ids": [],
+    "names": [
+      "Sky News",
+      "MEO: SKY NEWS ᴿᴬᵂ",
+      "VO: SKY NEWS ᴴᴰ"
+    ]
+  },
+  "SET.Asia.pt": {
+    "ids": [],
+    "names": [
+      "SET Asia",
+      "MEO: SET ASIA ᴿᴬᵂ"
+    ]
+  },
+  "S+.HD.pt": {
+    "ids": [],
+    "names": [
+      "S+ HD",
+      "MEO: S+ ᴿᴬᵂ",
+      "S",
+      "VO: S+ ᴴᴰ"
+    ]
+  },
+  "Sporting.TV.HD.pt": {
+    "ids": [
+      "SportingTV.pt"
+    ],
+    "names": [
+      "Sporting TV HD",
+      "MEO: SPORTING TV ᴿᴬᵂ",
+      "SPORTING TV",
+      "VIP: SPORTING TV ᴴᴰ",
+      "VIP: SPORTING TV ᴿᴬᵂ",
+      "VO: SPORTING TV ᴴᴰ"
+    ]
+  },
+  "SPORT.TV1.HD.pt": {
+    "ids": [
+      "SportTV1.pt"
+    ],
+    "names": [
+      "SPORT TV1 HD",
+      "MEO: SPORT TV 1 ᴿᴬᵂ",
+      "PT: SPORT TV 1 4K",
+      "SPORT TV 1",
+      "VIP: SPORT TV 1 ᴴᴰ",
+      "VIP: SPORT TV 1 ᴿᴬᵂ"
+    ]
+  },
+  "SPORT.TV2.HD.pt": {
+    "ids": [
+      "SportTV2.pt"
+    ],
+    "names": [
+      "SPORT TV2 HD",
+      "MEO: SPORT TV 2 ᴿᴬᵂ",
+      "PT: SPORT TV 2 4K",
+      "SPORT TV 2",
+      "VIP: SPORT TV 2 ᴴᴰ",
+      "VIP: SPORT TV 2 ᴿᴬᵂ"
+    ]
+  },
+  "SPORT.TV3.HD.pt": {
+    "ids": [
+      "SportTV3.pt"
+    ],
+    "names": [
+      "SPORT TV3 HD",
+      "MEO: SPORT TV 3 ᴿᴬᵂ",
+      "PT: SPORT TV 3 HD",
+      "SPORT TV 3",
+      "VIP: SPORT TV 3 ᴴᴰ",
+      "VIP: SPORT TV 3 ᴿᴬᵂ"
+    ]
+  },
+  "SPORT.TV4.HD.pt": {
+    "ids": [
+      "SportTV4.pt"
+    ],
+    "names": [
+      "SPORT TV4 HD",
+      "MEO: SPORT TV 4 ᴿᴬᵂ",
+      "SPORT TV 4",
+      "VIP: SPORT TV 4 ᴴᴰ",
+      "VIP: SPORT TV 4 ᴿᴬᵂ"
+    ]
+  },
+  "SPORT.TV5.HD.pt": {
+    "ids": [
+      "SportTV5.pt"
+    ],
+    "names": [
+      "SPORT TV5 HD",
+      "MEO: SPORT TV 5 ᴿᴬᵂ",
+      "PT: SPORT TV 5 HD",
+      "SPORT TV 5",
+      "VIP: SPORT TV 5 ᴴᴰ",
+      "VIP: SPORT TV 5 ᴿᴬᵂ"
+    ]
+  },
+  "Sport.TV.6.HD.pt": {
+    "ids": [
+      "SportTV6.pt"
+    ],
+    "names": [
+      "Sport TV 6 HD",
+      "MEO: SPORT TV 6 ᴿᴬᵂ",
+      "PT: SPORT TV 6 HD",
+      "SPORT TV 6"
+    ]
+  },
+  "Sport.TV.7.HD.pt": {
+    "ids": [],
+    "names": [
+      "Sport TV 7 HD",
+      "MEO: SPORT TV 7 ᴿᴬᵂ",
+      "PT: SPORT TV 7 4K",
+      "SPORT TV 7"
+    ]
+  },
+  "SPORT.TV+.HD.pt": {
+    "ids": [
+      "SportTVPlus.pt"
+    ],
+    "names": [
+      "SPORT TV+ HD",
+      "MEO: SPORT TV + ᴿᴬᵂ",
+      "SPORT TV",
+      "VIP: SPORT TV+ ᴴᴰ",
+      "VIP: SPORT TV+ ᴿᴬᵂ",
+      "VO: SPORT TV+ ᴴᴰ"
+    ]
+  },
+  "Fox.pt": {
+    "ids": [
+      "Star.Channel.HD.pt"
+    ],
+    "names": [
+      "Star Channel HD",
+      "FOX",
+      "MEO: STAR CHANNEL ᴿᴬᵂ",
+      "STAR CHANNEL",
+      "VIP: FOX ᴴᴰ",
+      "VO: STAR CHANNEL ᴴᴰ"
+    ]
+  },
+  "FoxComedy.pt": {
+    "ids": [
+      "Star.Comedy.HD.pt",
+      "starcomedy.pt"
+    ],
+    "names": [
+      "Star Comedy HD",
+      "FOX COMEDY",
+      "MEO: STAR COMEDY ᴿᴬᵂ",
+      "STAR COMEDY",
+      "VIP: FOX COMEDY ᴿᴬᵂ",
+      "VO: STAR COMEDY ᴴᴰ"
+    ]
+  },
+  "FoxCrime.pt": {
+    "ids": [
+      "Star.Crime.HD.pt",
+      "starcrime.pt"
+    ],
+    "names": [
+      "Star Crime HD",
+      "FOX CRIME",
+      "MEO: STAR CRIME ᴿᴬᵂ",
+      "STAR CRIME",
+      "VIP: FOX CRIME ᴴᴰ",
+      "VIP: FOX CRIME ᴿᴬᵂ",
+      "VO: STAR CRIME ᴴᴰ"
+    ]
+  },
+  "FoxLife.pt": {
+    "ids": [
+      "Star.Life.HD.pt"
+    ],
+    "names": [
+      "Star Life HD",
+      "FOX LIFE",
+      "MEO: STAR LIFE ᴿᴬᵂ",
+      "STAR LIFE",
+      "VIP: FOX LIFE ᴴᴰ",
+      "VIP: FOX LIFE ᴿᴬᵂ",
+      "VO: STAR LIFE ᴴᴰ"
+    ]
+  },
+  "FoxMovies.pt": {
+    "ids": [
+      "Star.Movies.HD.pt",
+      "starmovies.pt"
+    ],
+    "names": [
+      "Star Movies HD",
+      "FOX MOVIES",
+      "MEO: STAR MOVIES ᴿᴬᵂ",
+      "STAR MOVIES",
+      "VIP: FOX MOVIES ᴿᴬᵂ",
+      "VIP: STAR MOVIES ᴴᴰ",
+      "VO: STAR MOVIES ᴴᴰ"
+    ]
+  },
+  "Stingray.iConcerts.HD.pt": {
+    "ids": [],
+    "names": [
+      "Stingray iConcerts HD",
+      "ICONCERTS",
+      "MEO: STINGRAY ICONCERTS ᴿᴬᵂ",
+      "PT: ICONCERTS HD",
+      "STINGRAY ICONCERTS"
+    ]
+  },
+  "Syfy.HD.pt": {
+    "ids": [
+      "Syfy.pt",
+      "syfy.pt"
+    ],
+    "names": [
+      "Syfy HD",
+      "MEO: SYFY ᴿᴬᵂ",
+      "SYFY",
+      "VO: SYFY ᴴᴰ"
+    ]
+  },
+  "TCV.Internacional.pt": {
+    "ids": [],
+    "names": [
+      "TCV Internacional",
+      "MEO: TCV INTERNACIONAL ᴿᴬᵂ",
+      "TCV NEWS",
+      "VO: TCV NEWS ᴴᴰ"
+    ]
+  },
+  "TeleSUR.pt": {
+    "ids": [],
+    "names": [
+      "TeleSUR",
+      "MEO: TELESUR ᴿᴬᵂ"
+    ]
+  },
+  "Dizi.pt": {
+    "ids": [],
+    "names": [
+      "Dizi",
+      "DIZI CHANNEL",
+      "MEO: DIZI CHANNEL ᴿᴬᵂ",
+      "VO: DIZI ᴴᴰ"
+    ]
+  },
+  "TLC.pt": {
+    "ids": [
+      "tlc.pt"
+    ],
+    "names": [
+      "TLC",
+      "MEO: TLC ᴿᴬᵂ",
+      "VO: TLC ᴴᴰ"
+    ]
+  },
+  "TPA.Notícias.pt": {
+    "ids": [
+      "TpaInternational.pt"
+    ],
+    "names": [
+      "TPA Notícias",
+      "MEO: TPA NOTÍCIAS ᴿᴬᵂ",
+      "TPA",
+      "TPA NOTICIAS",
+      "VO: TPA ᴴᴰ"
+    ]
+  },
+  "Trace.Urban.HD.pt": {
+    "ids": [
+      "TraceUrban.pt"
+    ],
+    "names": [
+      "Trace Urban HD",
+      "MEO: TRACE URBAN ᴿᴬᵂ",
+      "TRACE URBAN",
+      "VO: TRACE URBAN ᴴᴰ"
+    ]
+  },
+  "TV5.Monde.pt": {
+    "ids": [],
+    "names": [
+      "TV5 Monde",
+      "MEO: TV5 MONDE ᴿᴬᵂ",
+      "VO: TV5 MONDE ᴴᴰ"
+    ]
+  },
+  "CancaoNova.pt": {
+    "ids": [
+      "Canção.Nova.pt",
+      "cancaonova.pt"
+    ],
+    "names": [
+      "Canção Nova",
+      "CANCAO NOVA",
+      "MEO: CANÇÃO NOVA ᴿᴬᵂ",
+      "VO: CANCAO NOVA ᴴᴰ"
+    ]
+  },
+  "TVCine.ACTION.HD.pt": {
+    "ids": [
+      "tvcineaction.pt"
+    ],
+    "names": [
+      "TVCine ACTION HD",
+      "MEO: TVCINE ACTION ᴿᴬᵂ",
+      "PT: TVCINE ACTION HD",
+      "TVCINE ACTION",
+      "VO: TVCINE ACTION ᴴᴰ"
+    ]
+  },
+  "TVCine.EDITION.HD.pt": {
+    "ids": [
+      "tvcineedition.pt"
+    ],
+    "names": [
+      "TVCine EDITION HD",
+      "MEO: TVCINE EDITION ᴿᴬᵂ",
+      "PT: TVCINE EDITION HD",
+      "TVCINE EDITION",
+      "VO: TVCINE EDITION ᴴᴰ"
+    ]
+  },
+  "TVCine.EMOTION.HD.pt": {
+    "ids": [
+      "tvcineemotion.pt"
+    ],
+    "names": [
+      "TVCine EMOTION HD",
+      "MEO: TVCINE EMOTION ᴿᴬᵂ",
+      "PT: TVCINE EMOTION HD",
+      "TVCINE EMOTION",
+      "VO: TVCINE EMOTION ᴴᴰ"
+    ]
+  },
+  "TVCine.TOP.HD.pt": {
+    "ids": [
+      "tvcinetop.pt"
+    ],
+    "names": [
+      "TVCine TOP HD",
+      "MEO: TVCINE TOP ᴿᴬᵂ",
+      "PT: TVCINE TOP HD",
+      "TVCINE TOP",
+      "VO: TVCINE TOP ᴴᴰ"
+    ]
+  },
+  "TVEi.pt": {
+    "ids": [],
+    "names": [
+      "TVEi",
+      "MEO: TVEI ᴿᴬᵂ",
+      "VO: TVEI ᴴᴰ"
+    ]
+  },
+  "TVI.HD.pt": {
+    "ids": [
+      "Tvi.pt",
+      "tvi.pt"
+    ],
+    "names": [
+      "TVI HD",
+      "MEO: TVI ᴿᴬᵂ",
+      "TVI",
+      "VO: TVI ᴴᴰ"
+    ]
+  },
+  "TVI.Reality.HD.pt": {
+    "ids": [
+      "TviReality.pt",
+      "tvireality.pt"
+    ],
+    "names": [
+      "TVI Reality HD",
+      "MEO: TVI REALITY ᴿᴬᵂ",
+      "PT: TVI REALITY 24",
+      "TVI REALITY",
+      "TVI REALITY 24",
+      "VO: TVI REALITY ᴴᴰ"
+    ]
+  },
+  "Unifé.TV.pt": {
+    "ids": [],
+    "names": [
+      "Unifé TV",
+      "MEO: UNIFÉ TV ᴿᴬᵂ",
+      "UNIFE TV"
+    ]
+  },
+  "VinTV.pt": {
+    "ids": [],
+    "names": [
+      "VinTV",
+      "BIGGS",
+      "VO: BIGGS ᴴᴰ"
+    ]
+  },
+  "Azores.TV.pt": {
+    "ids": [],
+    "names": [
+      "Azores TV",
+      "MEO: AZORES TV ᴿᴬᵂ"
+    ]
+  },
+  "V+TVI.pt": {
+    "ids": [],
+    "names": [
+      "V+TVI",
+      "MEO: V+ TVI ᴿᴬᵂ",
+      "PT: V+ TVI",
+      "PT: V+ TVI HD",
+      "V TVI",
+      "VO: V+ TVI ᴴᴰ"
+    ]
+  },
+  "W-Sport.pt": {
+    "ids": [],
+    "names": [
+      "W-Sport",
+      "MEO: W SPORT ᴿᴬᵂ",
+      "W SPORT"
+    ]
+  },
+  "canalnoshd.pt": {
+    "ids": [],
+    "names": [
+      "Canal NOS HD"
+    ]
+  },
+  "DW.pt": {
+    "ids": [],
+    "names": [
+      "DW",
+      "DW NEWS",
+      "VO: DW NEWS ᴴᴰ"
+    ]
+  },
+  "E!.Entertainment.HD.pt": {
+    "ids": [
+      "EEntertainment.pt"
+    ],
+    "names": [
+      "E! Entertainment HD",
+      "E",
+      "E ENTERTAINMENT",
+      "MEO: E! ENTERTAINMENT ᴿᴬᵂ",
+      "VO: E! ᴴᴰ"
+    ]
+  },
+  "Fight.Network.HD.pt": {
+    "ids": [],
+    "names": [
+      "Fight Network HD",
+      "FIGHT NETWORK",
+      "VIP: FIGHT NETWORK ᴴᴰ",
+      "VO: FIGHT NETWORK ᴴᴰ"
+    ]
+  },
+  "Food.Network.HD.pt": {
+    "ids": [
+      "FoodNetwork.pt",
+      "foodnetwork.pt"
+    ],
+    "names": [
+      "Food Network HD",
+      "FOOD",
+      "VO: FOOD ᴴᴰ"
+    ]
+  },
+  "Fuel.TV.HD.pt": {
+    "ids": [
+      "FuelTV.pt",
+      "fueltv.pt"
+    ],
+    "names": [
+      "Fuel TV HD",
+      "FUEL TV",
+      "VO: FUEL TV ᴴᴰ"
+    ]
+  },
+  "Motorvision.HD.pt": {
+    "ids": [],
+    "names": [
+      "Motorvision HD",
+      "MOTORVISION",
+      "PT: MOTORVISION",
+      "VIP: MOTORVISION ᴴᴰ"
+    ]
+  },
+  "MTV.Portugal.HD.pt": {
+    "ids": [
+      "MTV.pt",
+      "mtv.pt"
+    ],
+    "names": [
+      "MTV Portugal HD",
+      "MEO: MTV PORTUGAL ᴿᴬᵂ",
+      "MTV PORTUGAL",
+      "VO: MTV ᴴᴰ"
+    ]
+  },
+  "Nautical.Channel.pt": {
+    "ids": [],
+    "names": [
+      "Nautical Channel",
+      "NAUTICAL",
+      "VO: NAUTICAL ᴴᴰ"
+    ]
+  },
+  "NosStudios.pt": {
+    "ids": [
+      "nostudios.pt"
+    ],
+    "names": [
+      "NOS Studios HD"
+    ]
+  },
+  "RTL.pt": {
+    "ids": [],
+    "names": [
+      "RTL",
+      "VO: RTL ᴴᴰ"
+    ]
+  },
+  "Trace.Brasil.pt": {
+    "ids": [],
+    "names": [
+      "Trace Brasil",
+      "MEO: TRACE BRASIL ᴿᴬᵂ"
+    ]
+  },
+  "Trace.Toca.pt": {
+    "ids": [
+      "tracetoca.pt"
+    ],
+    "names": [
+      "Trace Toca",
+      "MEO: TRACE TOCA ᴿᴬᵂ",
+      "PT: TRACE TOCA",
+      "VO: TRACE TOCA ᴴᴰ"
+    ]
+  },
+  "Travel.Channel.HD.pt": {
+    "ids": [
+      "travelchannel.pt"
+    ],
+    "names": [
+      "Travel Channel HD",
+      "PT: TRAVEL CHANEL",
+      "PT: TRAVEL CHANNEL HD",
+      "TRAVEL CHANEL",
+      "TRAVEL CHANNEL",
+      "VO: TRAVEL CHANNEL ᴴᴰ"
+    ]
+  },
+  "ZAP.Viva.HD.pt": {
+    "ids": [],
+    "names": [
+      "ZAP Viva HD",
+      "PT: ZAP VIVA HD",
+      "VIVA",
+      "VO: VIVA ᴴᴰ",
+      "ZAP VIVA"
+    ]
+  },
+  "RTPInternacional.pt": {
+    "ids": [],
+    "names": [
+      "RTP Internacional"
+    ]
+  },
+  "tviinternacional.pt": {
+    "ids": [],
+    "names": [
+      "TVI Internacional"
+    ]
+  },
+  "SIC.Alta.Definição.pt": {
+    "ids": [],
+    "names": [
+      "SIC Alta Definição",
+      "PT: SIC Alta Defincao HD",
+      "SIC ALTA DEFINCAO"
+    ]
+  },
+  "SIC.Replay.pt": {
+    "ids": [],
+    "names": [
+      "SIC Replay",
+      "PT: SIC Replay HD"
+    ]
+  },
+  "SIC.Internacional.pt": {
+    "ids": [],
+    "names": [
+      "SIC Internacional",
+      "PT: SIC INTERNATIONAL",
+      "SIC INTERNATIONAL"
+    ]
+  }
+}

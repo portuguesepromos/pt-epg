@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="meo.pt" site_id="1E1UNEW" lang="pt" xmltv_id="1Plus1UnitedNews.ua">1+1 United News</channel>
+  <channel site="meo.pt" site_id="1E1INT" lang="pt" xmltv_id="1Plus1International.ua">1+1 International</channel>
+  <channel site="nostv.pt" site_id="24" lang="en" xmltv_id="1Plus1International.ua">1+1</channel>
+  <channel site="meo.pt" site_id="TVE24HD" lang="pt" xmltv_id="TVE.24h.pt">TVE24</channel>
+  <channel site="nostv.pt" site_id="172" lang="pt" xmltv_id="TVE.24h.pt">TVE 24h</channel>
+  <channel site="vodafone.pt" site_id="2749" lang="pt" xmltv_id="TVE.24h.pt">TVE 24h</channel>
+  <channel site="meo.pt" site_id="24KTHD" lang="pt" xmltv_id="24Kitchen.HD.pt">24Kitchen</channel>
+  <channel site="nostv.pt" site_id="243" lang="pt" xmltv_id="24Kitchen.HD.pt">24Kitchen</channel>
+  <channel site="vodafone.pt" site_id="2844" lang="pt" xmltv_id="24Kitchen.HD.pt">24Kitchen</channel>
+  <channel site="meo.pt" site_id="3SAT" lang="pt" xmltv_id="3sat.de">3SAT</channel>
+  <channel site="meo.pt" site_id="ABOLA" lang="pt" xmltv_id="A.Bola.TV.HD.pt">A Bola</channel>
+  <channel site="nostv.pt" site_id="719" lang="pt" xmltv_id="A.Bola.TV.HD.pt">A Bola TV</channel>
+  <channel site="vodafone.pt" site_id="5583" lang="pt" xmltv_id="A.Bola.TV.HD.pt">A Bola TV</channel>
+  <channel site="meo.pt" site_id="AFRO" lang="pt" xmltv_id="Afro.Music.Channel.pt">Afro Music</channel>
+  <channel site="nostv.pt" site_id="272" lang="pt" xmltv_id="Afro.Music.Channel.pt">Afro Music Channel</channel>
+  <channel site="vodafone.pt" site_id="8606" lang="pt" xmltv_id="Afro.Music.Channel.pt">Afro Music Channel</channel>
+  <channel site="meo.pt" site_id="ALJAZHD" lang="pt" xmltv_id="Al.Jazeera.pt">Aljazeera</channel>
+  <channel site="nostv.pt" site_id="108" lang="en" xmltv_id="Al.Jazeera.pt">Al Jazeera</channel>
+  <channel site="meo.pt" site_id="ALMALUS" lang="pt" xmltv_id="AlmaLusa.pt">Alma Lusa</channel>
+  <channel site="meo.pt" site_id="AMCBRE" lang="pt" xmltv_id="AMC.Break.HD.pt">AMC Break</channel>
+  <channel site="nostv.pt" site_id="509" lang="pt" xmltv_id="AMC.Break.HD.pt">AMC Break</channel>
+  <channel site="vodafone.pt" site_id="3017" lang="pt" xmltv_id="AMC.Break.HD.pt">AMC BREAK</channel>
+  <channel site="meo.pt" site_id="AMCCRI" lang="pt" xmltv_id="AMC.Crime.HD.pt">AMC Crime</channel>
+  <channel site="nostv.pt" site_id="545" lang="pt" xmltv_id="AMC.Crime.HD.pt">AMC Crime</channel>
+  <channel site="vodafone.pt" site_id="8426" lang="pt" xmltv_id="AMC.Crime.HD.pt">AMC Crime</channel>
+  <channel site="meo.pt" site_id="AMCHD" lang="pt" xmltv_id="AMC.HD.pt">AMC</channel>
+  <channel site="nostv.pt" site_id="415" lang="pt" xmltv_id="AMC.HD.pt">AMC</channel>
+  <channel site="vodafone.pt" site_id="2996" lang="pt" xmltv_id="AMC.HD.pt">AMC</channel>
+  <channel site="meo.pt" site_id="ARIRANG" lang="pt" xmltv_id="ArirangTV.kr">Arirang TV</channel>
+  <channel site="vodafone.pt" site_id="3019" lang="pt" xmltv_id="ArirangTV.kr">Arirang TV</channel>
+  <channel site="meo.pt" site_id="ARTEHD" lang="pt" xmltv_id="arte.fr">Arte</channel>
+  <channel site="nostv.pt" site_id="41" lang="fr" xmltv_id="arte.fr">ARTE (Français)</channel>
+  <channel site="meo.pt" site_id="ARTV" lang="pt" xmltv_id="ARTV.pt">ARTV</channel>
+  <channel site="nostv.pt" site_id="49" lang="pt" xmltv_id="ARTV.pt">ARTV</channel>
+  <channel site="vodafone.pt" site_id="2736" lang="pt" xmltv_id="ARTV.pt">ARTV</channel>
+  <channel site="meo.pt" site_id="AXNHD" lang="pt" xmltv_id="AXN.HD.pt">AXN</channel>
+  <channel site="nostv.pt" site_id="161" lang="pt" xmltv_id="AXN.HD.pt">AXN</channel>
+  <channel site="vodafone.pt" site_id="2713" lang="pt" xmltv_id="AXN.HD.pt">AXN</channel>
+  <channel site="meo.pt" site_id="AXNMHD" lang="pt" xmltv_id="AXN.Movies.HD.pt">AXN Movies</channel>
+  <channel site="nostv.pt" site_id="194" lang="pt" xmltv_id="AXN.Movies.HD.pt">AXN Movies</channel>
+  <channel site="vodafone.pt" site_id="2700" lang="pt" xmltv_id="AXN.Movies.HD.pt">AXN Movies</channel>
+  <channel site="meo.pt" site_id="AXWHD" lang="pt" xmltv_id="AXN.White.HD.pt">AXN White</channel>
+  <channel site="nostv.pt" site_id="75" lang="pt" xmltv_id="AXN.White.HD.pt">AXN White</channel>
+  <channel site="vodafone.pt" site_id="2833" lang="pt" xmltv_id="AXN.White.HD.pt">AXN White</channel>
+  <channel site="meo.pt" site_id="BABYT" lang="pt" xmltv_id="Baby.TV.pt">Baby TV</channel>
+  <channel site="nostv.pt" site_id="448" lang="pt" xmltv_id="Baby.TV.pt">Baby TV</channel>
+  <channel site="vodafone.pt" site_id="8781" lang="pt" xmltv_id="Baby.TV.pt">BabyTV</channel>
+  <channel site="meo.pt" site_id="BBC W" lang="pt" xmltv_id="BBCNews.uk">BBC World News</channel>
+  <channel site="meo.pt" site_id="SLBHD" lang="pt" xmltv_id="BTV1.HD.pt">BTV</channel>
+  <channel site="nostv.pt" site_id="245" lang="pt" xmltv_id="BTV1.HD.pt">BTV</channel>
+  <channel site="vodafone.pt" site_id="3405" lang="pt" xmltv_id="BTV1.HD.pt">BTV</channel>
+  <channel site="meo.pt" site_id="BFMB" lang="pt" xmltv_id="BFMBusiness.fr">BFM Business</channel>
+  <channel site="meo.pt" site_id="BFM" lang="pt" xmltv_id="BFMTV.fr">BFM TV</channel>
+  <channel site="meo.pt" site_id="BLOOM" lang="pt" xmltv_id="Bloomberg.pt">Bloomberg</channel>
+  <channel site="nostv.pt" site_id="44" lang="en" xmltv_id="Bloomberg.pt">Bloomberg</channel>
+  <channel site="vodafone.pt" site_id="2760" lang="pt" xmltv_id="Bloomberg.pt">Bloomberg</channel>
+  <channel site="meo.pt" site_id="BNT4" lang="pt" xmltv_id="BNT4.bg">BNT 4</channel>
+  <channel site="meo.pt" site_id="BOMSOM" lang="pt" xmltv_id="BomSomTV.pt">BomSom TV</channel>
+  <channel site="meo.pt" site_id="BVN" lang="pt" xmltv_id="BVN.pt">BVN</channel>
+  <channel site="nostv.pt" site_id="28" lang="nl" xmltv_id="BVN.pt">BVN</channel>
+  <channel site="meo.pt" site_id="CAÇAPHD" lang="pt" xmltv_id="CacaEPesca.pt">Caça e Pesca</channel>
+  <channel site="nostv.pt" site_id="129" lang="pt" xmltv_id="CacaEPesca.pt">Caça e Pesca</channel>
+  <channel site="vodafone.pt" site_id="2857" lang="pt" xmltv_id="CacaEPesca.pt">Caça e Pesca</channel>
+  <channel site="meo.pt" site_id="C11" lang="pt" xmltv_id="Canal.11.HD.pt">Canal 11</channel>
+  <channel site="nostv.pt" site_id="565" lang="pt" xmltv_id="Canal.11.HD.pt">Canal 11</channel>
+  <channel site="vodafone.pt" site_id="5585" lang="pt" xmltv_id="Canal.11.HD.pt">Canal 11</channel>
+  <channel site="meo.pt" site_id="C180" lang="pt" xmltv_id="Canal.180.pt">CANAL 180</channel>
+  <channel site="nostv.pt" site_id="58" lang="pt" xmltv_id="Canal.180.pt">Canal 180</channel>
+  <channel site="vodafone.pt" site_id="2815" lang="pt" xmltv_id="Canal.180.pt">Canal 180</channel>
+  <channel site="meo.pt" site_id="HOLHD" lang="pt" xmltv_id="Canal.Hollywood.HD.pt">Hollywood</channel>
+  <channel site="nostv.pt" site_id="14" lang="pt" xmltv_id="Canal.Hollywood.HD.pt">Canal Hollywood</channel>
+  <channel site="vodafone.pt" site_id="3026" lang="pt" xmltv_id="Canal.Hollywood.HD.pt">Canal Hollywood</channel>
+  <channel site="meo.pt" site_id="PANDA" lang="pt" xmltv_id="Canal.Panda.HD.pt">Panda</channel>
+  <channel site="nostv.pt" site_id="593" lang="pt" xmltv_id="Canal.Panda.HD.pt">Canal Panda</channel>
+  <channel site="vodafone.pt" site_id="7185" lang="pt" xmltv_id="Canal.Panda.HD.pt">Canal Panda</channel>
+  <channel site="meo.pt" site_id="QHD" lang="pt" xmltv_id="Canal.Q.pt">Canal Q</channel>
+  <channel site="nostv.pt" site_id="235" lang="pt" xmltv_id="Canal.Q.pt">Canal Q</channel>
+  <channel site="vodafone.pt" site_id="2902" lang="pt" xmltv_id="Canal.Q.pt">Canal Q</channel>
+  <channel site="meo.pt" site_id="UME" lang="pt" xmltv_id="CanalUmEuropa.pt">UM Europa</channel>
+  <channel site="meo.pt" site_id="CNITO" lang="pt" xmltv_id="Cartoonito.pt">Cartoonito</channel>
+  <channel site="nostv.pt" site_id="713" lang="pt" xmltv_id="Cartoonito.pt">Cartoonito</channel>
+  <channel site="vodafone.pt" site_id="8005" lang="pt" xmltv_id="Cartoonito.pt">Cartoonito</channel>
+  <channel site="meo.pt" site_id="CART" lang="pt" xmltv_id="Cartoon.Network.HD.pt">Cartoon Network</channel>
+  <channel site="nostv.pt" site_id="252" lang="pt" xmltv_id="Cartoon.Network.HD.pt">Cartoon Network</channel>
+  <channel site="vodafone.pt" site_id="8006" lang="pt" xmltv_id="Cartoon.Network.HD.pt">Cartoon Network</channel>
+  <channel site="meo.pt" site_id="CASACOZ" lang="pt" xmltv_id="Casa.e.Cozinha.HD.pt">Casa e Cozinha</channel>
+  <channel site="nostv.pt" site_id="572" lang="pt" xmltv_id="Casa.e.Cozinha.HD.pt">Casa e Cozinha</channel>
+  <channel site="vodafone.pt" site_id="7090" lang="pt" xmltv_id="Casa.e.Cozinha.HD.pt">Casa e Cozinha</channel>
+  <channel site="meo.pt" site_id="CAÇAVHD" lang="pt" xmltv_id="Cazavision.es">Caçavision</channel>
+  <channel site="vodafone.pt" site_id="4861" lang="pt" xmltv_id="Cazavision.es">Caçavision</channel>
+  <channel site="meo.pt" site_id="CCTV4HD" lang="pt" xmltv_id="CCTV.4.pt">CCTV4</channel>
+  <channel site="nostv.pt" site_id="316" lang="en" xmltv_id="CCTV.4.pt">CCTV 4</channel>
+  <channel site="meo.pt" site_id="CGTNHD" lang="pt" xmltv_id="CGTN.pt">CGTN</channel>
+  <channel site="nostv.pt" site_id="312" lang="en" xmltv_id="CGTN.pt">CGTN</channel>
+  <channel site="meo.pt" site_id="CGTNDHD" lang="pt" xmltv_id="CGTNDocumentary.cn">CGTN Documentary</channel>
+  <channel site="meo.pt" site_id="CINEHD" lang="pt" xmltv_id="Cinemundo.pt">Cinemundo</channel>
+  <channel site="vodafone.pt" site_id="3027" lang="pt" xmltv_id="Cinemundo.pt">Cinemundo</channel>
+  <channel site="meo.pt" site_id="CMTV" lang="pt" xmltv_id="CMTV.HD.pt">CMTV</channel>
+  <channel site="nostv.pt" site_id="425" lang="pt" xmltv_id="CMTV.HD.pt">CMTV</channel>
+  <channel site="vodafone.pt" site_id="3414" lang="pt" xmltv_id="CMTV.HD.pt">CMTV</channel>
+  <channel site="meo.pt" site_id="CNBC" lang="pt" xmltv_id="CNBC.pt">CNBC</channel>
+  <channel site="nostv.pt" site_id="52" lang="en" xmltv_id="CNBC.pt">CNBC</channel>
+  <channel site="vodafone.pt" site_id="2750" lang="pt" xmltv_id="CNBC.pt">CNBC Europe</channel>
+  <channel site="meo.pt" site_id="CNN" lang="pt" xmltv_id="CNN.pt">CNN</channel>
+  <channel site="nostv.pt" site_id="26" lang="en" xmltv_id="CNN.pt">CNN</channel>
+  <channel site="meo.pt" site_id="CNNPT" lang="pt" xmltv_id="CNN.Portugal.HD.pt">CNN Portugal</channel>
+  <channel site="nostv.pt" site_id="557" lang="pt" xmltv_id="CNN.Portugal.HD.pt">CNN Portugal</channel>
+  <channel site="vodafone.pt" site_id="5678" lang="pt" xmltv_id="CNN.Portugal.HD.pt">CNN Portugal</channel>
+  <channel site="tvi.iol.pt" site_id="cnn" lang="pt" xmltv_id="CNN.Portugal.HD.pt">CNN Portugal</channel>
+  <channel site="meo.pt" site_id="CONECTV" lang="pt" xmltv_id="ConecTVAlgarve.pt">Conectv</channel>
+  <channel site="meo.pt" site_id="CONTALA" lang="pt" xmltv_id="Conta.Lá.pt">Conta Lá</channel>
+  <channel site="nostv.pt" site_id="721" lang="pt" xmltv_id="Conta.Lá.pt">Conta Lá</channel>
+  <channel site="vodafone.pt" site_id="8933" lang="pt" xmltv_id="Conta.Lá.pt">Conta Lá</channel>
+  <channel site="meo.pt" site_id="CUBAV" lang="pt" xmltv_id="Cubavisión.Internacional.pt">Cubavision</channel>
+  <channel site="nostv.pt" site_id="121" lang="pt" xmltv_id="Cubavisión.Internacional.pt">Cubavisión Internacional</channel>
+  <channel site="vodafone.pt" site_id="2785" lang="pt" xmltv_id="Cubavisión.Internacional.pt">Cubavisión</channel>
+  <channel site="meo.pt" site_id="ARD" lang="pt" xmltv_id="DasErste.de">ARD</channel>
+  <channel site="meo.pt" site_id="DAYSTAI" lang="pt" xmltv_id="DaystarTV.us">Daystar (I)</channel>
+  <channel site="nostv.pt" site_id="718" lang="pt" xmltv_id="DaystarTV.us">Daystar</channel>
+  <channel site="vodafone.pt" site_id="8975" lang="pt" xmltv_id="DaystarTV.us">DayStar TV</channel>
+  <channel site="meo.pt" site_id="DAYSTAE" lang="pt" xmltv_id="DaystarTVEspanol.us">Daystar (E)</channel>
+  <channel site="nostv.pt" site_id="717" lang="pt" xmltv_id="DaystarTVEspanol.us">Daystar Español</channel>
+  <channel site="vodafone.pt" site_id="8976" lang="pt" xmltv_id="DaystarTVEspanol.us">DayStar Español</channel>
+  <channel site="meo.pt" site_id="DAZN1" lang="pt" xmltv_id="DAZN.1.pt">DAZN 1</channel>
+  <channel site="vodafone.pt" site_id="8829" lang="pt" xmltv_id="DAZN.1.pt">DAZN 1</channel>
+  <channel site="meo.pt" site_id="DAZN2" lang="pt" xmltv_id="DAZN.2.pt">DAZN 2</channel>
+  <channel site="vodafone.pt" site_id="8830" lang="pt" xmltv_id="DAZN.2.pt">DAZN 2</channel>
+  <channel site="meo.pt" site_id="DAZN3" lang="pt" xmltv_id="DAZN.3.pt">DAZN 3</channel>
+  <channel site="vodafone.pt" site_id="8831" lang="pt" xmltv_id="DAZN.3.pt">DAZN 3</channel>
+  <channel site="meo.pt" site_id="DAZN4" lang="pt" xmltv_id="DAZN.4.pt">DAZN 4</channel>
+  <channel site="vodafone.pt" site_id="8832" lang="pt" xmltv_id="DAZN.4.pt">DAZN 4</channel>
+  <channel site="meo.pt" site_id="DAZN5" lang="pt" xmltv_id="DAZN.5.pt">DAZN 5</channel>
+  <channel site="vodafone.pt" site_id="8833" lang="pt" xmltv_id="DAZN.5.pt">DAZN 5</channel>
+  <channel site="meo.pt" site_id="DISCVHD" lang="pt" xmltv_id="Discovery.HD.pt">Discovery Channel</channel>
+  <channel site="nostv.pt" site_id="561" lang="pt" xmltv_id="Discovery.HD.pt">Discovery</channel>
+  <channel site="vodafone.pt" site_id="2914" lang="pt" xmltv_id="Discovery.HD.pt">Discovery Channel</channel>
+  <channel site="meo.pt" site_id="DISNY" lang="pt" xmltv_id="Disney.Channel.HD.pt">Disney Channel</channel>
+  <channel site="nostv.pt" site_id="594" lang="pt" xmltv_id="Disney.Channel.HD.pt">Disney Channel</channel>
+  <channel site="vodafone.pt" site_id="8897" lang="pt" xmltv_id="Disney.Channel.HD.pt">Disney Channel</channel>
+  <channel site="meo.pt" site_id="DISNYJ" lang="pt" xmltv_id="Disney.Junior.HD.pt">Disney Junior</channel>
+  <channel site="nostv.pt" site_id="673" lang="pt" xmltv_id="Disney.Junior.HD.pt">Disney Junior</channel>
+  <channel site="vodafone.pt" site_id="7522" lang="pt" xmltv_id="Disney.Junior.HD.pt">Disney Jr.</channel>
+  <channel site="meo.pt" site_id="DOGTVHD" lang="pt" xmltv_id="DOGTV.pt">Dog TV</channel>
+  <channel site="nostv.pt" site_id="371" lang="pt" xmltv_id="DOGTV.pt">DOGTV</channel>
+  <channel site="vodafone.pt" site_id="2883" lang="pt" xmltv_id="DOGTV.pt">DOGTV</channel>
+  <channel site="meo.pt" site_id="Dorcel" lang="pt" xmltv_id="DorcelTV.nl">Dorcel TV</channel>
+  <channel site="meo.pt" site_id="DUCKTV" lang="pt" xmltv_id="DuckTV.tv">Duck TV</channel>
+  <channel site="meo.pt" site_id="EURNIHD" lang="pt" xmltv_id="EuronewsEnglish.fr">Euronews (I)</channel>
+  <channel site="vodafone.pt" site_id="2998" lang="pt" xmltv_id="EuronewsEnglish.fr">Euronews English</channel>
+  <channel site="meo.pt" site_id="EURNA" lang="en" xmltv_id="EuronewsGerman.fr">Euronews (A)</channel>
+  <channel site="meo.pt" site_id="EURN" lang="pt" xmltv_id="Euronews.pt">Euronews</channel>
+  <channel site="nostv.pt" site_id="25" lang="pt" xmltv_id="Euronews.pt">Euronews</channel>
+  <channel site="meo.pt" site_id="EURHD" lang="pt" xmltv_id="Eurosport.1.HD.pt">Eurosport 1</channel>
+  <channel site="nostv.pt" site_id="145" lang="pt" xmltv_id="Eurosport.1.HD.pt">Eurosport 1</channel>
+  <channel site="vodafone.pt" site_id="2675" lang="pt" xmltv_id="Eurosport.1.HD.pt">Eurosport 1</channel>
+  <channel site="meo.pt" site_id="EURS2HD" lang="pt" xmltv_id="Eurosport.2.HD.pt">Eurosport 2</channel>
+  <channel site="nostv.pt" site_id="563" lang="pt" xmltv_id="Eurosport.2.HD.pt">Eurosport 2</channel>
+  <channel site="vodafone.pt" site_id="5043" lang="pt" xmltv_id="Eurosport.2.HD.pt">Eurosport 2</channel>
+  <channel site="meo.pt" site_id="FTVHD" lang="pt" xmltv_id="FashionTVEurope.fr">Fashion TV</channel>
+  <channel site="vodafone.pt" site_id="2706" lang="pt" xmltv_id="FashionTVEurope.fr">FashionTV</channel>
+  <channel site="meo.pt" site_id="FIGHTSP" lang="pt" xmltv_id="FightSports.us">Fight Sports</channel>
+  <channel site="meo.pt" site_id="FILMUADR" lang="pt" xmltv_id="FilmuDrama.pt">FILMUADRAMA</channel>
+  <channel site="meo.pt" site_id="FR2HD" lang="pt" xmltv_id="France2.fr">France 2</channel>
+  <channel site="meo.pt" site_id="FR24F" lang="pt" xmltv_id="France.24.(F).pt">France 24 (F)</channel>
+  <channel site="nostv.pt" site_id="132" lang="fr" xmltv_id="France.24.(F).pt">France 24 (F)</channel>
+  <channel site="vodafone.pt" site_id="2770" lang="pt" xmltv_id="France.24.(F).pt">France 24 FR</channel>
+  <channel site="meo.pt" site_id="FR24I" lang="en" xmltv_id="France.24.(I).pt">France 24 (I)</channel>
+  <channel site="nostv.pt" site_id="109" lang="en" xmltv_id="France.24.(I).pt">France 24 (I)</channel>
+  <channel site="vodafone.pt" site_id="2769" lang="pt" xmltv_id="France.24.(I).pt">France 24 English</channel>
+  <channel site="meo.pt" site_id="FR3HD" lang="pt" xmltv_id="France3.fr.National">France 3</channel>
+  <channel site="meo.pt" site_id="FR4HD" lang="pt" xmltv_id="France4.fr">France 4</channel>
+  <channel site="meo.pt" site_id="FR5HD" lang="pt" xmltv_id="France5.fr">France 5</channel>
+  <channel site="meo.pt" site_id="FRINFO" lang="pt" xmltv_id="Franceinfo.fr">France Info</channel>
+  <channel site="meo.pt" site_id="FREEDOM" lang="pt" xmltv_id="FREEDOM.ua">Freedom</channel>
+  <channel site="vodafone.pt" site_id="5610" lang="pt" xmltv_id="FREEDOM.ua">Freedom</channel>
+  <channel site="meo.pt" site_id="GALERIA" lang="pt" xmltv_id="Galeria.pt">Galeria</channel>
+  <channel site="meo.pt" site_id="TVGAL" lang="pt" xmltv_id="TV.Galicia.pt">TV Galícia</channel>
+  <channel site="nostv.pt" site_id="54" lang="pt" xmltv_id="TV.Galicia.pt">TV Galicia</channel>
+  <channel site="vodafone.pt" site_id="2710" lang="pt" xmltv_id="TV.Galicia.pt">TV Galicia</channel>
+  <channel site="meo.pt" site_id="GAMET" lang="pt" xmltv_id="Gametoon.nl">Gametoon</channel>
+  <channel site="vodafone.pt" site_id="7075" lang="pt" xmltv_id="Gametoon.nl">Gametoon</channel>
+  <channel site="meo.pt" site_id="HGTV" lang="pt" xmltv_id="HGTV.pt">Home &amp; Garden TV</channel>
+  <channel site="nostv.pt" site_id="710" lang="pt" xmltv_id="HGTV.pt">HGTV</channel>
+  <channel site="vodafone.pt" site_id="8775" lang="pt" xmltv_id="HGTV.pt">HGTV</channel>
+  <channel site="meo.pt" site_id="HISTHD" lang="pt" xmltv_id="Canal.História.HD.pt">História</channel>
+  <channel site="nostv.pt" site_id="544" lang="pt" xmltv_id="Canal.História.HD.pt">Canal História</channel>
+  <channel site="vodafone.pt" site_id="8783" lang="pt" xmltv_id="Canal.História.HD.pt">Canal História</channel>
+  <channel site="meo.pt" site_id="HOTHD" lang="pt" xmltv_id="HOT.pt">HOT</channel>
+  <channel site="meo.pt" site_id="HOTGO" lang="pt" xmltv_id="HotGo.pt">HOTGO</channel>
+  <channel site="meo.pt" site_id="HOTMAN" lang="pt" xmltv_id="HOTMan.pt">HOT Man</channel>
+  <channel site="meo.pt" site_id="HOTTAB" lang="pt" xmltv_id="HOTTaboo.pt">HOT Taboo</channel>
+  <channel site="meo.pt" site_id="HUSTLER" lang="pt" xmltv_id="HustlerHD.nl">Hustler</channel>
+  <channel site="meo.pt" site_id="I24I" lang="pt" xmltv_id="i24NEWSEnglishWorld.il">i24 News (I)</channel>
+  <channel site="meo.pt" site_id="I24F" lang="pt" xmltv_id="i24NEWSFrench.il">i24 News (F)</channel>
+  <channel site="meo.pt" site_id="ID" lang="pt" xmltv_id="ID.Investigation.Discovery.pt">Investigation Discovery</channel>
+  <channel site="nostv.pt" site_id="530" lang="pt" xmltv_id="ID.Investigation.Discovery.pt">ID Investigation Discovery</channel>
+  <channel site="vodafone.pt" site_id="8776" lang="pt" xmltv_id="ID.Investigation.Discovery.pt">ID - Investigation Discovery</channel>
+  <channel site="meo.pt" site_id="KANUCA" lang="pt" xmltv_id="KanucaTV.ao">Kanuca TV</channel>
+  <channel site="meo.pt" site_id="KBS" lang="en" xmltv_id="KBS.World.HD.pt">KBS World</channel>
+  <channel site="nostv.pt" site_id="234" lang="en" xmltv_id="KBS.World.HD.pt">KBS World</channel>
+  <channel site="vodafone.pt" site_id="2897" lang="pt" xmltv_id="KBS.World.HD.pt">KBS World</channel>
+  <channel site="meo.pt" site_id="KIKA" lang="pt" xmltv_id="KiKA.de">KIKA</channel>
+  <channel site="meo.pt" site_id="KURIAKO" lang="pt" xmltv_id="Kuriakos.TV.pt">Kuriakos TV</channel>
+  <channel site="nostv.pt" site_id="426" lang="pt" xmltv_id="Kuriakos.TV.pt">Kuriakos TV</channel>
+  <channel site="vodafone.pt" site_id="2927" lang="pt" xmltv_id="Kuriakos.TV.pt">Kuriakos TV</channel>
+  <channel site="meo.pt" site_id="KVARTV" lang="pt" xmltv_id="KvartalTV.ua">Kvartal TV International</channel>
+  <channel site="meo.pt" site_id="LVTVHD" lang="pt" xmltv_id="LocalvisaoTV.pt">Localvisão TV</channel>
+  <channel site="nostv.pt" site_id="229" lang="pt" xmltv_id="LocalvisaoTV.pt">Localvisão TV</channel>
+  <channel site="vodafone.pt" site_id="2843" lang="pt" xmltv_id="LocalvisaoTV.pt">Localvisão TV</channel>
+  <channel site="meo.pt" site_id="LOLLY" lang="pt" xmltv_id="LollyKids.uk">Lolly Kids</channel>
+  <channel site="meo.pt" site_id="M6" lang="pt" xmltv_id="M6.pt">M6</channel>
+  <channel site="nostv.pt" site_id="37" lang="fr" xmltv_id="M6.pt">M6</channel>
+  <channel site="vodafone.pt" site_id="2856" lang="pt" xmltv_id="M6.pt">M6</channel>
+  <channel site="meo.pt" site_id="MCM P" lang="pt" xmltv_id="MCM.Pop.pt">MCM Pop</channel>
+  <channel site="nostv.pt" site_id="368" lang="pt" xmltv_id="MCM.Pop.pt">MCM Pop</channel>
+  <channel site="vodafone.pt" site_id="8646" lang="pt" xmltv_id="MCM.Pop.pt">MCM Pop</channel>
+  <channel site="meo.pt" site_id="MCMTHD" lang="pt" xmltv_id="MCM.Top.pt">MCM Top</channel>
+  <channel site="nostv.pt" site_id="34" lang="en" xmltv_id="MCM.Top.pt">MCM Top</channel>
+  <channel site="vodafone.pt" site_id="2779" lang="pt" xmltv_id="MCM.Top.pt">MCM Top</channel>
+  <channel site="meo.pt" site_id="DEST" lang="pt" xmltv_id="MeoDestaques.pt">MEO Destaques</channel>
+  <channel site="meo.pt" site_id="MEZZO" lang="pt" xmltv_id="Mezzo.pt">Mezzo</channel>
+  <channel site="nostv.pt" site_id="50" lang="pt" xmltv_id="Mezzo.pt">Mezzo</channel>
+  <channel site="vodafone.pt" site_id="2761" lang="pt" xmltv_id="Mezzo.pt">MEZZO</channel>
+  <channel site="meo.pt" site_id="MEZHD" lang="pt" xmltv_id="Mezzo.Live.HD.pt">Mezzo Live</channel>
+  <channel site="nostv.pt" site_id="356" lang="en" xmltv_id="Mezzo.Live.HD.pt">Mezzo Live</channel>
+  <channel site="vodafone.pt" site_id="2931" lang="pt" xmltv_id="Mezzo.Live.HD.pt">Mezzo Live</channel>
+  <channel site="meo.pt" site_id="NGHD" lang="pt" xmltv_id="NatGeo.pt">National Geographic</channel>
+  <channel site="nostv.pt" site_id="134" lang="pt" xmltv_id="NatGeo.pt">National Geographic</channel>
+  <channel site="vodafone.pt" site_id="2741" lang="pt" xmltv_id="NatGeo.pt">National Geographic</channel>
+  <channel site="meo.pt" site_id="WILDHD" lang="pt" xmltv_id="National.Geographic.WILD.HD.pt">National Geographic Wild</channel>
+  <channel site="nostv.pt" site_id="83" lang="en" xmltv_id="National.Geographic.WILD.HD.pt">National Geographic WILD</channel>
+  <channel site="vodafone.pt" site_id="2846" lang="pt" xmltv_id="National.Geographic.WILD.HD.pt">National Geographic Wild</channel>
+  <channel site="meo.pt" site_id="NEWBR" lang="pt" xmltv_id="New.Brasil.pt">New Brasil</channel>
+  <channel site="nostv.pt" site_id="697" lang="pt" xmltv_id="New.Brasil.pt">New Brasil</channel>
+  <channel site="meo.pt" site_id="NEWSNOW" lang="pt" xmltv_id="NewsNOW.pt">News Now</channel>
+  <channel site="nostv.pt" site_id="705" lang="pt" xmltv_id="NewsNOW.pt">NewsNOW</channel>
+  <channel site="vodafone.pt" site_id="8711" lang="pt" xmltv_id="NewsNOW.pt">NEWS NOW</channel>
+  <channel site="meo.pt" site_id="NHKHD" lang="en" xmltv_id="NHK.World.TV.pt">NHK World Japan</channel>
+  <channel site="nostv.pt" site_id="46" lang="en" xmltv_id="NHK.World.TV.pt">NHK World TV</channel>
+  <channel site="vodafone.pt" site_id="2890" lang="pt" xmltv_id="NHK.World.TV.pt">NHK World-Japan</channel>
+  <channel site="meo.pt" site_id="NICKELO" lang="pt" xmltv_id="Nickelodeon.pt">Nickelodeon</channel>
+  <channel site="nostv.pt" site_id="94" lang="pt" xmltv_id="Nickelodeon.pt">Nickelodeon</channel>
+  <channel site="vodafone.pt" site_id="8645" lang="pt" xmltv_id="Nickelodeon.pt">Nickelodeon</channel>
+  <channel site="meo.pt" site_id="NICKJR" lang="pt" xmltv_id="Nick.Jr..pt">Nick Jr.</channel>
+  <channel site="nostv.pt" site_id="444" lang="pt" xmltv_id="Nick.Jr..pt">Nick Jr.</channel>
+  <channel site="meo.pt" site_id="NOVOT" lang="pt" xmltv_id="NovoTempoPortugal.pt">NOVO TEMPO</channel>
+  <channel site="meo.pt" site_id="ODISSHD" lang="pt" xmltv_id="ODISSEIA.HD.pt">Odisseia</channel>
+  <channel site="nostv.pt" site_id="441" lang="pt" xmltv_id="ODISSEIA.HD.pt">ODISSEIA</channel>
+  <channel site="vodafone.pt" site_id="3016" lang="pt" xmltv_id="ODISSEIA.HD.pt">Odisseia</channel>
+  <channel site="meo.pt" site_id="ONETORO" lang="pt" xmltv_id="OneToro.TV.pt">OneToro TV</channel>
+  <channel site="nostv.pt" site_id="694" lang="pt" xmltv_id="OneToro.TV.pt">OneToro TV</channel>
+  <channel site="vodafone.pt" site_id="8518" lang="pt" xmltv_id="OneToro.TV.pt">OneToro TV</channel>
+  <channel site="meo.pt" site_id="OPTO" lang="pt" xmltv_id="OPTO.pt">OPTO</channel>
+  <channel site="meo.pt" site_id="OUTTV" lang="pt" xmltv_id="OUTtv.pt">OUTtv</channel>
+  <channel site="meo.pt" site_id="PANDAK" lang="pt" xmltv_id="Panda.KIDS.pt">Panda Kids</channel>
+  <channel site="nostv.pt" site_id="597" lang="pt" xmltv_id="Panda.KIDS.pt">Panda KIDS</channel>
+  <channel site="vodafone.pt" site_id="7188" lang="pt" xmltv_id="Panda.KIDS.pt">Panda Kids</channel>
+  <channel site="meo.pt" site_id="PENTHG" lang="pt" xmltv_id="PenthouseGold.us">Penthouse Gold</channel>
+  <channel site="meo.pt" site_id="PHCNE" lang="pt" xmltv_id="PhoenixCNEChannel.hk">Phoenix CNE</channel>
+  <channel site="meo.pt" site_id="PBTVHD" lang="pt" xmltv_id="PlayboyTVIberia.us">Playboy TV</channel>
+  <channel site="meo.pt" site_id="PORTO" lang="pt" xmltv_id="Porto.Canal.HD.pt">Porto Canal</channel>
+  <channel site="nostv.pt" site_id="423" lang="pt" xmltv_id="Porto.Canal.HD.pt">Porto Canal</channel>
+  <channel site="vodafone.pt" site_id="2768" lang="pt" xmltv_id="Porto.Canal.HD.pt">Porto Canal</channel>
+  <channel site="meo.pt" site_id="PROTV" lang="pt" xmltv_id="PROTVInternational.ro">PRO TV Internacional</channel>
+  <channel site="vodafone.pt" site_id="2757" lang="pt" xmltv_id="PROTVInternational.ro">PRO TV International</channel>
+  <channel site="meo.pt" site_id="RAI1" lang="pt" xmltv_id="Rai1.it">RAI 1</channel>
+  <channel site="vodafone.pt" site_id="2772" lang="pt" xmltv_id="Rai1.it">Rai 1</channel>
+  <channel site="meo.pt" site_id="RAI2" lang="pt" xmltv_id="Rai2.it">RAI 2</channel>
+  <channel site="meo.pt" site_id="RAI3" lang="pt" xmltv_id="Rai3.it">RAI 3</channel>
+  <channel site="meo.pt" site_id="ITALIA" lang="pt" xmltv_id="Rai.Italia.pt">RAI Itália</channel>
+  <channel site="nostv.pt" site_id="55" lang="pt" xmltv_id="Rai.Italia.pt">Rai Italia</channel>
+  <channel site="meo.pt" site_id="RAINEWS" lang="pt" xmltv_id="RaiNews24.it">RAI News</channel>
+  <channel site="vodafone.pt" site_id="2773" lang="pt" xmltv_id="RaiNews24.it">Rai News 24</channel>
+  <channel site="meo.pt" site_id="SCUOLA" lang="pt" xmltv_id="RaiScuola.it">RAI Scuola</channel>
+  <channel site="meo.pt" site_id="STORIA" lang="pt" xmltv_id="RaiStoria.it">RAI Storia</channel>
+  <channel site="meo.pt" site_id="RECNEW" lang="pt" xmltv_id="Record.News.pt">Record News</channel>
+  <channel site="nostv.pt" site_id="30" lang="pt" xmltv_id="Record.News.pt">Record News</channel>
+  <channel site="vodafone.pt" site_id="2812" lang="pt" xmltv_id="Record.News.pt">Record News</channel>
+  <channel site="meo.pt" site_id="REC HD" lang="pt" xmltv_id="Record.pt">Record Europa</channel>
+  <channel site="nostv.pt" site_id="350" lang="pt" xmltv_id="Record.pt">Record</channel>
+  <channel site="meo.pt" site_id="GLOB" lang="pt" xmltv_id="Globo.HD.pt">Globo</channel>
+  <channel site="nostv.pt" site_id="447" lang="pt" xmltv_id="Globo.HD.pt">Globo</channel>
+  <channel site="vodafone.pt" site_id="3020" lang="pt" xmltv_id="Globo.HD.pt">GLOBO</channel>
+  <channel site="meo.pt" site_id="RUSSTHD" lang="pt" xmltv_id="Russia.Today.pt">Russia Today</channel>
+  <channel site="nostv.pt" site_id="165" lang="pt" xmltv_id="Russia.Today.pt">Russia Today</channel>
+  <channel site="meo.pt" site_id="RTP1" lang="pt" xmltv_id="RTP.1.HD.pt">RTP1</channel>
+  <channel site="nostv.pt" site_id="139" lang="pt" xmltv_id="RTP.1.HD.pt">RTP 1</channel>
+  <channel site="vodafone.pt" site_id="3028" lang="pt" xmltv_id="RTP.1.HD.pt">RTP 1</channel>
+  <channel site="rtp.pt" site_id="lis#1" lang="pt" xmltv_id="RTP.1.HD.pt">RTP1</channel>
+  <channel site="meo.pt" site_id="RTP2" lang="pt" xmltv_id="RTP.2.HD.pt">RTP2</channel>
+  <channel site="nostv.pt" site_id="554" lang="pt" xmltv_id="RTP.2.HD.pt">RTP 2</channel>
+  <channel site="vodafone.pt" site_id="2825" lang="pt" xmltv_id="RTP.2.HD.pt">RTP 2</channel>
+  <channel site="rtp.pt" site_id="lis#8" lang="pt" xmltv_id="RTP.2.HD.pt">RTP2</channel>
+  <channel site="meo.pt" site_id="RTPACR" lang="pt" xmltv_id="RTP.Açores.pt">RTP Açores</channel>
+  <channel site="nostv.pt" site_id="106" lang="pt" xmltv_id="RTP.Açores.pt">RTP Açores</channel>
+  <channel site="vodafone.pt" site_id="7084" lang="pt" xmltv_id="RTP.Açores.pt">RTP Açores</channel>
+  <channel site="rtp.pt" site_id="lis#3" lang="pt" xmltv_id="RTP.Açores.pt">RTP Açores</channel>
+  <channel site="meo.pt" site_id="RTPA" lang="pt" xmltv_id="RTP.África.pt">RTP África</channel>
+  <channel site="nostv.pt" site_id="27" lang="pt" xmltv_id="RTP.África.pt">RTP África</channel>
+  <channel site="vodafone.pt" site_id="2728" lang="pt" xmltv_id="RTP.África.pt">RTP África</channel>
+  <channel site="rtp.pt" site_id="lis#6" lang="pt" xmltv_id="RTP.África.pt">RTP África</channel>
+  <channel site="meo.pt" site_id="RTPMA" lang="pt" xmltv_id="RTP.Madeira.pt">RTP Madeira</channel>
+  <channel site="nostv.pt" site_id="107" lang="pt" xmltv_id="RTP.Madeira.pt">RTP Madeira</channel>
+  <channel site="vodafone.pt" site_id="8424" lang="pt" xmltv_id="RTP.Madeira.pt">RTP Madeira</channel>
+  <channel site="rtp.pt" site_id="lis#4" lang="pt" xmltv_id="RTP.Madeira.pt">RTP Madeira</channel>
+  <channel site="meo.pt" site_id="RTPM" lang="pt" xmltv_id="RTP.Memória.pt">RTP Memória</channel>
+  <channel site="nostv.pt" site_id="80" lang="pt" xmltv_id="RTP.Memória.pt">RTP Memória</channel>
+  <channel site="vodafone.pt" site_id="2727" lang="pt" xmltv_id="RTP.Memória.pt">RTP Memória</channel>
+  <channel site="rtp.pt" site_id="lis#9" lang="pt" xmltv_id="RTP.Memória.pt">RTP Memória</channel>
+  <channel site="meo.pt" site_id="RTPN" lang="pt" xmltv_id="RTP.Notícias.HD.pt">RTP Notícias</channel>
+  <channel site="nostv.pt" site_id="556" lang="pt" xmltv_id="RTP.Notícias.HD.pt">RTP Notícias</channel>
+  <channel site="vodafone.pt" site_id="7187" lang="pt" xmltv_id="RTP.Notícias.HD.pt">RTP Notícias</channel>
+  <channel site="rtp.pt" site_id="lis#7" lang="pt" xmltv_id="RTP.Notícias.HD.pt">RTP Noticias</channel>
+  <channel site="meo.pt" site_id="SEXTRM" lang="pt" xmltv_id="Sextreme.br">SexTreme</channel>
+  <channel site="meo.pt" site_id="SEXYHOT" lang="pt" xmltv_id="SexyHot.br">Sexy Hot</channel>
+  <channel site="meo.pt" site_id="SIC" lang="pt" xmltv_id="SIC.HD.pt">SIC</channel>
+  <channel site="nostv.pt" site_id="418" lang="pt" xmltv_id="SIC.HD.pt">SIC</channel>
+  <channel site="vodafone.pt" site_id="2670" lang="pt" xmltv_id="SIC.HD.pt">SIC</channel>
+  <channel site="opto.sic.pt" site_id="14229a5c-765a-46ab-a43b-56822565e5b3" lang="pt" xmltv_id="SIC.HD.pt">SIC</channel>
+  <channel site="meo.pt" site_id="SICC" lang="pt" xmltv_id="SIC.Caras.HD.pt">SIC Caras</channel>
+  <channel site="nostv.pt" site_id="421" lang="pt" xmltv_id="SIC.Caras.HD.pt">SIC Caras</channel>
+  <channel site="vodafone.pt" site_id="2937" lang="pt" xmltv_id="SIC.Caras.HD.pt">SIC Caras</channel>
+  <channel site="meo.pt" site_id="SICK" lang="pt" xmltv_id="SIC.K.HD.pt">SIC K</channel>
+  <channel site="nostv.pt" site_id="553" lang="pt" xmltv_id="SIC.K.HD.pt">SIC K</channel>
+  <channel site="vodafone.pt" site_id="2938" lang="pt" xmltv_id="SIC.K.HD.pt">SIC K</channel>
+  <channel site="meo.pt" site_id="SICM" lang="pt" xmltv_id="SIC.Mulher.HD.pt">SIC Mulher</channel>
+  <channel site="nostv.pt" site_id="420" lang="pt" xmltv_id="SIC.Mulher.HD.pt">SIC Mulher</channel>
+  <channel site="vodafone.pt" site_id="2936" lang="pt" xmltv_id="SIC.Mulher.HD.pt">SIC Mulher</channel>
+  <channel site="meo.pt" site_id="SICN" lang="pt" xmltv_id="SIC.Notícias.HD.pt">SIC Notícias</channel>
+  <channel site="nostv.pt" site_id="419" lang="pt" xmltv_id="SIC.Notícias.HD.pt">SIC Notícias</channel>
+  <channel site="vodafone.pt" site_id="2935" lang="pt" xmltv_id="SIC.Notícias.HD.pt">SIC Notícias</channel>
+  <channel site="meo.pt" site_id="SICNOV" lang="pt" xmltv_id="SIC.Novelas.pt">SIC Novelas</channel>
+  <channel site="nostv.pt" site_id="709" lang="pt" xmltv_id="SIC.Novelas.pt">SIC Novelas</channel>
+  <channel site="vodafone.pt" site_id="8735" lang="pt" xmltv_id="SIC.Novelas.pt">SIC Novelas</channel>
+  <channel site="meo.pt" site_id="SICR" lang="pt" xmltv_id="SIC.Radical.HD.pt">SIC Radical</channel>
+  <channel site="nostv.pt" site_id="422" lang="pt" xmltv_id="SIC.Radical.HD.pt">SIC Radical</channel>
+  <channel site="vodafone.pt" site_id="2915" lang="pt" xmltv_id="SIC.Radical.HD.pt">SIC Radical</channel>
+  <channel site="meo.pt" site_id="SKYN" lang="en" xmltv_id="Sky.News.pt">Sky News</channel>
+  <channel site="nostv.pt" site_id="39" lang="en" xmltv_id="Sky.News.pt">Sky News</channel>
+  <channel site="vodafone.pt" site_id="2849" lang="pt" xmltv_id="Sky.News.pt">Sky News</channel>
+  <channel site="meo.pt" site_id="SETAS" lang="pt" xmltv_id="SET.Asia.pt">SET Asia</channel>
+  <channel site="nostv.pt" site_id="144" lang="en" xmltv_id="SET.Asia.pt">SET Asia</channel>
+  <channel site="vodafone.pt" site_id="2711" lang="pt" xmltv_id="SET.Asia.pt">SET Asia</channel>
+  <channel site="meo.pt" site_id="MAX" lang="pt" xmltv_id="SonyMax.uk">SET Max</channel>
+  <channel site="nostv.pt" site_id="143" lang="en" xmltv_id="SonyMax.uk">MAX</channel>
+  <channel site="vodafone.pt" site_id="2794" lang="pt" xmltv_id="SonyMax.uk">SET Max</channel>
+  <channel site="meo.pt" site_id="SMAISHD" lang="pt" xmltv_id="S+.HD.pt">S+</channel>
+  <channel site="nostv.pt" site_id="510" lang="pt" xmltv_id="S+.HD.pt">S+</channel>
+  <channel site="vodafone.pt" site_id="5609" lang="pt" xmltv_id="S+.HD.pt">S+</channel>
+  <channel site="meo.pt" site_id="SCPHD" lang="pt" xmltv_id="Sporting.TV.HD.pt">Sporting TV</channel>
+  <channel site="nostv.pt" site_id="352" lang="pt" xmltv_id="Sporting.TV.HD.pt">Sporting TV</channel>
+  <channel site="vodafone.pt" site_id="3004" lang="pt" xmltv_id="Sporting.TV.HD.pt">Sporting TV</channel>
+  <channel site="meo.pt" site_id="SPT1HD" lang="pt" xmltv_id="SPORT.TV1.HD.pt">Sport TV1</channel>
+  <channel site="nostv.pt" site_id="137" lang="pt" xmltv_id="SPORT.TV1.HD.pt">SPORT TV1</channel>
+  <channel site="vodafone.pt" site_id="2729" lang="pt" xmltv_id="SPORT.TV1.HD.pt">SPORT TV 1</channel>
+  <channel site="sporttv.pt" site_id="727" lang="pt" xmltv_id="SPORT.TV1.HD.pt">SPORT.TV1</channel>
+  <channel site="meo.pt" site_id="SPT2HD" lang="pt" xmltv_id="SPORT.TV2.HD.pt">Sport TV2</channel>
+  <channel site="nostv.pt" site_id="187" lang="pt" xmltv_id="SPORT.TV2.HD.pt">SPORT TV2</channel>
+  <channel site="vodafone.pt" site_id="2730" lang="pt" xmltv_id="SPORT.TV2.HD.pt">SPORT TV 2</channel>
+  <channel site="sporttv.pt" site_id="728" lang="pt" xmltv_id="SPORT.TV2.HD.pt">SPORT.TV2</channel>
+  <channel site="meo.pt" site_id="SPT3HD" lang="pt" xmltv_id="SPORT.TV3.HD.pt">Sport TV3</channel>
+  <channel site="nostv.pt" site_id="188" lang="pt" xmltv_id="SPORT.TV3.HD.pt">SPORT TV3</channel>
+  <channel site="vodafone.pt" site_id="2731" lang="pt" xmltv_id="SPORT.TV3.HD.pt">SPORT TV 3</channel>
+  <channel site="sporttv.pt" site_id="729" lang="pt" xmltv_id="SPORT.TV3.HD.pt">SPORT.TV3</channel>
+  <channel site="meo.pt" site_id="SPT4HD" lang="pt" xmltv_id="SPORT.TV4.HD.pt">Sport TV4</channel>
+  <channel site="nostv.pt" site_id="247" lang="pt" xmltv_id="SPORT.TV4.HD.pt">SPORT TV4</channel>
+  <channel site="vodafone.pt" site_id="2811" lang="pt" xmltv_id="SPORT.TV4.HD.pt">SPORT TV 4</channel>
+  <channel site="sporttv.pt" site_id="5406" lang="pt" xmltv_id="SPORT.TV4.HD.pt">SPORT.TV4</channel>
+  <channel site="meo.pt" site_id="SPT5HD" lang="pt" xmltv_id="SPORT.TV5.HD.pt">Sport TV5</channel>
+  <channel site="nostv.pt" site_id="180" lang="pt" xmltv_id="SPORT.TV5.HD.pt">SPORT TV5</channel>
+  <channel site="vodafone.pt" site_id="2719" lang="pt" xmltv_id="SPORT.TV5.HD.pt">SPORT TV 5</channel>
+  <channel site="sporttv.pt" site_id="5422" lang="pt" xmltv_id="SPORT.TV5.HD.pt">SPORT.TV5</channel>
+  <channel site="meo.pt" site_id="SPT6HD" lang="pt" xmltv_id="Sport.TV.6.HD.pt">Sport TV6</channel>
+  <channel site="nostv.pt" site_id="610" lang="pt" xmltv_id="Sport.TV.6.HD.pt">Sport TV6</channel>
+  <channel site="vodafone.pt" site_id="7251" lang="pt" xmltv_id="Sport.TV.6.HD.pt">SPORT TV 6</channel>
+  <channel site="sporttv.pt" site_id="7577" lang="pt" xmltv_id="Sport.TV.6.HD.pt">SPORT.TV6</channel>
+  <channel site="meo.pt" site_id="SPT7HD" lang="pt" xmltv_id="Sport.TV.7.HD.pt">Sport TV7</channel>
+  <channel site="nostv.pt" site_id="706" lang="pt" xmltv_id="Sport.TV.7.HD.pt">Sport TV7</channel>
+  <channel site="vodafone.pt" site_id="8835" lang="pt" xmltv_id="Sport.TV.7.HD.pt">SPORT TV 7</channel>
+  <channel site="sporttv.pt" site_id="7600" lang="pt" xmltv_id="Sport.TV.7.HD.pt">SPORT.TV7</channel>
+  <channel site="meo.pt" site_id="SPTVHD" lang="pt" xmltv_id="SPORT.TV+.HD.pt">Sport TV +</channel>
+  <channel site="nostv.pt" site_id="417" lang="pt" xmltv_id="SPORT.TV+.HD.pt">SPORT TV+</channel>
+  <channel site="vodafone.pt" site_id="2930" lang="pt" xmltv_id="SPORT.TV+.HD.pt">SPORT TV+</channel>
+  <channel site="sporttv.pt" site_id="7133" lang="pt" xmltv_id="SPORT.TV+.HD.pt">SPORT.TV+</channel>
+  <channel site="meo.pt" site_id="STARCHA" lang="pt" xmltv_id="Fox.pt">STAR Channel</channel>
+  <channel site="nostv.pt" site_id="174" lang="pt" xmltv_id="Fox.pt">Star Channel</channel>
+  <channel site="vodafone.pt" site_id="2715" lang="pt" xmltv_id="Fox.pt">STAR Channel</channel>
+  <channel site="meo.pt" site_id="STARCIN" lang="pt" xmltv_id="StarCinema.ua">Star Cinema</channel>
+  <channel site="meo.pt" site_id="STARCOM" lang="pt" xmltv_id="FoxComedy.pt">STAR Comedy</channel>
+  <channel site="nostv.pt" site_id="113" lang="pt" xmltv_id="FoxComedy.pt">Star Comedy</channel>
+  <channel site="vodafone.pt" site_id="2893" lang="pt" xmltv_id="FoxComedy.pt">STAR Comedy</channel>
+  <channel site="meo.pt" site_id="STARCRI" lang="pt" xmltv_id="FoxCrime.pt">STAR Crime</channel>
+  <channel site="nostv.pt" site_id="244" lang="pt" xmltv_id="FoxCrime.pt">Star Crime</channel>
+  <channel site="vodafone.pt" site_id="2847" lang="pt" xmltv_id="FoxCrime.pt">STAR Crime</channel>
+  <channel site="meo.pt" site_id="STARLIF" lang="pt" xmltv_id="FoxLife.pt">STAR Life</channel>
+  <channel site="nostv.pt" site_id="175" lang="pt" xmltv_id="FoxLife.pt">Star Life</channel>
+  <channel site="vodafone.pt" site_id="2717" lang="pt" xmltv_id="FoxLife.pt">STAR Life</channel>
+  <channel site="meo.pt" site_id="STARMOV" lang="pt" xmltv_id="FoxMovies.pt">STAR Movies</channel>
+  <channel site="nostv.pt" site_id="242" lang="pt" xmltv_id="FoxMovies.pt">Star Movies</channel>
+  <channel site="vodafone.pt" site_id="2845" lang="pt" xmltv_id="FoxMovies.pt">STAR Movies</channel>
+  <channel site="meo.pt" site_id="CLASSIC" lang="pt" xmltv_id="StingrayClassica.ca">Stingray Classica</channel>
+  <channel site="meo.pt" site_id="DJAZZ" lang="pt" xmltv_id="StingrayDJAZZ.ca">Stingray Djazz</channel>
+  <channel site="meo.pt" site_id="ICOHD" lang="pt" xmltv_id="Stingray.iConcerts.HD.pt">Stingray iConcerts</channel>
+  <channel site="nostv.pt" site_id="42" lang="en" xmltv_id="Stingray.iConcerts.HD.pt">Stingray iConcerts</channel>
+  <channel site="meo.pt" site_id="LOUD" lang="pt" xmltv_id="StingrayLoud.ca">Stingray Loud</channel>
+  <channel site="meo.pt" site_id="RETRO" lang="pt" xmltv_id="StingrayRetro.ca">Stingray Retro</channel>
+  <channel site="meo.pt" site_id="SYFHD" lang="pt" xmltv_id="Syfy.HD.pt">SyFy</channel>
+  <channel site="nostv.pt" site_id="201" lang="pt" xmltv_id="Syfy.HD.pt">Syfy</channel>
+  <channel site="vodafone.pt" site_id="2701" lang="pt" xmltv_id="Syfy.HD.pt">SyFy</channel>
+  <channel site="meo.pt" site_id="TAGES24" lang="pt" xmltv_id="tagesschau24.de">Tagesschau24</channel>
+  <channel site="meo.pt" site_id="TCV" lang="pt" xmltv_id="TCV.Internacional.pt">TCV Internacional</channel>
+  <channel site="nostv.pt" site_id="237" lang="pt" xmltv_id="TCV.Internacional.pt">TCV Internacional</channel>
+  <channel site="vodafone.pt" site_id="8782" lang="pt" xmltv_id="TCV.Internacional.pt">TCV Internacional</channel>
+  <channel site="meo.pt" site_id="TELESUR" lang="pt" xmltv_id="TeleSUR.pt">Telesur</channel>
+  <channel site="nostv.pt" site_id="33" lang="pt" xmltv_id="TeleSUR.pt">TeleSUR</channel>
+  <channel site="meo.pt" site_id="DIZI" lang="pt" xmltv_id="Dizi.pt">Dizi Channel</channel>
+  <channel site="nostv.pt" site_id="702" lang="pt" xmltv_id="Dizi.pt">Dizi</channel>
+  <channel site="vodafone.pt" site_id="8529" lang="pt" xmltv_id="Dizi.pt">Dizi</channel>
+  <channel site="meo.pt" site_id="TLC" lang="pt" xmltv_id="TLC.pt">TLC</channel>
+  <channel site="nostv.pt" site_id="23" lang="pt" xmltv_id="TLC.pt">TLC</channel>
+  <channel site="vodafone.pt" site_id="8398" lang="pt" xmltv_id="TLC.pt">TLC</channel>
+  <channel site="meo.pt" site_id="TPA" lang="en" xmltv_id="TPA.Notícias.pt">TPA Notícias</channel>
+  <channel site="nostv.pt" site_id="138" lang="pt" xmltv_id="TPA.Notícias.pt">TPA Notícias</channel>
+  <channel site="vodafone.pt" site_id="2751" lang="pt" xmltv_id="TPA.Notícias.pt">TPAi</channel>
+  <channel site="meo.pt" site_id="TRAHD" lang="pt" xmltv_id="Trace.Urban.HD.pt">Trace Urban</channel>
+  <channel site="nostv.pt" site_id="65" lang="pt" xmltv_id="Trace.Urban.HD.pt">Trace Urban</channel>
+  <channel site="vodafone.pt" site_id="3015" lang="pt" xmltv_id="Trace.Urban.HD.pt">Trace Urban</channel>
+  <channel site="meo.pt" site_id="TRAXP" lang="pt" xmltv_id="Travelxp.in">Travelxp</channel>
+  <channel site="meo.pt" site_id="TRTWHD" lang="en" xmltv_id="TRTWorld.tr">TRT World</channel>
+  <channel site="meo.pt" site_id="TV5HD" lang="pt" xmltv_id="TV5.Monde.pt">TV5 Monde</channel>
+  <channel site="vodafone.pt" site_id="2742" lang="pt" xmltv_id="TV5.Monde.pt">TV5 Monde</channel>
+  <channel site="meo.pt" site_id="TVA" lang="pt" xmltv_id="TVA.cv">Televisão África</channel>
+  <channel site="meo.pt" site_id="TVBRASIL" lang="pt" xmltv_id="TvBrasilInternacional.br">TV Brasil Internacional</channel>
+  <channel site="meo.pt" site_id="CNOVA" lang="pt" xmltv_id="CancaoNova.pt">Canção Nova</channel>
+  <channel site="nostv.pt" site_id="142" lang="pt" xmltv_id="CancaoNova.pt">Canção Nova</channel>
+  <channel site="vodafone.pt" site_id="2709" lang="pt" xmltv_id="CancaoNova.pt">Canção Nova</channel>
+  <channel site="meo.pt" site_id="TVCACTH" lang="pt" xmltv_id="TVCine.ACTION.HD.pt">TVCine Action</channel>
+  <channel site="nostv.pt" site_id="224" lang="pt" xmltv_id="TVCine.ACTION.HD.pt">TVCine ACTION</channel>
+  <channel site="vodafone.pt" site_id="2832" lang="pt" xmltv_id="TVCine.ACTION.HD.pt">TVCine Action</channel>
+  <channel site="meo.pt" site_id="TVCEDIH" lang="pt" xmltv_id="TVCine.EDITION.HD.pt">TVCine Edition</channel>
+  <channel site="nostv.pt" site_id="74" lang="pt" xmltv_id="TVCine.EDITION.HD.pt">TVCine EDITION</channel>
+  <channel site="vodafone.pt" site_id="3024" lang="pt" xmltv_id="TVCine.EDITION.HD.pt">TVCine Edition</channel>
+  <channel site="meo.pt" site_id="TVCEMOH" lang="pt" xmltv_id="TVCine.EMOTION.HD.pt">TVCine Emotion</channel>
+  <channel site="nostv.pt" site_id="223" lang="pt" xmltv_id="TVCine.EMOTION.HD.pt">TVCine EMOTION</channel>
+  <channel site="vodafone.pt" site_id="2831" lang="pt" xmltv_id="TVCine.EMOTION.HD.pt">TVCine Emotion</channel>
+  <channel site="meo.pt" site_id="TVCTOPH" lang="pt" xmltv_id="TVCine.TOP.HD.pt">TVCine Top</channel>
+  <channel site="nostv.pt" site_id="141" lang="pt" xmltv_id="TVCine.TOP.HD.pt">TVCine TOP</channel>
+  <channel site="vodafone.pt" site_id="2712" lang="pt" xmltv_id="TVCine.TOP.HD.pt">TVCine Top</channel>
+  <channel site="meo.pt" site_id="TVEIHD" lang="pt" xmltv_id="TVEi.pt">TVEi</channel>
+  <channel site="nostv.pt" site_id="48" lang="es" xmltv_id="TVEi.pt">TVEi</channel>
+  <channel site="meo.pt" site_id="TVI" lang="pt" xmltv_id="TVI.HD.pt">TVI</channel>
+  <channel site="nostv.pt" site_id="555" lang="pt" xmltv_id="TVI.HD.pt">TVI</channel>
+  <channel site="vodafone.pt" site_id="2671" lang="pt" xmltv_id="TVI.HD.pt">TVI</channel>
+  <channel site="tvi.iol.pt" site_id="tvi" lang="pt" xmltv_id="TVI.HD.pt">TVI</channel>
+  <channel site="meo.pt" site_id="TVIR" lang="pt" xmltv_id="TVI.Reality.HD.pt">TVI Reality</channel>
+  <channel site="nostv.pt" site_id="567" lang="pt" xmltv_id="TVI.Reality.HD.pt">TVI Reality</channel>
+  <channel site="vodafone.pt" site_id="8397" lang="pt" xmltv_id="TVI.Reality.HD.pt">TVI Reality</channel>
+  <channel site="tvi.iol.pt" site_id="tvireality" lang="pt" xmltv_id="TVI.Reality.HD.pt">TVI Reality</channel>
+  <channel site="meo.pt" site_id="MAANAIM" lang="pt" xmltv_id="TVMaanaim.br">TV Maanaim</channel>
+  <channel site="meo.pt" site_id="UNIFE" lang="pt" xmltv_id="Unifé.TV.pt">Unifé TV</channel>
+  <channel site="nostv.pt" site_id="689" lang="pt" xmltv_id="Unifé.TV.pt">Unifé TV</channel>
+  <channel site="vodafone.pt" site_id="8368" lang="pt" xmltv_id="Unifé.TV.pt">UNIFÉ TV</channel>
+  <channel site="meo.pt" site_id="VEJA" lang="pt" xmltv_id="Veja.pt">Veja</channel>
+  <channel site="meo.pt" site_id="VENUS" lang="pt" xmltv_id="Venus.ar">Venus</channel>
+  <channel site="meo.pt" site_id="VINTV" lang="pt" xmltv_id="VinTV.pt">VinTV</channel>
+  <channel site="nostv.pt" site_id="176" lang="pt" xmltv_id="VinTV.pt">VinTV</channel>
+  <channel site="vodafone.pt" site_id="8636" lang="pt" xmltv_id="VinTV.pt">VinTV</channel>
+  <channel site="meo.pt" site_id="AZORES" lang="pt" xmltv_id="Azores.TV.pt">Azores TV</channel>
+  <channel site="nostv.pt" site_id="571" lang="pt" xmltv_id="Azores.TV.pt">Azores TV</channel>
+  <channel site="meo.pt" site_id="VIXEN" lang="pt" xmltv_id="VixenTV.ca">VIXEN</channel>
+  <channel site="meo.pt" site_id="VMAISTVI" lang="pt" xmltv_id="V+TVI.pt">V+ TVI</channel>
+  <channel site="nostv.pt" site_id="574" lang="pt" xmltv_id="V+TVI.pt">V+TVI</channel>
+  <channel site="vodafone.pt" site_id="8399" lang="pt" xmltv_id="V+TVI.pt">V+ TVI</channel>
+  <channel site="tvi.iol.pt" site_id="vmais" lang="pt" xmltv_id="V+TVI.pt">V+ TVI</channel>
+  <channel site="meo.pt" site_id="WSPORT" lang="pt" xmltv_id="W-Sport.pt">W Sport</channel>
+  <channel site="nostv.pt" site_id="701" lang="en" xmltv_id="W-Sport.pt">W-Sport</channel>
+  <channel site="vodafone.pt" site_id="8901" lang="pt" xmltv_id="W-Sport.pt">W-Sport</channel>
+  <channel site="meo.pt" site_id="ZDF" lang="pt" xmltv_id="ZDF.de">ZDF</channel>
+  <channel site="meo.pt" site_id="ZDFNEO" lang="pt" xmltv_id="ZDFneo.de">ZDFNEO</channel>
+  <channel site="meo.pt" site_id="ZEECIN" lang="pt" xmltv_id="ZeeCinema.in">Zee Cinema</channel>
+  <channel site="meo.pt" site_id="ZEETV" lang="pt" xmltv_id="ZeeTVUK.uk">Zee TV</channel>
+  <channel site="nostv.pt" site_id="723" lang="pt" xmltv_id="arte.de">ARTE (Deutsch)</channel>
+  <channel site="nostv.pt" site_id="124" lang="pt" xmltv_id="BNTWorld.bg">BNT World</channel>
+  <channel site="nostv.pt" site_id="682" lang="pt" xmltv_id="CanalConvidado.pt">Canal Convidado</channel>
+  <channel site="nostv.pt" site_id="588" lang="pt" xmltv_id="CanalGaleria.pt">Canal Galeria</channel>
+  <channel site="nostv.pt" site_id="714" lang="pt" xmltv_id="CanalMacau.mo">TDM</channel>
+  <channel site="nostv.pt" site_id="408" lang="pt" xmltv_id="canalnoshd.pt">Canal NOS</channel>
+  <channel site="nostv.pt" site_id="115" lang="en" xmltv_id="DW.pt">DW</channel>
+  <channel site="nostv.pt" site_id="202" lang="pt" xmltv_id="E!.Entertainment.HD.pt">E! Entertainment</channel>
+  <channel site="vodafone.pt" site_id="2837" lang="pt" xmltv_id="E!.Entertainment.HD.pt">E! Entertainment</channel>
+  <channel site="nostv.pt" site_id="47" lang="pt" xmltv_id="FashionTVHD.fr">FTV</channel>
+  <channel site="nostv.pt" site_id="236" lang="en" xmltv_id="Fight.Network.HD.pt">Fight Network</channel>
+  <channel site="vodafone.pt" site_id="2903" lang="pt" xmltv_id="Fight.Network.HD.pt">Fight Network</channel>
+  <channel site="nostv.pt" site_id="62" lang="pt" xmltv_id="Food.Network.HD.pt">Food Network</channel>
+  <channel site="vodafone.pt" site_id="2994" lang="pt" xmltv_id="Food.Network.HD.pt">Food Network</channel>
+  <channel site="nostv.pt" site_id="72" lang="pt" xmltv_id="Fuel.TV.HD.pt">Fuel TV</channel>
+  <channel site="vodafone.pt" site_id="2692" lang="pt" xmltv_id="Fuel.TV.HD.pt">Fuel TV</channel>
+  <channel site="nostv.pt" site_id="680" lang="en" xmltv_id="HorseTV.us">Horse TV</channel>
+  <channel site="nostv.pt" site_id="354" lang="pt" xmltv_id="Motorvision.HD.pt">Motorvision</channel>
+  <channel site="nostv.pt" site_id="377" lang="pt" xmltv_id="MTV.Portugal.HD.pt">MTV Portugal</channel>
+  <channel site="vodafone.pt" site_id="2925" lang="pt" xmltv_id="MTV.Portugal.HD.pt">MTV Portugal</channel>
+  <channel site="nostv.pt" site_id="167" lang="en" xmltv_id="MyZenTV.fr">MyZen TV</channel>
+  <channel site="vodafone.pt" site_id="2708" lang="pt" xmltv_id="MyZenTV.fr">MyZen TV</channel>
+  <channel site="nostv.pt" site_id="679" lang="en" xmltv_id="Nautical.Channel.pt">Nautical Channel</channel>
+  <channel site="vodafone.pt" site_id="2765" lang="pt" xmltv_id="Nautical.Channel.pt">Nautical Channel</channel>
+  <channel site="nostv.pt" site_id="547" lang="pt" xmltv_id="NosStudios.pt">NOS Studios</channel>
+  <channel site="nostv.pt" site_id="40" lang="de" xmltv_id="RTL.pt">RTL</channel>
+  <channel site="vodafone.pt" site_id="2859" lang="pt" xmltv_id="RTL.pt">RTL</channel>
+  <channel site="nostv.pt" site_id="117" lang="pt" xmltv_id="RTRPlaneta.ru">RTR Planeta</channel>
+  <channel site="nostv.pt" site_id="343" lang="pt" xmltv_id="STVNoticias.mz">STV Notícias</channel>
+  <channel site="nostv.pt" site_id="704" lang="pt" xmltv_id="Trace.Brasil.pt">Trace Brasil</channel>
+  <channel site="nostv.pt" site_id="543" lang="pt" xmltv_id="Trace.Toca.pt">Trace Toca</channel>
+  <channel site="vodafone.pt" site_id="2723" lang="pt" xmltv_id="Trace.Toca.pt">Trace Toca</channel>
+  <channel site="nostv.pt" site_id="70" lang="pt" xmltv_id="Travel.Channel.HD.pt">Travel Channel</channel>
+  <channel site="vodafone.pt" site_id="2993" lang="pt" xmltv_id="Travel.Channel.HD.pt">Travel Channel</channel>
+  <channel site="nostv.pt" site_id="123" lang="pt" xmltv_id="TVRInternational.ro">TVR Internacional</channel>
+  <channel site="nostv.pt" site_id="708" lang="pt" xmltv_id="TVZimboInternacional.ao">TV Zimbo</channel>
+  <channel site="nostv.pt" site_id="538" lang="pt" xmltv_id="ZAP.Viva.HD.pt">ZAP Viva</channel>
+  <channel site="vodafone.pt" site_id="2784" lang="pt" xmltv_id="AlJazeeraEnglish.qa">Al Jazeera English</channel>
+  <channel site="vodafone.pt" site_id="2746" lang="pt" xmltv_id="BBCWorld.uk">BBC World</channel>
+  <channel site="vodafone.pt" site_id="8598" lang="pt" xmltv_id="BTVMultiCAM1.pt">BTV MultiCAM1</channel>
+  <channel site="vodafone.pt" site_id="8599" lang="pt" xmltv_id="BTVMultiCAM2.pt">BTV MultiCAM2</channel>
+  <channel site="vodafone.pt" site_id="8600" lang="pt" xmltv_id="BTVMultiCAM3.pt">BTV MultiCAM3</channel>
+  <channel site="vodafone.pt" site_id="8601" lang="pt" xmltv_id="BTVMultiCAM4.pt">BTV MultiCAM4</channel>
+  <channel site="vodafone.pt" site_id="8396" lang="pt" xmltv_id="CNNInternational.us">CNN International</channel>
+  <channel site="vodafone.pt" site_id="2934" lang="pt" xmltv_id="DocuBox.pt">DocuBox</channel>
+  <channel site="vodafone.pt" site_id="2781" lang="pt" xmltv_id="DWEnglish.de">DW English</channel>
+  <channel site="vodafone.pt" site_id="3415" lang="pt" xmltv_id="EurochannelPT.pt">Eurochannel PT</channel>
+  <channel site="vodafone.pt" site_id="2747" lang="pt" xmltv_id="EuronewsPT.fr">Euronews PT</channel>
+  <channel site="vodafone.pt" site_id="2721" lang="pt" xmltv_id="FastFunBox.pt">Fast&amp;FunBox</channel>
+  <channel site="vodafone.pt" site_id="2720" lang="pt" xmltv_id="Fightbox.pt">Fightbox</channel>
+  <channel site="vodafone.pt" site_id="8013" lang="pt" xmltv_id="GinxEsportsTV.pt">Ginx Esports TV</channel>
+  <channel site="vodafone.pt" site_id="2933" lang="pt" xmltv_id="InsightTV.pt">Insight TV</channel>
+  <channel site="vodafone.pt" site_id="2762" lang="pt" xmltv_id="LuxeTV.pt">Luxe TV</channel>
+  <channel site="vodafone.pt" site_id="2766" lang="pt" xmltv_id="PhoenixInfoNews.hk">Phoenix InfoNews</channel>
+  <channel site="vodafone.pt" site_id="2854" lang="pt" xmltv_id="RecordTV.pt">RecordTV</channel>
+  <channel site="vodafone.pt" site_id="2743" lang="pt" xmltv_id="StingrayCMusic.pt">Stingray CMusic</channel>
+  <channel site="vodafone.pt" site_id="2860" lang="pt" xmltv_id="SuperRTL.pt">Super RTL</channel>
+  <channel site="vodafone.pt" site_id="2884" lang="pt" xmltv_id="TVCNews.ng">TVC News</channel>
+  <channel site="vodafone.pt" site_id="2748" lang="pt" xmltv_id="TVEInternacional.es">TVE Internacional</channel>
+  <channel site="vodafone.pt" site_id="2807" lang="pt" xmltv_id="UtsavGold.in">Utsav Gold</channel>
+  <channel site="vodafone.pt" site_id="2808" lang="pt" xmltv_id="UtsavPlus.in">Utsav Plus</channel>
+  <channel site="vodafone.pt" site_id="2861" lang="pt" xmltv_id="VOX.de">VOX</channel>
+  <channel site="rtp.pt" site_id="rja#5" lang="pt" xmltv_id="RTPmAmerica.pt">RTP Mundo América</channel>
+  <channel site="rtp.pt" site_id="per#5" lang="pt" xmltv_id="RTPmAsia.pt">RTP Mundo Ásia</channel>
+  <channel site="rtp.pt" site_id="lis#5" lang="pt" xmltv_id="RTPInternacional.pt">RTP Mundo</channel>
+  <channel site="tvi.iol.pt" site_id="tviafrica" lang="pt" xmltv_id="TVIAfrica.pt">TVI África</channel>
+  <channel site="tvi.iol.pt" site_id="tvificcao" lang="pt" xmltv_id="TVIFiccao.pt">TVI Ficção</channel>
+  <channel site="tvi.iol.pt" site_id="tviinternacional" lang="pt" xmltv_id="tviinternacional.pt">TVI Internacional</channel>
+  <channel site="opto.sic.pt" site_id="549519c3-31fa-42de-a621-15e981082fd9" lang="pt" xmltv_id="SIC.Alta.Definição.pt">SIC Alta Definição</channel>
+  <channel site="opto.sic.pt" site_id="d47400e0-19d9-4f71-94f4-2b4cfdc1a2ca" lang="pt" xmltv_id="SIC.Replay.pt">SIC Replay</channel>
+  <channel site="meuguia.tv" site_id="SIC" lang="pt" xmltv_id="SIC.Internacional.pt">SIC International</channel>
+  <channel site="chaines-tv.orange.fr" site_id="90449" lang="fr" xmltv_id="SIC.Internacional.pt">SIC INTERNACIONAL</channel>
+</channels>
