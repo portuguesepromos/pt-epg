@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
+  <channel site="tvpassport.com" site_id="cbs--eastern/1225" lang="en" xmltv_id="CBS.us">CBS - Eastern</channel>
+  <channel site="tvpassport.com" site_id="cbs--pacific/9907" lang="en" xmltv_id="CBS.us">CBS - Pacific</channel>
+  <channel site="tvguide.com" site_id="9200018514" lang="en" xmltv_id="CBS.us">CBS National</channel>
+  <channel site="tvpassport.com" site_id="cbs--mountain/9906" lang="en" xmltv_id="CBS.us">CBS - Mountain</channel>
+  <channel site="tvpassport.com" site_id="nbc--central/9912" lang="en" xmltv_id="NBC.us">NBC - Central</channel>
+  <channel site="tvpassport.com" site_id="nbc--network-eastern/1227" lang="en" xmltv_id="NBC.us">NBC - Network Eastern</channel>
+  <channel site="tvpassport.com" site_id="nbc--mountain/9913" lang="en" xmltv_id="NBC.us">NBC - Mountain</channel>
+  <channel site="tvpassport.com" site_id="nbc--network-pacific/4410" lang="en" xmltv_id="NBC.us">NBC - Network Pacific</channel>
+  <channel site="tvguide.com" site_id="9233009876" lang="en" xmltv_id="NBC.us">NBC National</channel>
   <channel site="ontvtonight.com" site_id="us#69047124/amc-east" lang="en" xmltv_id="AMC.us">AMC (East)</channel>
   <channel site="tvguide.com" site_id="9233011832" lang="en" xmltv_id="AMC.us">AMC</channel>
   <channel site="tvpassport.com" site_id="amc--eastern-feed-hd/6219" lang="en" xmltv_id="AMC.us">AMC - Eastern Feed HD</channel>
@@ -90,8 +99,6 @@
   <channel site="tvpassport.com" site_id="abc--eastern/1224" lang="en" xmltv_id="ABC.us">ABC - Eastern</channel>
   <channel site="tvpassport.com" site_id="abc--mountain/9911" lang="en" xmltv_id="ABC.us">ABC - Mountain</channel>
   <channel site="tvpassport.com" site_id="abc--pacific/4407" lang="en" xmltv_id="ABC.us">ABC - Pacific</channel>
-  <channel site="ontvtonight.com" site_id="us#69048423/nbc" lang="en" xmltv_id="NBC">NBC</channel>
-  <channel site="ontvtonight.com" site_id="us#69048345/cbs" lang="en" xmltv_id="CBS">CBS</channel>
   <channel site="meo.pt" site_id="STARMOV" lang="pt" xmltv_id="StarMovies.pt">STAR Movies</channel>
   <channel site="nostv.pt" site_id="242" lang="pt" xmltv_id="StarMovies.pt">Star Movies</channel>
   <channel site="vodafone.pt" site_id="2845" lang="pt" xmltv_id="StarMovies.pt">STAR Movies</channel>
