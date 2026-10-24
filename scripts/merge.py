@@ -112,6 +112,8 @@ def main():
     ap.add_argument("--input", default="guides")
     ap.add_argument("--aliases", default="aliases.json")
     ap.add_argument("--output", default="public/epg.xml")
+    ap.add_argument("--channels", default="channels.xml",
+                    help="channels.xml - the order of sources per channel there = preference order")
     ap.add_argument("--only-aliased", action="store_true",
                     help="only output channels that appear in aliases.json")
     ap.add_argument("--min-channels", type=int, default=0,
@@ -140,10 +142,22 @@ def main():
     if args.only_aliased:
         all_ids = [c for c in all_ids if c in aliases]
 
+    # per-channel preference: order of the sources in channels.xml (first = preferred)
+    pref = {}
+    if os.path.exists(args.channels):
+        for el in ET.parse(args.channels).getroot().iter("channel"):
+            pref.setdefault(el.get("xmltv_id", ""), []).append(el.get("site"))
+
+    def ordered(cid):
+        order = pref.get(cid)
+        if not order:
+            return sources
+        return sorted(sources, key=lambda s: order.index(s[0]) if s[0] in order else 99)
+
     chosen, report = {}, []
     for cid in all_ids:
         best = None
-        for site, chans, progs in sources:
+        for site, chans, progs in ordered(cid):
             p = progs.get(cid, [])
             if not p:
                 continue
