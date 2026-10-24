@@ -2,8 +2,9 @@ name: Update EPG
 
 on:
   schedule:
-    # twice a day (UTC). GitHub may start scheduled runs a few minutes late.
-    - cron: "15 3,15 * * *"
+    # UTC. With DAYS=1 only "today" is fetched, so the 00:20 run is needed to get the new day
+    # right after midnight. GitHub may start scheduled runs a few minutes late.
+    - cron: "20 0,3,15 * * *"
   workflow_dispatch: # lets you run it by hand from the Actions tab
   push:
     branches: [main]
@@ -19,7 +20,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  DAYS: 4               # how many days of guide to fetch
+  DAYS: 1               # days of guide to fetch (1 = today only; 2 = today + tomorrow)
   MIN_CHANNELS: 150     # don't publish if fewer channels than this have data
 
 jobs:
@@ -57,6 +58,7 @@ jobs:
           python3 scripts/merge.py \
             --input guides \
             --aliases aliases.json \
+            --channels channels.xml \
             --output public/epg.xml \
             --min-channels $MIN_CHANNELS
           echo "<html><body><h3>My PT EPG</h3><p><a href='epg.xml.gz'>epg.xml.gz</a> | <a href='epg.xml'>epg.xml</a> | <a href='report.txt'>report.txt</a></p></body></html>" > public/index.html
