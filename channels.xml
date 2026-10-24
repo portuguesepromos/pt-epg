@@ -1,331 +1,331 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
-  <channel site="tvpassport.com" site_id="cbs--eastern/1225" lang="en" xmltv_id="CBS.us">CBS - Eastern</channel>
-  <channel site="tvpassport.com" site_id="cbs--pacific/9907" lang="en" xmltv_id="CBS.us">CBS - Pacific</channel>
-  <channel site="tvguide.com" site_id="9200018514" lang="en" xmltv_id="CBS.us">CBS National</channel>
-  <channel site="tvpassport.com" site_id="cbs--mountain/9906" lang="en" xmltv_id="CBS.us">CBS - Mountain</channel>
-  <channel site="tvpassport.com" site_id="nbc--central/9912" lang="en" xmltv_id="NBC.us">NBC - Central</channel>
-  <channel site="tvpassport.com" site_id="nbc--network-eastern/1227" lang="en" xmltv_id="NBC.us">NBC - Network Eastern</channel>
-  <channel site="tvpassport.com" site_id="nbc--mountain/9913" lang="en" xmltv_id="NBC.us">NBC - Mountain</channel>
-  <channel site="tvpassport.com" site_id="nbc--network-pacific/4410" lang="en" xmltv_id="NBC.us">NBC - Network Pacific</channel>
-  <channel site="tvguide.com" site_id="9233009876" lang="en" xmltv_id="NBC.us">NBC National</channel>
-  <channel site="ontvtonight.com" site_id="us#69047124/amc-east" lang="en" xmltv_id="AMC.us">AMC (East)</channel>
-  <channel site="tvguide.com" site_id="9233011832" lang="en" xmltv_id="AMC.us">AMC</channel>
-  <channel site="tvpassport.com" site_id="amc--eastern-feed-hd/6219" lang="en" xmltv_id="AMC.us">AMC - Eastern Feed HD</channel>
-  <channel site="tvpassport.com" site_id="amc--eastern-feed/177" lang="en" xmltv_id="AMC.us">AMC - Eastern Feed</channel>
-  <channel site="tvpassport.com" site_id="amc--pacific-feed-hd/10757" lang="en" xmltv_id="AMC.us">AMC - Pacific Feed HD</channel>
-  <channel site="tvpassport.com" site_id="amc--pacific-feed/1262" lang="en" xmltv_id="AMC.us">AMC - Pacific Feed</channel>
-  <channel site="tvguide.com" site_id="9233011830" lang="en" xmltv_id="TNT.us">TNT</channel>
-  <channel site="tvpassport.com" site_id="tnt--eastern-feed/347" lang="en" xmltv_id="TNT.us">TNT - Eastern Feed</channel>
-  <channel site="tvpassport.com" site_id="tnt--pacific-feed/2252" lang="en" xmltv_id="TNT.us">TNT - Pacific Feed</channel>
-  <channel site="tvguide.com" site_id="9200006932" lang="en" xmltv_id="FX.us">FX</channel>
-  <channel site="tvpassport.com" site_id="fx-networks-east-coast-hd/6111" lang="en" xmltv_id="FX.us">FX Networks East Coast HD</channel>
-  <channel site="tvpassport.com" site_id="fx-networks-west-coast/1449" lang="en" xmltv_id="FX.us">FX Networks West Coast</channel>
-  <channel site="tvguide.com" site_id="9200006977" lang="en" xmltv_id="StarzKidsFamily.us">STARZ Kids &amp; Family</channel>
-  <channel site="tvpassport.com" site_id="starz-kids--family--eastern/1194" lang="en" xmltv_id="StarzKidsFamily.us">Starz Kids &amp; Family - Eastern</channel>
-  <channel site="tvpassport.com" site_id="starz-kids--family--pacific/1219" lang="en" xmltv_id="StarzKidsFamily.us">Starz Kids &amp; Family - Pacific</channel>
-  <channel site="tvguide.com" site_id="9233003558" lang="en" xmltv_id="StarzComedy.us">STARZ Comedy</channel>
-  <channel site="tvpassport.com" site_id="starz-comedy--eastern/4223" lang="en" xmltv_id="StarzComedy.us">Starz Comedy - Eastern</channel>
-  <channel site="tvpassport.com" site_id="starz-comedy--pacific/4224" lang="en" xmltv_id="StarzComedy.us">Starz Comedy - Pacific</channel>
-  <channel site="tvguide.com" site_id="9233008357" lang="en" xmltv_id="StarzCinema.us">STARZ Cinema</channel>
-  <channel site="tvpassport.com" site_id="starz-edge--pacific/2678" lang="en" xmltv_id="StarzEdge.us">Starz Edge - Pacific</channel>
-  <channel site="ontvtonight.com" site_id="us#69023900/starz-hd-east" lang="en" xmltv_id="Starz.us">STARZ HD (East)</channel>
-  <channel site="ontvtonight.com" site_id="us#69047025/starz-east" lang="en" xmltv_id="Starz.us">Starz (East)</channel>
-  <channel site="ontvtonight.com" site_id="us#69023903/starz-hd-west" lang="en" xmltv_id="Starz.us">STARZ HD (West)</channel>
-  <channel site="ontvtonight.com" site_id="us#69035609/starz-west" lang="en" xmltv_id="Starz.us">Starz (West)</channel>
-  <channel site="tvguide.com" site_id="9233013809" lang="en" xmltv_id="Starz.us">STARZ</channel>
-  <channel site="tvpassport.com" site_id="starz--eastern/583" lang="en" xmltv_id="Starz.us">Starz - Eastern</channel>
-  <channel site="tvpassport.com" site_id="starz-hd--eastern/3388" lang="en" xmltv_id="Starz.us">Starz HD - Eastern</channel>
-  <channel site="tvpassport.com" site_id="starz--pacific/1217" lang="en" xmltv_id="Starz.us">Starz - Pacific</channel>
-  <channel site="tvpassport.com" site_id="starz-hd--pacific/3389" lang="en" xmltv_id="Starz.us">Starz HD - Pacific</channel>
-  <channel site="ontvtonight.com" site_id="us#69037597/showtime-next-east-hdtv-east" lang="en" xmltv_id="ShowtimeNext.us">Showtime Next East HDTV (East)</channel>
-  <channel site="ontvtonight.com" site_id="us#69049894/showtime-next-east" lang="en" xmltv_id="ShowtimeNext.us">Showtime Next (East)</channel>
-  <channel site="tvguide.com" site_id="9200016686" lang="en" xmltv_id="ShowtimeNext.us">SHOWTIME NEXT</channel>
-  <channel site="tvpassport.com" site_id="showtime-next--eastern/2272" lang="en" xmltv_id="ShowtimeNext.us">Showtime Next - Eastern</channel>
-  <channel site="tvpassport.com" site_id="showtime-next-hd--eastern/7109" lang="en" xmltv_id="ShowtimeNext.us">Showtime Next HD - Eastern</channel>
-  <channel site="tvpassport.com" site_id="showtime-next--pacific/2597" lang="en" xmltv_id="ShowtimeNext.us">Showtime Next - Pacific</channel>
-  <channel site="tvpassport.com" site_id="showtime-next-hd--pacific/20033" lang="en" xmltv_id="ShowtimeNext.us">Showtime Next HD - Pacific</channel>
-  <channel site="ontvtonight.com" site_id="us#69049896/showtime-familyzone-east" lang="en" xmltv_id="ShowtimeFamilyZone.us">Showtime FamilyZone (East)</channel>
-  <channel site="tvguide.com" site_id="9200000968" lang="en" xmltv_id="ShowtimeFamilyZone.us">SHOWTIME FAMILY ZONE</channel>
-  <channel site="tvpassport.com" site_id="showtime-family-zone--eastern/1956" lang="en" xmltv_id="ShowtimeFamilyZone.us">Showtime Family Zone - Eastern</channel>
-  <channel site="tvpassport.com" site_id="showtime-family-zone-hd--eastern/7108" lang="en" xmltv_id="ShowtimeFamilyZone.us">Showtime Family Zone HD - Eastern</channel>
-  <channel site="tvpassport.com" site_id="showtime-family-zone--pacific/2599" lang="en" xmltv_id="ShowtimeFamilyZone.us">Showtime Family Zone - Pacific</channel>
-  <channel site="tvpassport.com" site_id="showtime-extreme--pacific/2584" lang="en" xmltv_id="ShowtimeExtreme.us">Showtime Extreme - Pacific</channel>
-  <channel site="tvpassport.com" site_id="showtime-extreme-hd--pacific/7569" lang="en" xmltv_id="ShowtimeExtreme.us">Showtime Extreme HD - Pacific</channel>
-  <channel site="ontvtonight.com" site_id="us#69035588/showtime-showcase-west" lang="en" xmltv_id="ShowtimeShowcase.us">Showtime Showcase (West)</channel>
-  <channel site="tvguide.com" site_id="9200016599" lang="en" xmltv_id="Showtime.us">Paramount+ with Showtime</channel>
-  <channel site="tvguide.com" site_id="9233009829" lang="en" xmltv_id="Cinemax.us">Cinemax</channel>
-  <channel site="tvpassport.com" site_id="cinemax--eastern-feed/632" lang="en" xmltv_id="Cinemax.us">Cinemax - Eastern Feed</channel>
-  <channel site="tvpassport.com" site_id="cinemax--pacific-feed/1215" lang="en" xmltv_id="Cinemax.us">Cinemax - Pacific Feed</channel>
-  <channel site="tvpassport.com" site_id="hbo-comedy--pacific/2593" lang="en" xmltv_id="HBOComedy.us">HBO Comedy - Pacific</channel>
-  <channel site="tvpassport.com" site_id="hbo-comedy-hd--pacific/8469" lang="en" xmltv_id="HBOComedy.us">HBO Comedy HD - Pacific</channel>
-  <channel site="tvguide.com" site_id="9233003524" lang="en" xmltv_id="HBO2.us">HBO 2</channel>
-  <channel site="tvpassport.com" site_id="hbo-2--eastern-feed-hd/6313" lang="en" xmltv_id="HBO2.us">HBO Hits - Eastern Feed HD</channel>
-  <channel site="tvpassport.com" site_id="hbo-2--eastern-feed/626" lang="en" xmltv_id="HBO2.us">HBO Hits - Eastern Feed</channel>
-  <channel site="tvpassport.com" site_id="hbo-2--pacific-feed-hd/6314" lang="en" xmltv_id="HBO2.us">HBO Hits - Pacific Feed HD</channel>
-  <channel site="tvpassport.com" site_id="hbo-2--pacific-feed/2205" lang="en" xmltv_id="HBO2.us">HBO Hits - Pacific Feed</channel>
-  <channel site="ontvtonight.com" site_id="us#69022152/hbo-hdtv-west" lang="en" xmltv_id="HBO.us">HBO HDTV (West)</channel>
-  <channel site="ontvtonight.com" site_id="us#69035526/hbo-west" lang="en" xmltv_id="HBO.us">HBO (West)</channel>
-  <channel site="ontvtonight.com" site_id="us#69022151/hbo-hdtv-east" lang="en" xmltv_id="HBO.us">HBO HDTV (East)</channel>
-  <channel site="ontvtonight.com" site_id="us#69046988/hbo-east" lang="en" xmltv_id="HBO.us">HBO (East)</channel>
-  <channel site="tvguide.com" site_id="9200004886" lang="en" xmltv_id="HBO.us">HBO</channel>
-  <channel site="tvpassport.com" site_id="hbo--eastern-feed/614" lang="en" xmltv_id="HBO.us">HBO - Eastern Feed</channel>
-  <channel site="tvpassport.com" site_id="hbo-hd--eastern-feed/627" lang="en" xmltv_id="HBO.us">HBO HD - Eastern Feed</channel>
-  <channel site="tvpassport.com" site_id="hbo--pacific-feed/1472" lang="en" xmltv_id="HBO.us">HBO - Pacific Feed</channel>
-  <channel site="tvpassport.com" site_id="hbo-hd--pacific-feed/2629" lang="en" xmltv_id="HBO.us">HBO HD - Pacific Feed</channel>
-  <channel site="tvguide.com" site_id="9200009884" lang="en" xmltv_id="FoxSports2.us">FOX Sports 2</channel>
-  <channel site="tvguide.com" site_id="9233008440" lang="en" xmltv_id="FoxSports1.us">FOX Sports 1</channel>
-  <channel site="ontvtonight.com" site_id="us#69026454/espn2-hdtv" lang="en" xmltv_id="ESPN2.us">ESPN2 HDTV</channel>
-  <channel site="ontvtonight.com" site_id="us#69047142/espn2" lang="en" xmltv_id="ESPN2.us">ESPN2</channel>
-  <channel site="tvguide.com" site_id="9200012351" lang="en" xmltv_id="ESPN2.us">ESPN2</channel>
-  <channel site="tvpassport.com" site_id="espn2-hd/3379" lang="en" xmltv_id="ESPN2.us">ESPN2 HD</channel>
-  <channel site="tvpassport.com" site_id="espn2/650" lang="en" xmltv_id="ESPN2.us">ESPN2</channel>
-  <channel site="ontvtonight.com" site_id="us#69023272/espn-hdtv" lang="en" xmltv_id="ESPN.us">ESPN HDTV</channel>
-  <channel site="ontvtonight.com" site_id="us#69047050/espn" lang="en" xmltv_id="ESPN.us">ESPN</channel>
-  <channel site="tvguide.com" site_id="9200006937" lang="en" xmltv_id="ESPN.us">ESPN</channel>
-  <channel site="tvpassport.com" site_id="espn-hd/3036" lang="en" xmltv_id="ESPN.us">ESPN HD</channel>
-  <channel site="tvpassport.com" site_id="espn/594" lang="en" xmltv_id="ESPN.us">ESPN</channel>
-  <channel site="tvguide.com" site_id="9233013812" lang="en" xmltv_id="CNN.us">CNN</channel>
-  <channel site="tvpassport.com" site_id="cnn/70" lang="en" xmltv_id="CNN.us">CNN</channel>
-  <channel site="tvguide.com" site_id="9233000410" lang="en" xmltv_id="FoxNewsChannel.us">Fox News</channel>
-  <channel site="tvpassport.com" site_id="fox-news-hd/6207" lang="en" xmltv_id="FoxNewsChannel.us">Fox News HD</channel>
-  <channel site="tvpassport.com" site_id="fox-news/1083" lang="en" xmltv_id="FoxNewsChannel.us">Fox News</channel>
-  <channel site="tvguide.com" site_id="9233002271" lang="en" xmltv_id="Fox.us">FOX</channel>
-  <channel site="tvpassport.com" site_id="fox--eastern/1229" lang="en" xmltv_id="Fox.us">FOX - Eastern</channel>
-  <channel site="tvpassport.com" site_id="fox--pacific/4409" lang="en" xmltv_id="Fox.us">FOX - Pacific</channel>
-  <channel site="ontvtonight.com" site_id="us#69048344/abc" lang="en" xmltv_id="ABC.us">ABC</channel>
-  <channel site="tvguide.com" site_id="9233011874" lang="en" xmltv_id="ABC.us">ABC Network Feed</channel>
-  <channel site="tvpassport.com" site_id="abc--central/9910" lang="en" xmltv_id="ABC.us">ABC - Central</channel>
-  <channel site="tvpassport.com" site_id="abc--eastern/1224" lang="en" xmltv_id="ABC.us">ABC - Eastern</channel>
-  <channel site="tvpassport.com" site_id="abc--mountain/9911" lang="en" xmltv_id="ABC.us">ABC - Mountain</channel>
-  <channel site="tvpassport.com" site_id="abc--pacific/4407" lang="en" xmltv_id="ABC.us">ABC - Pacific</channel>
-  <channel site="meo.pt" site_id="STARMOV" lang="pt" xmltv_id="StarMovies.pt">STAR Movies</channel>
-  <channel site="nostv.pt" site_id="242" lang="pt" xmltv_id="StarMovies.pt">Star Movies</channel>
-  <channel site="vodafone.pt" site_id="2845" lang="pt" xmltv_id="StarMovies.pt">STAR Movies</channel>
-  <channel site="meo.pt" site_id="24KTHD" lang="pt" xmltv_id="24Kitchen.HD.pt">24Kitchen</channel>
-  <channel site="nostv.pt" site_id="243" lang="pt" xmltv_id="24Kitchen.HD.pt">24Kitchen</channel>
-  <channel site="vodafone.pt" site_id="2844" lang="pt" xmltv_id="24Kitchen.HD.pt">24Kitchen</channel>
-  <channel site="meo.pt" site_id="ABOLA" lang="pt" xmltv_id="A.Bola.TV.HD.pt">A Bola</channel>
-  <channel site="nostv.pt" site_id="719" lang="pt" xmltv_id="A.Bola.TV.HD.pt">A Bola TV</channel>
-  <channel site="vodafone.pt" site_id="5583" lang="pt" xmltv_id="A.Bola.TV.HD.pt">A Bola TV</channel>
-  <channel site="meo.pt" site_id="AMCBRE" lang="pt" xmltv_id="AMC.Break.HD.pt">AMC Break</channel>
-  <channel site="nostv.pt" site_id="509" lang="pt" xmltv_id="AMC.Break.HD.pt">AMC Break</channel>
-  <channel site="vodafone.pt" site_id="3017" lang="pt" xmltv_id="AMC.Break.HD.pt">AMC BREAK</channel>
-  <channel site="meo.pt" site_id="AMCCRI" lang="pt" xmltv_id="AMC.Crime.HD.pt">AMC Crime</channel>
-  <channel site="nostv.pt" site_id="545" lang="pt" xmltv_id="AMC.Crime.HD.pt">AMC Crime</channel>
-  <channel site="vodafone.pt" site_id="8426" lang="pt" xmltv_id="AMC.Crime.HD.pt">AMC Crime</channel>
-  <channel site="meo.pt" site_id="AMCHD" lang="pt" xmltv_id="AMC.HD.pt">AMC</channel>
-  <channel site="nostv.pt" site_id="415" lang="pt" xmltv_id="AMC.HD.pt">AMC</channel>
-  <channel site="vodafone.pt" site_id="2996" lang="pt" xmltv_id="AMC.HD.pt">AMC</channel>
-  <channel site="meo.pt" site_id="ARTV" lang="pt" xmltv_id="ARTV.pt">ARTV</channel>
-  <channel site="nostv.pt" site_id="49" lang="pt" xmltv_id="ARTV.pt">ARTV</channel>
-  <channel site="vodafone.pt" site_id="2736" lang="pt" xmltv_id="ARTV.pt">ARTV</channel>
-  <channel site="meo.pt" site_id="AXNHD" lang="pt" xmltv_id="AXN.HD.pt">AXN</channel>
-  <channel site="nostv.pt" site_id="161" lang="pt" xmltv_id="AXN.HD.pt">AXN</channel>
-  <channel site="vodafone.pt" site_id="2713" lang="pt" xmltv_id="AXN.HD.pt">AXN</channel>
-  <channel site="meo.pt" site_id="AXNMHD" lang="pt" xmltv_id="AXN.Movies.HD.pt">AXN Movies</channel>
-  <channel site="nostv.pt" site_id="194" lang="pt" xmltv_id="AXN.Movies.HD.pt">AXN Movies</channel>
-  <channel site="vodafone.pt" site_id="2700" lang="pt" xmltv_id="AXN.Movies.HD.pt">AXN Movies</channel>
-  <channel site="meo.pt" site_id="AXWHD" lang="pt" xmltv_id="AXN.White.HD.pt">AXN White</channel>
-  <channel site="nostv.pt" site_id="75" lang="pt" xmltv_id="AXN.White.HD.pt">AXN White</channel>
-  <channel site="vodafone.pt" site_id="2833" lang="pt" xmltv_id="AXN.White.HD.pt">AXN White</channel>
-  <channel site="meo.pt" site_id="BABYT" lang="pt" xmltv_id="Baby.TV.pt">Baby TV</channel>
-  <channel site="nostv.pt" site_id="448" lang="pt" xmltv_id="Baby.TV.pt">Baby TV</channel>
-  <channel site="vodafone.pt" site_id="8781" lang="pt" xmltv_id="Baby.TV.pt">BabyTV</channel>
-  <channel site="meo.pt" site_id="SLBHD" lang="pt" xmltv_id="BTV1.HD.pt">BTV</channel>
-  <channel site="nostv.pt" site_id="245" lang="pt" xmltv_id="BTV1.HD.pt">BTV</channel>
-  <channel site="vodafone.pt" site_id="3405" lang="pt" xmltv_id="BTV1.HD.pt">BTV</channel>
-  <channel site="meo.pt" site_id="C11" lang="pt" xmltv_id="Canal.11.HD.pt">Canal 11</channel>
-  <channel site="nostv.pt" site_id="565" lang="pt" xmltv_id="Canal.11.HD.pt">Canal 11</channel>
-  <channel site="vodafone.pt" site_id="5585" lang="pt" xmltv_id="Canal.11.HD.pt">Canal 11</channel>
-  <channel site="meo.pt" site_id="HOLHD" lang="pt" xmltv_id="Canal.Hollywood.HD.pt">Hollywood</channel>
-  <channel site="nostv.pt" site_id="14" lang="pt" xmltv_id="Canal.Hollywood.HD.pt">Canal Hollywood</channel>
-  <channel site="vodafone.pt" site_id="3026" lang="pt" xmltv_id="Canal.Hollywood.HD.pt">Canal Hollywood</channel>
-  <channel site="meo.pt" site_id="PANDA" lang="pt" xmltv_id="Canal.Panda.HD.pt">Panda</channel>
-  <channel site="nostv.pt" site_id="593" lang="pt" xmltv_id="Canal.Panda.HD.pt">Canal Panda</channel>
-  <channel site="vodafone.pt" site_id="7185" lang="pt" xmltv_id="Canal.Panda.HD.pt">Canal Panda</channel>
-  <channel site="meo.pt" site_id="QHD" lang="pt" xmltv_id="Canal.Q.pt">Canal Q</channel>
-  <channel site="nostv.pt" site_id="235" lang="pt" xmltv_id="Canal.Q.pt">Canal Q</channel>
-  <channel site="vodafone.pt" site_id="2902" lang="pt" xmltv_id="Canal.Q.pt">Canal Q</channel>
-  <channel site="meo.pt" site_id="CNITO" lang="pt" xmltv_id="Cartoonito.pt">Cartoonito</channel>
-  <channel site="nostv.pt" site_id="713" lang="pt" xmltv_id="Cartoonito.pt">Cartoonito</channel>
-  <channel site="vodafone.pt" site_id="8005" lang="pt" xmltv_id="Cartoonito.pt">Cartoonito</channel>
-  <channel site="meo.pt" site_id="CART" lang="pt" xmltv_id="Cartoon.Network.HD.pt">Cartoon Network</channel>
-  <channel site="nostv.pt" site_id="252" lang="pt" xmltv_id="Cartoon.Network.HD.pt">Cartoon Network</channel>
-  <channel site="vodafone.pt" site_id="8006" lang="pt" xmltv_id="Cartoon.Network.HD.pt">Cartoon Network</channel>
-  <channel site="meo.pt" site_id="CINEHD" lang="pt" xmltv_id="Cinemundo.pt">Cinemundo</channel>
-  <channel site="vodafone.pt" site_id="3027" lang="pt" xmltv_id="Cinemundo.pt">Cinemundo</channel>
-  <channel site="meo.pt" site_id="CMTV" lang="pt" xmltv_id="CMTV.HD.pt">CMTV</channel>
-  <channel site="nostv.pt" site_id="425" lang="pt" xmltv_id="CMTV.HD.pt">CMTV</channel>
-  <channel site="vodafone.pt" site_id="3414" lang="pt" xmltv_id="CMTV.HD.pt">CMTV</channel>
-  <channel site="meo.pt" site_id="CNNPT" lang="pt" xmltv_id="CNN.Portugal.HD.pt">CNN Portugal</channel>
-  <channel site="nostv.pt" site_id="557" lang="pt" xmltv_id="CNN.Portugal.HD.pt">CNN Portugal</channel>
-  <channel site="vodafone.pt" site_id="5678" lang="pt" xmltv_id="CNN.Portugal.HD.pt">CNN Portugal</channel>
-  <channel site="tvi.iol.pt" site_id="cnn" lang="pt" xmltv_id="CNN.Portugal.HD.pt">CNN Portugal</channel>
-  <channel site="meo.pt" site_id="DAZN1" lang="pt" xmltv_id="DAZN.1.pt">DAZN 1</channel>
-  <channel site="vodafone.pt" site_id="8829" lang="pt" xmltv_id="DAZN.1.pt">DAZN 1</channel>
-  <channel site="meo.pt" site_id="DAZN2" lang="pt" xmltv_id="DAZN.2.pt">DAZN 2</channel>
-  <channel site="vodafone.pt" site_id="8830" lang="pt" xmltv_id="DAZN.2.pt">DAZN 2</channel>
-  <channel site="meo.pt" site_id="DAZN3" lang="pt" xmltv_id="DAZN.3.pt">DAZN 3</channel>
-  <channel site="vodafone.pt" site_id="8831" lang="pt" xmltv_id="DAZN.3.pt">DAZN 3</channel>
-  <channel site="meo.pt" site_id="DAZN4" lang="pt" xmltv_id="DAZN.4.pt">DAZN 4</channel>
-  <channel site="vodafone.pt" site_id="8832" lang="pt" xmltv_id="DAZN.4.pt">DAZN 4</channel>
-  <channel site="meo.pt" site_id="DAZN5" lang="pt" xmltv_id="DAZN.5.pt">DAZN 5</channel>
-  <channel site="vodafone.pt" site_id="8833" lang="pt" xmltv_id="DAZN.5.pt">DAZN 5</channel>
-  <channel site="meo.pt" site_id="DISCVHD" lang="pt" xmltv_id="Discovery.HD.pt">Discovery Channel</channel>
-  <channel site="nostv.pt" site_id="561" lang="pt" xmltv_id="Discovery.HD.pt">Discovery</channel>
-  <channel site="vodafone.pt" site_id="2914" lang="pt" xmltv_id="Discovery.HD.pt">Discovery Channel</channel>
-  <channel site="meo.pt" site_id="DISNY" lang="pt" xmltv_id="Disney.Channel.HD.pt">Disney Channel</channel>
-  <channel site="nostv.pt" site_id="594" lang="pt" xmltv_id="Disney.Channel.HD.pt">Disney Channel</channel>
-  <channel site="vodafone.pt" site_id="8897" lang="pt" xmltv_id="Disney.Channel.HD.pt">Disney Channel</channel>
-  <channel site="meo.pt" site_id="DISNYJ" lang="pt" xmltv_id="Disney.Junior.HD.pt">Disney Junior</channel>
-  <channel site="nostv.pt" site_id="673" lang="pt" xmltv_id="Disney.Junior.HD.pt">Disney Junior</channel>
-  <channel site="vodafone.pt" site_id="7522" lang="pt" xmltv_id="Disney.Junior.HD.pt">Disney Jr.</channel>
-  <channel site="meo.pt" site_id="EURHD" lang="pt" xmltv_id="Eurosport.1.HD.pt">Eurosport 1</channel>
-  <channel site="nostv.pt" site_id="145" lang="pt" xmltv_id="Eurosport.1.HD.pt">Eurosport 1</channel>
-  <channel site="vodafone.pt" site_id="2675" lang="pt" xmltv_id="Eurosport.1.HD.pt">Eurosport 1</channel>
-  <channel site="meo.pt" site_id="EURS2HD" lang="pt" xmltv_id="Eurosport.2.HD.pt">Eurosport 2</channel>
-  <channel site="nostv.pt" site_id="563" lang="pt" xmltv_id="Eurosport.2.HD.pt">Eurosport 2</channel>
-  <channel site="vodafone.pt" site_id="5043" lang="pt" xmltv_id="Eurosport.2.HD.pt">Eurosport 2</channel>
-  <channel site="meo.pt" site_id="HISTHD" lang="pt" xmltv_id="Canal.História.HD.pt">História</channel>
-  <channel site="nostv.pt" site_id="544" lang="pt" xmltv_id="Canal.História.HD.pt">Canal História</channel>
-  <channel site="vodafone.pt" site_id="8783" lang="pt" xmltv_id="Canal.História.HD.pt">Canal História</channel>
-  <channel site="meo.pt" site_id="NGHD" lang="pt" xmltv_id="NatGeo.pt">National Geographic</channel>
-  <channel site="nostv.pt" site_id="134" lang="pt" xmltv_id="NatGeo.pt">National Geographic</channel>
-  <channel site="vodafone.pt" site_id="2741" lang="pt" xmltv_id="NatGeo.pt">National Geographic</channel>
-  <channel site="meo.pt" site_id="WILDHD" lang="pt" xmltv_id="National.Geographic.WILD.HD.pt">National Geographic Wild</channel>
-  <channel site="nostv.pt" site_id="83" lang="en" xmltv_id="National.Geographic.WILD.HD.pt">National Geographic WILD</channel>
-  <channel site="vodafone.pt" site_id="2846" lang="pt" xmltv_id="National.Geographic.WILD.HD.pt">National Geographic Wild</channel>
-  <channel site="meo.pt" site_id="NEWSNOW" lang="pt" xmltv_id="NewsNOW.pt">News Now</channel>
-  <channel site="nostv.pt" site_id="705" lang="pt" xmltv_id="NewsNOW.pt">NewsNOW</channel>
-  <channel site="vodafone.pt" site_id="8711" lang="pt" xmltv_id="NewsNOW.pt">NEWS NOW</channel>
-  <channel site="meo.pt" site_id="NICKELO" lang="pt" xmltv_id="Nickelodeon.pt">Nickelodeon</channel>
-  <channel site="nostv.pt" site_id="94" lang="pt" xmltv_id="Nickelodeon.pt">Nickelodeon</channel>
-  <channel site="vodafone.pt" site_id="8645" lang="pt" xmltv_id="Nickelodeon.pt">Nickelodeon</channel>
-  <channel site="meo.pt" site_id="NICKJR" lang="pt" xmltv_id="Nick.Jr..pt">Nick Jr.</channel>
-  <channel site="nostv.pt" site_id="444" lang="pt" xmltv_id="Nick.Jr..pt">Nick Jr.</channel>
-  <channel site="meo.pt" site_id="ODISSHD" lang="pt" xmltv_id="ODISSEIA.HD.pt">Odisseia</channel>
-  <channel site="nostv.pt" site_id="441" lang="pt" xmltv_id="ODISSEIA.HD.pt">ODISSEIA</channel>
-  <channel site="vodafone.pt" site_id="3016" lang="pt" xmltv_id="ODISSEIA.HD.pt">Odisseia</channel>
-  <channel site="meo.pt" site_id="PANDAK" lang="pt" xmltv_id="Panda.KIDS.pt">Panda Kids</channel>
-  <channel site="nostv.pt" site_id="597" lang="pt" xmltv_id="Panda.KIDS.pt">Panda KIDS</channel>
-  <channel site="vodafone.pt" site_id="7188" lang="pt" xmltv_id="Panda.KIDS.pt">Panda Kids</channel>
-  <channel site="meo.pt" site_id="PORTO" lang="pt" xmltv_id="Porto.Canal.HD.pt">Porto Canal</channel>
-  <channel site="nostv.pt" site_id="423" lang="pt" xmltv_id="Porto.Canal.HD.pt">Porto Canal</channel>
-  <channel site="vodafone.pt" site_id="2768" lang="pt" xmltv_id="Porto.Canal.HD.pt">Porto Canal</channel>
-  <channel site="meo.pt" site_id="GLOB" lang="pt" xmltv_id="Globo.HD.pt">Globo</channel>
-  <channel site="nostv.pt" site_id="447" lang="pt" xmltv_id="Globo.HD.pt">Globo</channel>
-  <channel site="vodafone.pt" site_id="3020" lang="pt" xmltv_id="Globo.HD.pt">GLOBO</channel>
-  <channel site="meo.pt" site_id="RTP1" lang="pt" xmltv_id="RTP.1.HD.pt">RTP1</channel>
-  <channel site="nostv.pt" site_id="139" lang="pt" xmltv_id="RTP.1.HD.pt">RTP 1</channel>
-  <channel site="vodafone.pt" site_id="3028" lang="pt" xmltv_id="RTP.1.HD.pt">RTP 1</channel>
-  <channel site="rtp.pt" site_id="lis#1" lang="pt" xmltv_id="RTP.1.HD.pt">RTP1</channel>
-  <channel site="meo.pt" site_id="RTP2" lang="pt" xmltv_id="RTP.2.HD.pt">RTP2</channel>
-  <channel site="nostv.pt" site_id="554" lang="pt" xmltv_id="RTP.2.HD.pt">RTP 2</channel>
-  <channel site="vodafone.pt" site_id="2825" lang="pt" xmltv_id="RTP.2.HD.pt">RTP 2</channel>
-  <channel site="rtp.pt" site_id="lis#8" lang="pt" xmltv_id="RTP.2.HD.pt">RTP2</channel>
-  <channel site="meo.pt" site_id="RTPN" lang="pt" xmltv_id="RTP.Notícias.HD.pt">RTP Notícias</channel>
-  <channel site="nostv.pt" site_id="556" lang="pt" xmltv_id="RTP.Notícias.HD.pt">RTP Notícias</channel>
-  <channel site="vodafone.pt" site_id="7187" lang="pt" xmltv_id="RTP.Notícias.HD.pt">RTP Notícias</channel>
-  <channel site="rtp.pt" site_id="lis#7" lang="pt" xmltv_id="RTP.Notícias.HD.pt">RTP Noticias</channel>
-  <channel site="meo.pt" site_id="SIC" lang="pt" xmltv_id="SIC.HD.pt">SIC</channel>
-  <channel site="nostv.pt" site_id="418" lang="pt" xmltv_id="SIC.HD.pt">SIC</channel>
-  <channel site="vodafone.pt" site_id="2670" lang="pt" xmltv_id="SIC.HD.pt">SIC</channel>
-  <channel site="opto.sic.pt" site_id="14229a5c-765a-46ab-a43b-56822565e5b3" lang="pt" xmltv_id="SIC.HD.pt">SIC</channel>
-  <channel site="meo.pt" site_id="SICC" lang="pt" xmltv_id="SIC.Caras.HD.pt">SIC Caras</channel>
-  <channel site="nostv.pt" site_id="421" lang="pt" xmltv_id="SIC.Caras.HD.pt">SIC Caras</channel>
-  <channel site="vodafone.pt" site_id="2937" lang="pt" xmltv_id="SIC.Caras.HD.pt">SIC Caras</channel>
-  <channel site="meo.pt" site_id="SICK" lang="pt" xmltv_id="SIC.K.HD.pt">SIC K</channel>
-  <channel site="nostv.pt" site_id="553" lang="pt" xmltv_id="SIC.K.HD.pt">SIC K</channel>
-  <channel site="vodafone.pt" site_id="2938" lang="pt" xmltv_id="SIC.K.HD.pt">SIC K</channel>
-  <channel site="meo.pt" site_id="SICM" lang="pt" xmltv_id="SIC.Mulher.HD.pt">SIC Mulher</channel>
-  <channel site="nostv.pt" site_id="420" lang="pt" xmltv_id="SIC.Mulher.HD.pt">SIC Mulher</channel>
-  <channel site="vodafone.pt" site_id="2936" lang="pt" xmltv_id="SIC.Mulher.HD.pt">SIC Mulher</channel>
-  <channel site="meo.pt" site_id="SICN" lang="pt" xmltv_id="SIC.Notícias.HD.pt">SIC Notícias</channel>
-  <channel site="nostv.pt" site_id="419" lang="pt" xmltv_id="SIC.Notícias.HD.pt">SIC Notícias</channel>
-  <channel site="vodafone.pt" site_id="2935" lang="pt" xmltv_id="SIC.Notícias.HD.pt">SIC Notícias</channel>
-  <channel site="meo.pt" site_id="SICNOV" lang="pt" xmltv_id="SIC.Novelas.pt">SIC Novelas</channel>
-  <channel site="nostv.pt" site_id="709" lang="pt" xmltv_id="SIC.Novelas.pt">SIC Novelas</channel>
-  <channel site="vodafone.pt" site_id="8735" lang="pt" xmltv_id="SIC.Novelas.pt">SIC Novelas</channel>
-  <channel site="meo.pt" site_id="SICR" lang="pt" xmltv_id="SIC.Radical.HD.pt">SIC Radical</channel>
-  <channel site="nostv.pt" site_id="422" lang="pt" xmltv_id="SIC.Radical.HD.pt">SIC Radical</channel>
-  <channel site="vodafone.pt" site_id="2915" lang="pt" xmltv_id="SIC.Radical.HD.pt">SIC Radical</channel>
-  <channel site="meo.pt" site_id="SCPHD" lang="pt" xmltv_id="Sporting.TV.HD.pt">Sporting TV</channel>
-  <channel site="nostv.pt" site_id="352" lang="pt" xmltv_id="Sporting.TV.HD.pt">Sporting TV</channel>
-  <channel site="vodafone.pt" site_id="3004" lang="pt" xmltv_id="Sporting.TV.HD.pt">Sporting TV</channel>
-  <channel site="meo.pt" site_id="SPT1HD" lang="pt" xmltv_id="SPORT.TV1.HD.pt">Sport TV1</channel>
-  <channel site="nostv.pt" site_id="137" lang="pt" xmltv_id="SPORT.TV1.HD.pt">SPORT TV1</channel>
-  <channel site="vodafone.pt" site_id="2729" lang="pt" xmltv_id="SPORT.TV1.HD.pt">SPORT TV 1</channel>
-  <channel site="sporttv.pt" site_id="727" lang="pt" xmltv_id="SPORT.TV1.HD.pt">SPORT.TV1</channel>
-  <channel site="meo.pt" site_id="SPT2HD" lang="pt" xmltv_id="SPORT.TV2.HD.pt">Sport TV2</channel>
-  <channel site="nostv.pt" site_id="187" lang="pt" xmltv_id="SPORT.TV2.HD.pt">SPORT TV2</channel>
-  <channel site="vodafone.pt" site_id="2730" lang="pt" xmltv_id="SPORT.TV2.HD.pt">SPORT TV 2</channel>
-  <channel site="sporttv.pt" site_id="728" lang="pt" xmltv_id="SPORT.TV2.HD.pt">SPORT.TV2</channel>
-  <channel site="meo.pt" site_id="SPT3HD" lang="pt" xmltv_id="SPORT.TV3.HD.pt">Sport TV3</channel>
-  <channel site="nostv.pt" site_id="188" lang="pt" xmltv_id="SPORT.TV3.HD.pt">SPORT TV3</channel>
-  <channel site="vodafone.pt" site_id="2731" lang="pt" xmltv_id="SPORT.TV3.HD.pt">SPORT TV 3</channel>
-  <channel site="sporttv.pt" site_id="729" lang="pt" xmltv_id="SPORT.TV3.HD.pt">SPORT.TV3</channel>
-  <channel site="meo.pt" site_id="SPT4HD" lang="pt" xmltv_id="SPORT.TV4.HD.pt">Sport TV4</channel>
-  <channel site="nostv.pt" site_id="247" lang="pt" xmltv_id="SPORT.TV4.HD.pt">SPORT TV4</channel>
-  <channel site="vodafone.pt" site_id="2811" lang="pt" xmltv_id="SPORT.TV4.HD.pt">SPORT TV 4</channel>
-  <channel site="sporttv.pt" site_id="5406" lang="pt" xmltv_id="SPORT.TV4.HD.pt">SPORT.TV4</channel>
-  <channel site="meo.pt" site_id="SPT5HD" lang="pt" xmltv_id="SPORT.TV5.HD.pt">Sport TV5</channel>
-  <channel site="nostv.pt" site_id="180" lang="pt" xmltv_id="SPORT.TV5.HD.pt">SPORT TV5</channel>
-  <channel site="vodafone.pt" site_id="2719" lang="pt" xmltv_id="SPORT.TV5.HD.pt">SPORT TV 5</channel>
-  <channel site="sporttv.pt" site_id="5422" lang="pt" xmltv_id="SPORT.TV5.HD.pt">SPORT.TV5</channel>
-  <channel site="meo.pt" site_id="SPT6HD" lang="pt" xmltv_id="Sport.TV.6.HD.pt">Sport TV6</channel>
-  <channel site="nostv.pt" site_id="610" lang="pt" xmltv_id="Sport.TV.6.HD.pt">Sport TV6</channel>
-  <channel site="vodafone.pt" site_id="7251" lang="pt" xmltv_id="Sport.TV.6.HD.pt">SPORT TV 6</channel>
-  <channel site="sporttv.pt" site_id="7577" lang="pt" xmltv_id="Sport.TV.6.HD.pt">SPORT.TV6</channel>
-  <channel site="vodafone.pt" site_id="8835" lang="pt" xmltv_id="Sport.TV.7.HD.pt">SPORT TV 7</channel>
-  <channel site="nostv.pt" site_id="706" lang="pt" xmltv_id="Sport.TV.7.HD.pt">Sport TV7</channel>
-  <channel site="meo.pt" site_id="SPT7HD" lang="pt" xmltv_id="Sport.TV.7.HD.pt">Sport TV7</channel>
-  <channel site="meo.pt" site_id="SPTVHD" lang="pt" xmltv_id="SPORT.TV+.HD.pt">Sport TV +</channel>
-  <channel site="nostv.pt" site_id="417" lang="pt" xmltv_id="SPORT.TV+.HD.pt">SPORT TV+</channel>
-  <channel site="vodafone.pt" site_id="2930" lang="pt" xmltv_id="SPORT.TV+.HD.pt">SPORT TV+</channel>
-  <channel site="sporttv.pt" site_id="7133" lang="pt" xmltv_id="SPORT.TV+.HD.pt">SPORT.TV+</channel>
-  <channel site="meo.pt" site_id="STARCHA" lang="pt" xmltv_id="Fox.pt">STAR Channel</channel>
-  <channel site="nostv.pt" site_id="174" lang="pt" xmltv_id="Fox.pt">Star Channel</channel>
-  <channel site="vodafone.pt" site_id="2715" lang="pt" xmltv_id="Fox.pt">STAR Channel</channel>
-  <channel site="meo.pt" site_id="STARCOM" lang="pt" xmltv_id="FoxComedy.pt">STAR Comedy</channel>
-  <channel site="nostv.pt" site_id="113" lang="pt" xmltv_id="FoxComedy.pt">Star Comedy</channel>
-  <channel site="vodafone.pt" site_id="2893" lang="pt" xmltv_id="FoxComedy.pt">STAR Comedy</channel>
-  <channel site="meo.pt" site_id="STARCRI" lang="pt" xmltv_id="FoxCrime.pt">STAR Crime</channel>
-  <channel site="nostv.pt" site_id="244" lang="pt" xmltv_id="FoxCrime.pt">Star Crime</channel>
-  <channel site="vodafone.pt" site_id="2847" lang="pt" xmltv_id="FoxCrime.pt">STAR Crime</channel>
-  <channel site="meo.pt" site_id="STARLIF" lang="pt" xmltv_id="FoxLife.pt">STAR Life</channel>
-  <channel site="nostv.pt" site_id="175" lang="pt" xmltv_id="FoxLife.pt">Star Life</channel>
-  <channel site="vodafone.pt" site_id="2717" lang="pt" xmltv_id="FoxLife.pt">STAR Life</channel>
-  <channel site="meo.pt" site_id="SYFHD" lang="pt" xmltv_id="Syfy.HD.pt">SyFy</channel>
-  <channel site="nostv.pt" site_id="201" lang="pt" xmltv_id="Syfy.HD.pt">Syfy</channel>
-  <channel site="vodafone.pt" site_id="2701" lang="pt" xmltv_id="Syfy.HD.pt">SyFy</channel>
-  <channel site="meo.pt" site_id="TLC" lang="pt" xmltv_id="TLC.pt">TLC</channel>
-  <channel site="nostv.pt" site_id="23" lang="pt" xmltv_id="TLC.pt">TLC</channel>
-  <channel site="vodafone.pt" site_id="8398" lang="pt" xmltv_id="TLC.pt">TLC</channel>
-  <channel site="meo.pt" site_id="TVCACTH" lang="pt" xmltv_id="TVCine.ACTION.HD.pt">TVCine Action</channel>
-  <channel site="nostv.pt" site_id="224" lang="pt" xmltv_id="TVCine.ACTION.HD.pt">TVCine ACTION</channel>
-  <channel site="vodafone.pt" site_id="2832" lang="pt" xmltv_id="TVCine.ACTION.HD.pt">TVCine Action</channel>
-  <channel site="meo.pt" site_id="TVCEDIH" lang="pt" xmltv_id="TVCine.EDITION.HD.pt">TVCine Edition</channel>
-  <channel site="nostv.pt" site_id="74" lang="pt" xmltv_id="TVCine.EDITION.HD.pt">TVCine EDITION</channel>
-  <channel site="vodafone.pt" site_id="3024" lang="pt" xmltv_id="TVCine.EDITION.HD.pt">TVCine Edition</channel>
-  <channel site="meo.pt" site_id="TVCEMOH" lang="pt" xmltv_id="TVCine.EMOTION.HD.pt">TVCine Emotion</channel>
-  <channel site="nostv.pt" site_id="223" lang="pt" xmltv_id="TVCine.EMOTION.HD.pt">TVCine EMOTION</channel>
-  <channel site="vodafone.pt" site_id="2831" lang="pt" xmltv_id="TVCine.EMOTION.HD.pt">TVCine Emotion</channel>
-  <channel site="meo.pt" site_id="TVCTOPH" lang="pt" xmltv_id="TVCine.TOP.HD.pt">TVCine Top</channel>
-  <channel site="nostv.pt" site_id="141" lang="pt" xmltv_id="TVCine.TOP.HD.pt">TVCine TOP</channel>
-  <channel site="vodafone.pt" site_id="2712" lang="pt" xmltv_id="TVCine.TOP.HD.pt">TVCine Top</channel>
-  <channel site="meo.pt" site_id="TVI" lang="pt" xmltv_id="TVI.HD.pt">TVI</channel>
-  <channel site="nostv.pt" site_id="555" lang="pt" xmltv_id="TVI.HD.pt">TVI</channel>
-  <channel site="vodafone.pt" site_id="2671" lang="pt" xmltv_id="TVI.HD.pt">TVI</channel>
-  <channel site="tvi.iol.pt" site_id="tvi" lang="pt" xmltv_id="TVI.HD.pt">TVI</channel>
-  <channel site="meo.pt" site_id="TVIR" lang="pt" xmltv_id="TVI.Reality.HD.pt">TVI Reality</channel>
-  <channel site="nostv.pt" site_id="567" lang="pt" xmltv_id="TVI.Reality.HD.pt">TVI Reality</channel>
-  <channel site="vodafone.pt" site_id="8397" lang="pt" xmltv_id="TVI.Reality.HD.pt">TVI Reality</channel>
-  <channel site="tvi.iol.pt" site_id="tvireality" lang="pt" xmltv_id="TVI.Reality.HD.pt">TVI Reality</channel>
-  <channel site="meo.pt" site_id="VMAISTVI" lang="pt" xmltv_id="V+TVI.pt">V+ TVI</channel>
-  <channel site="nostv.pt" site_id="574" lang="pt" xmltv_id="V+TVI.pt">V+TVI</channel>
-  <channel site="vodafone.pt" site_id="8399" lang="pt" xmltv_id="V+TVI.pt">V+ TVI</channel>
-  <channel site="tvi.iol.pt" site_id="vmais" lang="pt" xmltv_id="V+TVI.pt">V+ TVI</channel>
-  <channel site="nostv.pt" site_id="377" lang="pt" xmltv_id="MTV.Portugal.HD.pt">MTV Portugal</channel>
-  <channel site="vodafone.pt" site_id="2925" lang="pt" xmltv_id="MTV.Portugal.HD.pt">MTV Portugal</channel>
+  <channel site="tvpassport.com" site_id="cbs--eastern/1225" lang="en" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" xmltv_id="CBS.us">CBS - Eastern</channel>
+  <channel site="tvpassport.com" site_id="cbs--pacific/9907" lang="en" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" xmltv_id="CBS.us">CBS - Pacific</channel>
+  <channel site="tvguide.com" site_id="9200018514" lang="en" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" xmltv_id="CBS.us">CBS National</channel>
+  <channel site="tvpassport.com" site_id="cbs--mountain/9906" lang="en" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" xmltv_id="CBS.us">CBS - Mountain</channel>
+  <channel site="tvpassport.com" site_id="nbc--central/9912" lang="en" logo="https://i.imgur.com/nxY84W5.png" xmltv_id="NBC.us">NBC - Central</channel>
+  <channel site="tvpassport.com" site_id="nbc--network-eastern/1227" lang="en" logo="https://i.imgur.com/nxY84W5.png" xmltv_id="NBC.us">NBC - Network Eastern</channel>
+  <channel site="tvpassport.com" site_id="nbc--mountain/9913" lang="en" logo="https://i.imgur.com/nxY84W5.png" xmltv_id="NBC.us">NBC - Mountain</channel>
+  <channel site="tvpassport.com" site_id="nbc--network-pacific/4410" lang="en" logo="https://i.imgur.com/nxY84W5.png" xmltv_id="NBC.us">NBC - Network Pacific</channel>
+  <channel site="tvguide.com" site_id="9233009876" lang="en" logo="https://i.imgur.com/nxY84W5.png" xmltv_id="NBC.us">NBC National</channel>
+  <channel site="ontvtonight.com" site_id="us#69047124/amc-east" lang="en" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" xmltv_id="AMC.us">AMC (East)</channel>
+  <channel site="tvguide.com" site_id="9233011832" lang="en" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" xmltv_id="AMC.us">AMC</channel>
+  <channel site="tvpassport.com" site_id="amc--eastern-feed-hd/6219" lang="en" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" xmltv_id="AMC.us">AMC - Eastern Feed HD</channel>
+  <channel site="tvpassport.com" site_id="amc--eastern-feed/177" lang="en" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" xmltv_id="AMC.us">AMC - Eastern Feed</channel>
+  <channel site="tvpassport.com" site_id="amc--pacific-feed-hd/10757" lang="en" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" xmltv_id="AMC.us">AMC - Pacific Feed HD</channel>
+  <channel site="tvpassport.com" site_id="amc--pacific-feed/1262" lang="en" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" xmltv_id="AMC.us">AMC - Pacific Feed</channel>
+  <channel site="tvguide.com" site_id="9233011830" lang="en" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" xmltv_id="TNT.us">TNT</channel>
+  <channel site="tvpassport.com" site_id="tnt--eastern-feed/347" lang="en" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" xmltv_id="TNT.us">TNT - Eastern Feed</channel>
+  <channel site="tvpassport.com" site_id="tnt--pacific-feed/2252" lang="en" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" xmltv_id="TNT.us">TNT - Pacific Feed</channel>
+  <channel site="tvguide.com" site_id="9200006932" lang="en" logo="https://i.ibb.co/35wTxjfF/IMG-2451.png" xmltv_id="FX.us">FX</channel>
+  <channel site="tvpassport.com" site_id="fx-networks-east-coast-hd/6111" lang="en" logo="https://i.ibb.co/35wTxjfF/IMG-2451.png" xmltv_id="FX.us">FX Networks East Coast HD</channel>
+  <channel site="tvpassport.com" site_id="fx-networks-west-coast/1449" lang="en" logo="https://i.ibb.co/35wTxjfF/IMG-2451.png" xmltv_id="FX.us">FX Networks West Coast</channel>
+  <channel site="tvguide.com" site_id="9200006977" lang="en" logo="https://i.imgur.com/eE9FzEP.png" xmltv_id="StarzKidsFamily.us">STARZ Kids &amp; Family</channel>
+  <channel site="tvpassport.com" site_id="starz-kids--family--eastern/1194" lang="en" logo="https://i.imgur.com/eE9FzEP.png" xmltv_id="StarzKidsFamily.us">Starz Kids &amp; Family - Eastern</channel>
+  <channel site="tvpassport.com" site_id="starz-kids--family--pacific/1219" lang="en" logo="https://i.imgur.com/eE9FzEP.png" xmltv_id="StarzKidsFamily.us">Starz Kids &amp; Family - Pacific</channel>
+  <channel site="tvguide.com" site_id="9233003558" lang="en" logo="https://i.imgur.com/JpKvjZe.png" xmltv_id="StarzComedy.us">STARZ Comedy</channel>
+  <channel site="tvpassport.com" site_id="starz-comedy--eastern/4223" lang="en" logo="https://i.imgur.com/JpKvjZe.png" xmltv_id="StarzComedy.us">Starz Comedy - Eastern</channel>
+  <channel site="tvpassport.com" site_id="starz-comedy--pacific/4224" lang="en" logo="https://i.imgur.com/JpKvjZe.png" xmltv_id="StarzComedy.us">Starz Comedy - Pacific</channel>
+  <channel site="tvguide.com" site_id="9233008357" lang="en" logo="https://i.imgur.com/ghzzKoT.png" xmltv_id="StarzCinema.us">STARZ Cinema</channel>
+  <channel site="tvpassport.com" site_id="starz-edge--pacific/2678" lang="en" logo="https://i.imgur.com/MvH3Cz2.png" xmltv_id="StarzEdge.us">Starz Edge - Pacific</channel>
+  <channel site="ontvtonight.com" site_id="us#69023900/starz-hd-east" lang="en" logo="https://i.imgur.com/N7oSm4d.png" xmltv_id="Starz.us">STARZ HD (East)</channel>
+  <channel site="ontvtonight.com" site_id="us#69047025/starz-east" lang="en" logo="https://i.imgur.com/N7oSm4d.png" xmltv_id="Starz.us">Starz (East)</channel>
+  <channel site="ontvtonight.com" site_id="us#69023903/starz-hd-west" lang="en" logo="https://i.imgur.com/N7oSm4d.png" xmltv_id="Starz.us">STARZ HD (West)</channel>
+  <channel site="ontvtonight.com" site_id="us#69035609/starz-west" lang="en" logo="https://i.imgur.com/N7oSm4d.png" xmltv_id="Starz.us">Starz (West)</channel>
+  <channel site="tvguide.com" site_id="9233013809" lang="en" logo="https://i.imgur.com/N7oSm4d.png" xmltv_id="Starz.us">STARZ</channel>
+  <channel site="tvpassport.com" site_id="starz--eastern/583" lang="en" logo="https://i.imgur.com/N7oSm4d.png" xmltv_id="Starz.us">Starz - Eastern</channel>
+  <channel site="tvpassport.com" site_id="starz-hd--eastern/3388" lang="en" logo="https://i.imgur.com/N7oSm4d.png" xmltv_id="Starz.us">Starz HD - Eastern</channel>
+  <channel site="tvpassport.com" site_id="starz--pacific/1217" lang="en" logo="https://i.imgur.com/N7oSm4d.png" xmltv_id="Starz.us">Starz - Pacific</channel>
+  <channel site="tvpassport.com" site_id="starz-hd--pacific/3389" lang="en" logo="https://i.imgur.com/N7oSm4d.png" xmltv_id="Starz.us">Starz HD - Pacific</channel>
+  <channel site="ontvtonight.com" site_id="us#69037597/showtime-next-east-hdtv-east" lang="en" logo="https://i.imgur.com/1Ak2MX2.png" xmltv_id="ShowtimeNext.us">Showtime Next East HDTV (East)</channel>
+  <channel site="ontvtonight.com" site_id="us#69049894/showtime-next-east" lang="en" logo="https://i.imgur.com/1Ak2MX2.png" xmltv_id="ShowtimeNext.us">Showtime Next (East)</channel>
+  <channel site="tvguide.com" site_id="9200016686" lang="en" logo="https://i.imgur.com/1Ak2MX2.png" xmltv_id="ShowtimeNext.us">SHOWTIME NEXT</channel>
+  <channel site="tvpassport.com" site_id="showtime-next--eastern/2272" lang="en" logo="https://i.imgur.com/1Ak2MX2.png" xmltv_id="ShowtimeNext.us">Showtime Next - Eastern</channel>
+  <channel site="tvpassport.com" site_id="showtime-next-hd--eastern/7109" lang="en" logo="https://i.imgur.com/1Ak2MX2.png" xmltv_id="ShowtimeNext.us">Showtime Next HD - Eastern</channel>
+  <channel site="tvpassport.com" site_id="showtime-next--pacific/2597" lang="en" logo="https://i.imgur.com/1Ak2MX2.png" xmltv_id="ShowtimeNext.us">Showtime Next - Pacific</channel>
+  <channel site="tvpassport.com" site_id="showtime-next-hd--pacific/20033" lang="en" logo="https://i.imgur.com/1Ak2MX2.png" xmltv_id="ShowtimeNext.us">Showtime Next HD - Pacific</channel>
+  <channel site="ontvtonight.com" site_id="us#69049896/showtime-familyzone-east" lang="en" logo="https://i.imgur.com/qwJUawJ.png" xmltv_id="ShowtimeFamilyZone.us">Showtime FamilyZone (East)</channel>
+  <channel site="tvguide.com" site_id="9200000968" lang="en" logo="https://i.imgur.com/qwJUawJ.png" xmltv_id="ShowtimeFamilyZone.us">SHOWTIME FAMILY ZONE</channel>
+  <channel site="tvpassport.com" site_id="showtime-family-zone--eastern/1956" lang="en" logo="https://i.imgur.com/qwJUawJ.png" xmltv_id="ShowtimeFamilyZone.us">Showtime Family Zone - Eastern</channel>
+  <channel site="tvpassport.com" site_id="showtime-family-zone-hd--eastern/7108" lang="en" logo="https://i.imgur.com/qwJUawJ.png" xmltv_id="ShowtimeFamilyZone.us">Showtime Family Zone HD - Eastern</channel>
+  <channel site="tvpassport.com" site_id="showtime-family-zone--pacific/2599" lang="en" logo="https://i.imgur.com/qwJUawJ.png" xmltv_id="ShowtimeFamilyZone.us">Showtime Family Zone - Pacific</channel>
+  <channel site="tvpassport.com" site_id="showtime-extreme--pacific/2584" lang="en" logo="https://i.imgur.com/byJNJdm.png" xmltv_id="ShowtimeExtreme.us">Showtime Extreme - Pacific</channel>
+  <channel site="tvpassport.com" site_id="showtime-extreme-hd--pacific/7569" lang="en" logo="https://i.imgur.com/byJNJdm.png" xmltv_id="ShowtimeExtreme.us">Showtime Extreme HD - Pacific</channel>
+  <channel site="ontvtonight.com" site_id="us#69035588/showtime-showcase-west" lang="en" logo="https://i.imgur.com/CLyGvZZ.png" xmltv_id="ShowtimeShowcase.us">Showtime Showcase (West)</channel>
+  <channel site="tvguide.com" site_id="9200016599" lang="en" logo="https://i.imgur.com/Or0LKsu.png" xmltv_id="Showtime.us">Paramount+ with Showtime</channel>
+  <channel site="tvguide.com" site_id="9233009829" lang="en" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/960px-Cinemax_2016.svg.png" xmltv_id="Cinemax.us">Cinemax</channel>
+  <channel site="tvpassport.com" site_id="cinemax--eastern-feed/632" lang="en" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/960px-Cinemax_2016.svg.png" xmltv_id="Cinemax.us">Cinemax - Eastern Feed</channel>
+  <channel site="tvpassport.com" site_id="cinemax--pacific-feed/1215" lang="en" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/960px-Cinemax_2016.svg.png" xmltv_id="Cinemax.us">Cinemax - Pacific Feed</channel>
+  <channel site="tvpassport.com" site_id="hbo-comedy--pacific/2593" lang="en" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/HBO_Comedy_%282014%29.svg/960px-HBO_Comedy_%282014%29.svg.png" xmltv_id="HBOComedy.us">HBO Comedy - Pacific</channel>
+  <channel site="tvpassport.com" site_id="hbo-comedy-hd--pacific/8469" lang="en" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/HBO_Comedy_%282014%29.svg/960px-HBO_Comedy_%282014%29.svg.png" xmltv_id="HBOComedy.us">HBO Comedy HD - Pacific</channel>
+  <channel site="tvguide.com" site_id="9233003524" lang="en" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HBO_2_%282014%29.svg/960px-HBO_2_%282014%29.svg.png" xmltv_id="HBO2.us">HBO 2</channel>
+  <channel site="tvpassport.com" site_id="hbo-2--eastern-feed-hd/6313" lang="en" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HBO_2_%282014%29.svg/960px-HBO_2_%282014%29.svg.png" xmltv_id="HBO2.us">HBO Hits - Eastern Feed HD</channel>
+  <channel site="tvpassport.com" site_id="hbo-2--eastern-feed/626" lang="en" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HBO_2_%282014%29.svg/960px-HBO_2_%282014%29.svg.png" xmltv_id="HBO2.us">HBO Hits - Eastern Feed</channel>
+  <channel site="tvpassport.com" site_id="hbo-2--pacific-feed-hd/6314" lang="en" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HBO_2_%282014%29.svg/960px-HBO_2_%282014%29.svg.png" xmltv_id="HBO2.us">HBO Hits - Pacific Feed HD</channel>
+  <channel site="tvpassport.com" site_id="hbo-2--pacific-feed/2205" lang="en" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HBO_2_%282014%29.svg/960px-HBO_2_%282014%29.svg.png" xmltv_id="HBO2.us">HBO Hits - Pacific Feed</channel>
+  <channel site="ontvtonight.com" site_id="us#69022152/hbo-hdtv-west" lang="en" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" xmltv_id="HBO.us">HBO HDTV (West)</channel>
+  <channel site="ontvtonight.com" site_id="us#69035526/hbo-west" lang="en" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" xmltv_id="HBO.us">HBO (West)</channel>
+  <channel site="ontvtonight.com" site_id="us#69022151/hbo-hdtv-east" lang="en" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" xmltv_id="HBO.us">HBO HDTV (East)</channel>
+  <channel site="ontvtonight.com" site_id="us#69046988/hbo-east" lang="en" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" xmltv_id="HBO.us">HBO (East)</channel>
+  <channel site="tvguide.com" site_id="9200004886" lang="en" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" xmltv_id="HBO.us">HBO</channel>
+  <channel site="tvpassport.com" site_id="hbo--eastern-feed/614" lang="en" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" xmltv_id="HBO.us">HBO - Eastern Feed</channel>
+  <channel site="tvpassport.com" site_id="hbo-hd--eastern-feed/627" lang="en" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" xmltv_id="HBO.us">HBO HD - Eastern Feed</channel>
+  <channel site="tvpassport.com" site_id="hbo--pacific-feed/1472" lang="en" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" xmltv_id="HBO.us">HBO - Pacific Feed</channel>
+  <channel site="tvpassport.com" site_id="hbo-hd--pacific-feed/2629" lang="en" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" xmltv_id="HBO.us">HBO HD - Pacific Feed</channel>
+  <channel site="tvguide.com" site_id="9200009884" lang="en" logo="https://i.ibb.co/35bddzKR/IMG-2281.png" xmltv_id="FoxSports2.us">FOX Sports 2</channel>
+  <channel site="tvguide.com" site_id="9233008440" lang="en" logo="https://i.imgur.com/O9BapV9.png" xmltv_id="FoxSports1.us">FOX Sports 1</channel>
+  <channel site="ontvtonight.com" site_id="us#69026454/espn2-hdtv" lang="en" logo="https://i.imgur.com/00tsvjE.png" xmltv_id="ESPN2.us">ESPN2 HDTV</channel>
+  <channel site="ontvtonight.com" site_id="us#69047142/espn2" lang="en" logo="https://i.imgur.com/00tsvjE.png" xmltv_id="ESPN2.us">ESPN2</channel>
+  <channel site="tvguide.com" site_id="9200012351" lang="en" logo="https://i.imgur.com/00tsvjE.png" xmltv_id="ESPN2.us">ESPN2</channel>
+  <channel site="tvpassport.com" site_id="espn2-hd/3379" lang="en" logo="https://i.imgur.com/00tsvjE.png" xmltv_id="ESPN2.us">ESPN2 HD</channel>
+  <channel site="tvpassport.com" site_id="espn2/650" lang="en" logo="https://i.imgur.com/00tsvjE.png" xmltv_id="ESPN2.us">ESPN2</channel>
+  <channel site="ontvtonight.com" site_id="us#69023272/espn-hdtv" lang="en" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" xmltv_id="ESPN.us">ESPN HDTV</channel>
+  <channel site="ontvtonight.com" site_id="us#69047050/espn" lang="en" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" xmltv_id="ESPN.us">ESPN</channel>
+  <channel site="tvguide.com" site_id="9200006937" lang="en" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" xmltv_id="ESPN.us">ESPN</channel>
+  <channel site="tvpassport.com" site_id="espn-hd/3036" lang="en" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" xmltv_id="ESPN.us">ESPN HD</channel>
+  <channel site="tvpassport.com" site_id="espn/594" lang="en" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" xmltv_id="ESPN.us">ESPN</channel>
+  <channel site="tvguide.com" site_id="9233013812" lang="en" logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNN.png" xmltv_id="CNN.us">CNN</channel>
+  <channel site="tvpassport.com" site_id="cnn/70" lang="en" logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNN.png" xmltv_id="CNN.us">CNN</channel>
+  <channel site="tvguide.com" site_id="9233000410" lang="en" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" xmltv_id="FoxNewsChannel.us">Fox News</channel>
+  <channel site="tvpassport.com" site_id="fox-news-hd/6207" lang="en" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" xmltv_id="FoxNewsChannel.us">Fox News HD</channel>
+  <channel site="tvpassport.com" site_id="fox-news/1083" lang="en" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" xmltv_id="FoxNewsChannel.us">Fox News</channel>
+  <channel site="tvguide.com" site_id="9233002271" lang="en" logo="https://imgx.fubo.tv/station_logos/fox_c.png" xmltv_id="Fox.us">FOX</channel>
+  <channel site="tvpassport.com" site_id="fox--eastern/1229" lang="en" logo="https://imgx.fubo.tv/station_logos/fox_c.png" xmltv_id="Fox.us">FOX - Eastern</channel>
+  <channel site="tvpassport.com" site_id="fox--pacific/4409" lang="en" logo="https://imgx.fubo.tv/station_logos/fox_c.png" xmltv_id="Fox.us">FOX - Pacific</channel>
+  <channel site="ontvtonight.com" site_id="us#69048344/abc" lang="en" logo="https://i.ibb.co/WWTH9xV9/IMG-2278.png" xmltv_id="ABC.us">ABC</channel>
+  <channel site="tvguide.com" site_id="9233011874" lang="en" logo="https://i.ibb.co/WWTH9xV9/IMG-2278.png" xmltv_id="ABC.us">ABC Network Feed</channel>
+  <channel site="tvpassport.com" site_id="abc--central/9910" lang="en" logo="https://i.ibb.co/WWTH9xV9/IMG-2278.png" xmltv_id="ABC.us">ABC - Central</channel>
+  <channel site="tvpassport.com" site_id="abc--eastern/1224" lang="en" logo="https://i.ibb.co/WWTH9xV9/IMG-2278.png" xmltv_id="ABC.us">ABC - Eastern</channel>
+  <channel site="tvpassport.com" site_id="abc--mountain/9911" lang="en" logo="https://i.ibb.co/WWTH9xV9/IMG-2278.png" xmltv_id="ABC.us">ABC - Mountain</channel>
+  <channel site="tvpassport.com" site_id="abc--pacific/4407" lang="en" logo="https://i.ibb.co/WWTH9xV9/IMG-2278.png" xmltv_id="ABC.us">ABC - Pacific</channel>
+  <channel site="meo.pt" site_id="STARMOV" lang="pt" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Star_Movies_2023.svg/960px-Star_Movies_2023.svg.png" xmltv_id="StarMovies.pt">STAR Movies</channel>
+  <channel site="nostv.pt" site_id="242" lang="pt" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Star_Movies_2023.svg/960px-Star_Movies_2023.svg.png" xmltv_id="StarMovies.pt">Star Movies</channel>
+  <channel site="vodafone.pt" site_id="2845" lang="pt" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Star_Movies_2023.svg/960px-Star_Movies_2023.svg.png" xmltv_id="StarMovies.pt">STAR Movies</channel>
+  <channel site="meo.pt" site_id="24KTHD" lang="pt" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/24Kitchen.png/960px-24Kitchen.png" xmltv_id="24Kitchen.HD.pt">24Kitchen</channel>
+  <channel site="nostv.pt" site_id="243" lang="pt" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/24Kitchen.png/960px-24Kitchen.png" xmltv_id="24Kitchen.HD.pt">24Kitchen</channel>
+  <channel site="vodafone.pt" site_id="2844" lang="pt" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/24Kitchen.png/960px-24Kitchen.png" xmltv_id="24Kitchen.HD.pt">24Kitchen</channel>
+  <channel site="meo.pt" site_id="ABOLA" lang="pt" logo="https://i.imgur.com/IP1NWeA.png" xmltv_id="A.Bola.TV.HD.pt">A Bola</channel>
+  <channel site="nostv.pt" site_id="719" lang="pt" logo="https://i.imgur.com/IP1NWeA.png" xmltv_id="A.Bola.TV.HD.pt">A Bola TV</channel>
+  <channel site="vodafone.pt" site_id="5583" lang="pt" logo="https://i.imgur.com/IP1NWeA.png" xmltv_id="A.Bola.TV.HD.pt">A Bola TV</channel>
+  <channel site="meo.pt" site_id="AMCBRE" lang="pt" logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/AMC_Break_Print.svg/revision/latest/scale-to-width-down/512" xmltv_id="AMC.Break.HD.pt">AMC Break</channel>
+  <channel site="nostv.pt" site_id="509" lang="pt" logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/AMC_Break_Print.svg/revision/latest/scale-to-width-down/512" xmltv_id="AMC.Break.HD.pt">AMC Break</channel>
+  <channel site="vodafone.pt" site_id="3017" lang="pt" logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/AMC_Break_Print.svg/revision/latest/scale-to-width-down/512" xmltv_id="AMC.Break.HD.pt">AMC BREAK</channel>
+  <channel site="meo.pt" site_id="AMCCRI" lang="pt" logo="https://i.imgur.com/zTujTRr.png" xmltv_id="AMC.Crime.HD.pt">AMC Crime</channel>
+  <channel site="nostv.pt" site_id="545" lang="pt" logo="https://i.imgur.com/zTujTRr.png" xmltv_id="AMC.Crime.HD.pt">AMC Crime</channel>
+  <channel site="vodafone.pt" site_id="8426" lang="pt" logo="https://i.imgur.com/zTujTRr.png" xmltv_id="AMC.Crime.HD.pt">AMC Crime</channel>
+  <channel site="meo.pt" site_id="AMCHD" lang="pt" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" xmltv_id="AMC.HD.pt">AMC</channel>
+  <channel site="nostv.pt" site_id="415" lang="pt" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" xmltv_id="AMC.HD.pt">AMC</channel>
+  <channel site="vodafone.pt" site_id="2996" lang="pt" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" xmltv_id="AMC.HD.pt">AMC</channel>
+  <channel site="meo.pt" site_id="ARTV" lang="pt" logo="https://i.imgur.com/y00t9hr.png" xmltv_id="ARTV.pt">ARTV</channel>
+  <channel site="nostv.pt" site_id="49" lang="pt" logo="https://i.imgur.com/y00t9hr.png" xmltv_id="ARTV.pt">ARTV</channel>
+  <channel site="vodafone.pt" site_id="2736" lang="pt" logo="https://i.imgur.com/y00t9hr.png" xmltv_id="ARTV.pt">ARTV</channel>
+  <channel site="meo.pt" site_id="AXNHD" lang="pt" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" xmltv_id="AXN.HD.pt">AXN</channel>
+  <channel site="nostv.pt" site_id="161" lang="pt" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" xmltv_id="AXN.HD.pt">AXN</channel>
+  <channel site="vodafone.pt" site_id="2713" lang="pt" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" xmltv_id="AXN.HD.pt">AXN</channel>
+  <channel site="meo.pt" site_id="AXNMHD" lang="pt" logo="https://i.imgur.com/tJQckal.png" xmltv_id="AXN.Movies.HD.pt">AXN Movies</channel>
+  <channel site="nostv.pt" site_id="194" lang="pt" logo="https://i.imgur.com/tJQckal.png" xmltv_id="AXN.Movies.HD.pt">AXN Movies</channel>
+  <channel site="vodafone.pt" site_id="2700" lang="pt" logo="https://i.imgur.com/tJQckal.png" xmltv_id="AXN.Movies.HD.pt">AXN Movies</channel>
+  <channel site="meo.pt" site_id="AXWHD" lang="pt" logo="https://i.imgur.com/47IKxmt.png" xmltv_id="AXN.White.HD.pt">AXN White</channel>
+  <channel site="nostv.pt" site_id="75" lang="pt" logo="https://i.imgur.com/47IKxmt.png" xmltv_id="AXN.White.HD.pt">AXN White</channel>
+  <channel site="vodafone.pt" site_id="2833" lang="pt" logo="https://i.imgur.com/47IKxmt.png" xmltv_id="AXN.White.HD.pt">AXN White</channel>
+  <channel site="meo.pt" site_id="BABYT" lang="pt" logo="https://i.imgur.com/4BDJ5FT.png" xmltv_id="Baby.TV.pt">Baby TV</channel>
+  <channel site="nostv.pt" site_id="448" lang="pt" logo="https://i.imgur.com/4BDJ5FT.png" xmltv_id="Baby.TV.pt">Baby TV</channel>
+  <channel site="vodafone.pt" site_id="8781" lang="pt" logo="https://i.imgur.com/4BDJ5FT.png" xmltv_id="Baby.TV.pt">BabyTV</channel>
+  <channel site="meo.pt" site_id="SLBHD" lang="pt" logo="https://i.imgur.com/l6LACto.png" xmltv_id="BTV1.HD.pt">BTV</channel>
+  <channel site="nostv.pt" site_id="245" lang="pt" logo="https://i.imgur.com/l6LACto.png" xmltv_id="BTV1.HD.pt">BTV</channel>
+  <channel site="vodafone.pt" site_id="3405" lang="pt" logo="https://i.imgur.com/l6LACto.png" xmltv_id="BTV1.HD.pt">BTV</channel>
+  <channel site="meo.pt" site_id="C11" lang="pt" logo="https://i.imgur.com/mbQCGm5.png" xmltv_id="Canal.11.HD.pt">Canal 11</channel>
+  <channel site="nostv.pt" site_id="565" lang="pt" logo="https://i.imgur.com/mbQCGm5.png" xmltv_id="Canal.11.HD.pt">Canal 11</channel>
+  <channel site="vodafone.pt" site_id="5585" lang="pt" logo="https://i.imgur.com/mbQCGm5.png" xmltv_id="Canal.11.HD.pt">Canal 11</channel>
+  <channel site="meo.pt" site_id="HOLHD" lang="pt" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HWD_logo.svg/960px-HWD_logo.svg.png" xmltv_id="Canal.Hollywood.HD.pt">Hollywood</channel>
+  <channel site="nostv.pt" site_id="14" lang="pt" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HWD_logo.svg/960px-HWD_logo.svg.png" xmltv_id="Canal.Hollywood.HD.pt">Canal Hollywood</channel>
+  <channel site="vodafone.pt" site_id="3026" lang="pt" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HWD_logo.svg/960px-HWD_logo.svg.png" xmltv_id="Canal.Hollywood.HD.pt">Canal Hollywood</channel>
+  <channel site="meo.pt" site_id="PANDA" lang="pt" logo="https://upload.wikimedia.org/wikipedia/en/0/08/Canal_Panda_2015.png" xmltv_id="Canal.Panda.HD.pt">Panda</channel>
+  <channel site="nostv.pt" site_id="593" lang="pt" logo="https://upload.wikimedia.org/wikipedia/en/0/08/Canal_Panda_2015.png" xmltv_id="Canal.Panda.HD.pt">Canal Panda</channel>
+  <channel site="vodafone.pt" site_id="7185" lang="pt" logo="https://upload.wikimedia.org/wikipedia/en/0/08/Canal_Panda_2015.png" xmltv_id="Canal.Panda.HD.pt">Canal Panda</channel>
+  <channel site="meo.pt" site_id="QHD" lang="pt" logo="https://i.imgur.com/OovTKqv.png" xmltv_id="Canal.Q.pt">Canal Q</channel>
+  <channel site="nostv.pt" site_id="235" lang="pt" logo="https://i.imgur.com/OovTKqv.png" xmltv_id="Canal.Q.pt">Canal Q</channel>
+  <channel site="vodafone.pt" site_id="2902" lang="pt" logo="https://i.imgur.com/OovTKqv.png" xmltv_id="Canal.Q.pt">Canal Q</channel>
+  <channel site="meo.pt" site_id="CNITO" lang="pt" logo="https://i.imgur.com/6vYWCD0.png" xmltv_id="Cartoonito.pt">Cartoonito</channel>
+  <channel site="nostv.pt" site_id="713" lang="pt" logo="https://i.imgur.com/6vYWCD0.png" xmltv_id="Cartoonito.pt">Cartoonito</channel>
+  <channel site="vodafone.pt" site_id="8005" lang="pt" logo="https://i.imgur.com/6vYWCD0.png" xmltv_id="Cartoonito.pt">Cartoonito</channel>
+  <channel site="meo.pt" site_id="CART" lang="pt" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" xmltv_id="Cartoon.Network.HD.pt">Cartoon Network</channel>
+  <channel site="nostv.pt" site_id="252" lang="pt" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" xmltv_id="Cartoon.Network.HD.pt">Cartoon Network</channel>
+  <channel site="vodafone.pt" site_id="8006" lang="pt" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" xmltv_id="Cartoon.Network.HD.pt">Cartoon Network</channel>
+  <channel site="meo.pt" site_id="CINEHD" lang="pt" logo="https://i.imgur.com/U4Wd5HO.png" xmltv_id="Cinemundo.pt">Cinemundo</channel>
+  <channel site="vodafone.pt" site_id="3027" lang="pt" logo="https://i.imgur.com/U4Wd5HO.png" xmltv_id="Cinemundo.pt">Cinemundo</channel>
+  <channel site="meo.pt" site_id="CMTV" lang="pt" logo="https://i.imgur.com/QFLqg8y.png" xmltv_id="CMTV.HD.pt">CMTV</channel>
+  <channel site="nostv.pt" site_id="425" lang="pt" logo="https://i.imgur.com/QFLqg8y.png" xmltv_id="CMTV.HD.pt">CMTV</channel>
+  <channel site="vodafone.pt" site_id="3414" lang="pt" logo="https://i.imgur.com/QFLqg8y.png" xmltv_id="CMTV.HD.pt">CMTV</channel>
+  <channel site="meo.pt" site_id="CNNPT" lang="pt" logo="https://i.imgur.com/bc6tYVZ.png" xmltv_id="CNN.Portugal.HD.pt">CNN Portugal</channel>
+  <channel site="nostv.pt" site_id="557" lang="pt" logo="https://i.imgur.com/bc6tYVZ.png" xmltv_id="CNN.Portugal.HD.pt">CNN Portugal</channel>
+  <channel site="vodafone.pt" site_id="5678" lang="pt" logo="https://i.imgur.com/bc6tYVZ.png" xmltv_id="CNN.Portugal.HD.pt">CNN Portugal</channel>
+  <channel site="tvi.iol.pt" site_id="cnn" lang="pt" logo="https://i.imgur.com/bc6tYVZ.png" xmltv_id="CNN.Portugal.HD.pt">CNN Portugal</channel>
+  <channel site="meo.pt" site_id="DAZN1" lang="pt" logo="https://i.imgur.com/2Z2EmZF.png" xmltv_id="DAZN.1.pt">DAZN 1</channel>
+  <channel site="vodafone.pt" site_id="8829" lang="pt" logo="https://i.imgur.com/2Z2EmZF.png" xmltv_id="DAZN.1.pt">DAZN 1</channel>
+  <channel site="meo.pt" site_id="DAZN2" lang="pt" logo="https://i.imgur.com/OGj3qf5.png" xmltv_id="DAZN.2.pt">DAZN 2</channel>
+  <channel site="vodafone.pt" site_id="8830" lang="pt" logo="https://i.imgur.com/OGj3qf5.png" xmltv_id="DAZN.2.pt">DAZN 2</channel>
+  <channel site="meo.pt" site_id="DAZN3" lang="pt" logo="https://i.imgur.com/2rXsq2m.png" xmltv_id="DAZN.3.pt">DAZN 3</channel>
+  <channel site="vodafone.pt" site_id="8831" lang="pt" logo="https://i.imgur.com/2rXsq2m.png" xmltv_id="DAZN.3.pt">DAZN 3</channel>
+  <channel site="meo.pt" site_id="DAZN4" lang="pt" logo="https://i.imgur.com/m7ga8bU.png" xmltv_id="DAZN.4.pt">DAZN 4</channel>
+  <channel site="vodafone.pt" site_id="8832" lang="pt" logo="https://i.imgur.com/m7ga8bU.png" xmltv_id="DAZN.4.pt">DAZN 4</channel>
+  <channel site="meo.pt" site_id="DAZN5" lang="pt" logo="https://i.imgur.com/HD2XaeS.png" xmltv_id="DAZN.5.pt">DAZN 5</channel>
+  <channel site="vodafone.pt" site_id="8833" lang="pt" logo="https://i.imgur.com/HD2XaeS.png" xmltv_id="DAZN.5.pt">DAZN 5</channel>
+  <channel site="meo.pt" site_id="DISCVHD" lang="pt" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" xmltv_id="Discovery.HD.pt">Discovery Channel</channel>
+  <channel site="nostv.pt" site_id="561" lang="pt" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" xmltv_id="Discovery.HD.pt">Discovery</channel>
+  <channel site="vodafone.pt" site_id="2914" lang="pt" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" xmltv_id="Discovery.HD.pt">Discovery Channel</channel>
+  <channel site="meo.pt" site_id="DISNY" lang="pt" logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" xmltv_id="Disney.Channel.HD.pt">Disney Channel</channel>
+  <channel site="nostv.pt" site_id="594" lang="pt" logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" xmltv_id="Disney.Channel.HD.pt">Disney Channel</channel>
+  <channel site="vodafone.pt" site_id="8897" lang="pt" logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" xmltv_id="Disney.Channel.HD.pt">Disney Channel</channel>
+  <channel site="meo.pt" site_id="DISNYJ" lang="pt" logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" xmltv_id="Disney.Junior.HD.pt">Disney Junior</channel>
+  <channel site="nostv.pt" site_id="673" lang="pt" logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" xmltv_id="Disney.Junior.HD.pt">Disney Junior</channel>
+  <channel site="vodafone.pt" site_id="7522" lang="pt" logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" xmltv_id="Disney.Junior.HD.pt">Disney Jr.</channel>
+  <channel site="meo.pt" site_id="EURHD" lang="pt" logo="https://i.imgur.com/olQJgm7.png" xmltv_id="Eurosport.1.HD.pt">Eurosport 1</channel>
+  <channel site="nostv.pt" site_id="145" lang="pt" logo="https://i.imgur.com/olQJgm7.png" xmltv_id="Eurosport.1.HD.pt">Eurosport 1</channel>
+  <channel site="vodafone.pt" site_id="2675" lang="pt" logo="https://i.imgur.com/olQJgm7.png" xmltv_id="Eurosport.1.HD.pt">Eurosport 1</channel>
+  <channel site="meo.pt" site_id="EURS2HD" lang="pt" logo="https://i.imgur.com/f56dHgR.png" xmltv_id="Eurosport.2.HD.pt">Eurosport 2</channel>
+  <channel site="nostv.pt" site_id="563" lang="pt" logo="https://i.imgur.com/f56dHgR.png" xmltv_id="Eurosport.2.HD.pt">Eurosport 2</channel>
+  <channel site="vodafone.pt" site_id="5043" lang="pt" logo="https://i.imgur.com/f56dHgR.png" xmltv_id="Eurosport.2.HD.pt">Eurosport 2</channel>
+  <channel site="meo.pt" site_id="HISTHD" lang="pt" logo="https://i.imgur.com/VUy8xIG.png" xmltv_id="Canal.História.HD.pt">História</channel>
+  <channel site="nostv.pt" site_id="544" lang="pt" logo="https://i.imgur.com/VUy8xIG.png" xmltv_id="Canal.História.HD.pt">Canal História</channel>
+  <channel site="vodafone.pt" site_id="8783" lang="pt" logo="https://i.imgur.com/VUy8xIG.png" xmltv_id="Canal.História.HD.pt">Canal História</channel>
+  <channel site="meo.pt" site_id="NGHD" lang="pt" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" xmltv_id="NatGeo.pt">National Geographic</channel>
+  <channel site="nostv.pt" site_id="134" lang="pt" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" xmltv_id="NatGeo.pt">National Geographic</channel>
+  <channel site="vodafone.pt" site_id="2741" lang="pt" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" xmltv_id="NatGeo.pt">National Geographic</channel>
+  <channel site="meo.pt" site_id="WILDHD" lang="pt" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" xmltv_id="National.Geographic.WILD.HD.pt">National Geographic Wild</channel>
+  <channel site="nostv.pt" site_id="83" lang="en" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" xmltv_id="National.Geographic.WILD.HD.pt">National Geographic WILD</channel>
+  <channel site="vodafone.pt" site_id="2846" lang="pt" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" xmltv_id="National.Geographic.WILD.HD.pt">National Geographic Wild</channel>
+  <channel site="meo.pt" site_id="NEWSNOW" lang="pt" logo="https://i.imgur.com/e1S1M6H.png" xmltv_id="NewsNOW.pt">News Now</channel>
+  <channel site="nostv.pt" site_id="705" lang="pt" logo="https://i.imgur.com/e1S1M6H.png" xmltv_id="NewsNOW.pt">NewsNOW</channel>
+  <channel site="vodafone.pt" site_id="8711" lang="pt" logo="https://i.imgur.com/e1S1M6H.png" xmltv_id="NewsNOW.pt">NEWS NOW</channel>
+  <channel site="meo.pt" site_id="NICKELO" lang="pt" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png" xmltv_id="Nickelodeon.pt">Nickelodeon</channel>
+  <channel site="nostv.pt" site_id="94" lang="pt" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png" xmltv_id="Nickelodeon.pt">Nickelodeon</channel>
+  <channel site="vodafone.pt" site_id="8645" lang="pt" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png" xmltv_id="Nickelodeon.pt">Nickelodeon</channel>
+  <channel site="meo.pt" site_id="NICKJR" lang="pt" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" xmltv_id="Nick.Jr..pt">Nick Jr.</channel>
+  <channel site="nostv.pt" site_id="444" lang="pt" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" xmltv_id="Nick.Jr..pt">Nick Jr.</channel>
+  <channel site="meo.pt" site_id="ODISSHD" lang="pt" logo="https://i.imgur.com/zz0Vtty.png" xmltv_id="ODISSEIA.HD.pt">Odisseia</channel>
+  <channel site="nostv.pt" site_id="441" lang="pt" logo="https://i.imgur.com/zz0Vtty.png" xmltv_id="ODISSEIA.HD.pt">ODISSEIA</channel>
+  <channel site="vodafone.pt" site_id="3016" lang="pt" logo="https://i.imgur.com/zz0Vtty.png" xmltv_id="ODISSEIA.HD.pt">Odisseia</channel>
+  <channel site="meo.pt" site_id="PANDAK" lang="pt" logo="https://i.imgur.com/6OP31oP.png" xmltv_id="Panda.KIDS.pt">Panda Kids</channel>
+  <channel site="nostv.pt" site_id="597" lang="pt" logo="https://i.imgur.com/6OP31oP.png" xmltv_id="Panda.KIDS.pt">Panda KIDS</channel>
+  <channel site="vodafone.pt" site_id="7188" lang="pt" logo="https://i.imgur.com/6OP31oP.png" xmltv_id="Panda.KIDS.pt">Panda Kids</channel>
+  <channel site="meo.pt" site_id="PORTO" lang="pt" logo="https://i.imgur.com/DwziwMY.png" xmltv_id="Porto.Canal.HD.pt">Porto Canal</channel>
+  <channel site="nostv.pt" site_id="423" lang="pt" logo="https://i.imgur.com/DwziwMY.png" xmltv_id="Porto.Canal.HD.pt">Porto Canal</channel>
+  <channel site="vodafone.pt" site_id="2768" lang="pt" logo="https://i.imgur.com/DwziwMY.png" xmltv_id="Porto.Canal.HD.pt">Porto Canal</channel>
+  <channel site="meo.pt" site_id="GLOB" lang="pt" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Globo_2024.svg/960px-Globo_2024.svg.png" xmltv_id="Globo.HD.pt">Globo</channel>
+  <channel site="nostv.pt" site_id="447" lang="pt" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Globo_2024.svg/960px-Globo_2024.svg.png" xmltv_id="Globo.HD.pt">Globo</channel>
+  <channel site="vodafone.pt" site_id="3020" lang="pt" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Globo_2024.svg/960px-Globo_2024.svg.png" xmltv_id="Globo.HD.pt">GLOBO</channel>
+  <channel site="meo.pt" site_id="RTP1" lang="pt" logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp1_2026.png" xmltv_id="RTP.1.HD.pt">RTP1</channel>
+  <channel site="nostv.pt" site_id="139" lang="pt" logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp1_2026.png" xmltv_id="RTP.1.HD.pt">RTP 1</channel>
+  <channel site="vodafone.pt" site_id="3028" lang="pt" logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp1_2026.png" xmltv_id="RTP.1.HD.pt">RTP 1</channel>
+  <channel site="rtp.pt" site_id="lis#1" lang="pt" logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp1_2026.png" xmltv_id="RTP.1.HD.pt">RTP1</channel>
+  <channel site="meo.pt" site_id="RTP2" lang="pt" logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp2_2026.png" xmltv_id="RTP.2.HD.pt">RTP2</channel>
+  <channel site="nostv.pt" site_id="554" lang="pt" logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp2_2026.png" xmltv_id="RTP.2.HD.pt">RTP 2</channel>
+  <channel site="vodafone.pt" site_id="2825" lang="pt" logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp2_2026.png" xmltv_id="RTP.2.HD.pt">RTP 2</channel>
+  <channel site="rtp.pt" site_id="lis#8" lang="pt" logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp2_2026.png" xmltv_id="RTP.2.HD.pt">RTP2</channel>
+  <channel site="meo.pt" site_id="RTPN" lang="pt" logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpnoticias_2026.png" xmltv_id="RTP.Notícias.HD.pt">RTP Notícias</channel>
+  <channel site="nostv.pt" site_id="556" lang="pt" logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpnoticias_2026.png" xmltv_id="RTP.Notícias.HD.pt">RTP Notícias</channel>
+  <channel site="vodafone.pt" site_id="7187" lang="pt" logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpnoticias_2026.png" xmltv_id="RTP.Notícias.HD.pt">RTP Notícias</channel>
+  <channel site="rtp.pt" site_id="lis#7" lang="pt" logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpnoticias_2026.png" xmltv_id="RTP.Notícias.HD.pt">RTP Noticias</channel>
+  <channel site="meo.pt" site_id="SIC" lang="pt" logo="https://i.imgur.com/SPMqiDG.png" xmltv_id="SIC.HD.pt">SIC</channel>
+  <channel site="nostv.pt" site_id="418" lang="pt" logo="https://i.imgur.com/SPMqiDG.png" xmltv_id="SIC.HD.pt">SIC</channel>
+  <channel site="vodafone.pt" site_id="2670" lang="pt" logo="https://i.imgur.com/SPMqiDG.png" xmltv_id="SIC.HD.pt">SIC</channel>
+  <channel site="opto.sic.pt" site_id="14229a5c-765a-46ab-a43b-56822565e5b3" lang="pt" logo="https://i.imgur.com/SPMqiDG.png" xmltv_id="SIC.HD.pt">SIC</channel>
+  <channel site="meo.pt" site_id="SICC" lang="pt" logo="https://i.imgur.com/di3sIto.png" xmltv_id="SIC.Caras.HD.pt">SIC Caras</channel>
+  <channel site="nostv.pt" site_id="421" lang="pt" logo="https://i.imgur.com/di3sIto.png" xmltv_id="SIC.Caras.HD.pt">SIC Caras</channel>
+  <channel site="vodafone.pt" site_id="2937" lang="pt" logo="https://i.imgur.com/di3sIto.png" xmltv_id="SIC.Caras.HD.pt">SIC Caras</channel>
+  <channel site="meo.pt" site_id="SICK" lang="pt" logo="https://i.imgur.com/ypTCVsB.png" xmltv_id="SIC.K.HD.pt">SIC K</channel>
+  <channel site="nostv.pt" site_id="553" lang="pt" logo="https://i.imgur.com/ypTCVsB.png" xmltv_id="SIC.K.HD.pt">SIC K</channel>
+  <channel site="vodafone.pt" site_id="2938" lang="pt" logo="https://i.imgur.com/ypTCVsB.png" xmltv_id="SIC.K.HD.pt">SIC K</channel>
+  <channel site="meo.pt" site_id="SICM" lang="pt" logo="https://upload.wikimedia.org/wikipedia/en/c/c4/Sicmulher.png" xmltv_id="SIC.Mulher.HD.pt">SIC Mulher</channel>
+  <channel site="nostv.pt" site_id="420" lang="pt" logo="https://upload.wikimedia.org/wikipedia/en/c/c4/Sicmulher.png" xmltv_id="SIC.Mulher.HD.pt">SIC Mulher</channel>
+  <channel site="vodafone.pt" site_id="2936" lang="pt" logo="https://upload.wikimedia.org/wikipedia/en/c/c4/Sicmulher.png" xmltv_id="SIC.Mulher.HD.pt">SIC Mulher</channel>
+  <channel site="meo.pt" site_id="SICN" lang="pt" logo="https://i.imgur.com/Gi6Q26M.png" xmltv_id="SIC.Notícias.HD.pt">SIC Notícias</channel>
+  <channel site="nostv.pt" site_id="419" lang="pt" logo="https://i.imgur.com/Gi6Q26M.png" xmltv_id="SIC.Notícias.HD.pt">SIC Notícias</channel>
+  <channel site="vodafone.pt" site_id="2935" lang="pt" logo="https://i.imgur.com/Gi6Q26M.png" xmltv_id="SIC.Notícias.HD.pt">SIC Notícias</channel>
+  <channel site="meo.pt" site_id="SICNOV" lang="pt" logo="https://i.ibb.co/5hQrgqd/SICNovelas.png" xmltv_id="SIC.Novelas.pt">SIC Novelas</channel>
+  <channel site="nostv.pt" site_id="709" lang="pt" logo="https://i.ibb.co/5hQrgqd/SICNovelas.png" xmltv_id="SIC.Novelas.pt">SIC Novelas</channel>
+  <channel site="vodafone.pt" site_id="8735" lang="pt" logo="https://i.ibb.co/5hQrgqd/SICNovelas.png" xmltv_id="SIC.Novelas.pt">SIC Novelas</channel>
+  <channel site="meo.pt" site_id="SICR" lang="pt" logo="https://i.imgur.com/6g0obyk.png" xmltv_id="SIC.Radical.HD.pt">SIC Radical</channel>
+  <channel site="nostv.pt" site_id="422" lang="pt" logo="https://i.imgur.com/6g0obyk.png" xmltv_id="SIC.Radical.HD.pt">SIC Radical</channel>
+  <channel site="vodafone.pt" site_id="2915" lang="pt" logo="https://i.imgur.com/6g0obyk.png" xmltv_id="SIC.Radical.HD.pt">SIC Radical</channel>
+  <channel site="meo.pt" site_id="SCPHD" lang="pt" logo="https://i.imgur.com/GOlNfTo.png" xmltv_id="Sporting.TV.HD.pt">Sporting TV</channel>
+  <channel site="nostv.pt" site_id="352" lang="pt" logo="https://i.imgur.com/GOlNfTo.png" xmltv_id="Sporting.TV.HD.pt">Sporting TV</channel>
+  <channel site="vodafone.pt" site_id="3004" lang="pt" logo="https://i.imgur.com/GOlNfTo.png" xmltv_id="Sporting.TV.HD.pt">Sporting TV</channel>
+  <channel site="meo.pt" site_id="SPT1HD" lang="pt" logo="https://i.imgur.com/YWic36u.png" xmltv_id="SPORT.TV1.HD.pt">Sport TV1</channel>
+  <channel site="nostv.pt" site_id="137" lang="pt" logo="https://i.imgur.com/YWic36u.png" xmltv_id="SPORT.TV1.HD.pt">SPORT TV1</channel>
+  <channel site="vodafone.pt" site_id="2729" lang="pt" logo="https://i.imgur.com/YWic36u.png" xmltv_id="SPORT.TV1.HD.pt">SPORT TV 1</channel>
+  <channel site="sporttv.pt" site_id="727" lang="pt" logo="https://i.imgur.com/YWic36u.png" xmltv_id="SPORT.TV1.HD.pt">SPORT.TV1</channel>
+  <channel site="meo.pt" site_id="SPT2HD" lang="pt" logo="https://i.imgur.com/0jSR6yG.png" xmltv_id="SPORT.TV2.HD.pt">Sport TV2</channel>
+  <channel site="nostv.pt" site_id="187" lang="pt" logo="https://i.imgur.com/0jSR6yG.png" xmltv_id="SPORT.TV2.HD.pt">SPORT TV2</channel>
+  <channel site="vodafone.pt" site_id="2730" lang="pt" logo="https://i.imgur.com/0jSR6yG.png" xmltv_id="SPORT.TV2.HD.pt">SPORT TV 2</channel>
+  <channel site="sporttv.pt" site_id="728" lang="pt" logo="https://i.imgur.com/0jSR6yG.png" xmltv_id="SPORT.TV2.HD.pt">SPORT.TV2</channel>
+  <channel site="meo.pt" site_id="SPT3HD" lang="pt" logo="https://i.imgur.com/6Dw3GUx.png" xmltv_id="SPORT.TV3.HD.pt">Sport TV3</channel>
+  <channel site="nostv.pt" site_id="188" lang="pt" logo="https://i.imgur.com/6Dw3GUx.png" xmltv_id="SPORT.TV3.HD.pt">SPORT TV3</channel>
+  <channel site="vodafone.pt" site_id="2731" lang="pt" logo="https://i.imgur.com/6Dw3GUx.png" xmltv_id="SPORT.TV3.HD.pt">SPORT TV 3</channel>
+  <channel site="sporttv.pt" site_id="729" lang="pt" logo="https://i.imgur.com/6Dw3GUx.png" xmltv_id="SPORT.TV3.HD.pt">SPORT.TV3</channel>
+  <channel site="meo.pt" site_id="SPT4HD" lang="pt" logo="https://i.imgur.com/mJlbVfW.png" xmltv_id="SPORT.TV4.HD.pt">Sport TV4</channel>
+  <channel site="nostv.pt" site_id="247" lang="pt" logo="https://i.imgur.com/mJlbVfW.png" xmltv_id="SPORT.TV4.HD.pt">SPORT TV4</channel>
+  <channel site="vodafone.pt" site_id="2811" lang="pt" logo="https://i.imgur.com/mJlbVfW.png" xmltv_id="SPORT.TV4.HD.pt">SPORT TV 4</channel>
+  <channel site="sporttv.pt" site_id="5406" lang="pt" logo="https://i.imgur.com/mJlbVfW.png" xmltv_id="SPORT.TV4.HD.pt">SPORT.TV4</channel>
+  <channel site="meo.pt" site_id="SPT5HD" lang="pt" logo="https://i.imgur.com/4w4vuad.png" xmltv_id="SPORT.TV5.HD.pt">Sport TV5</channel>
+  <channel site="nostv.pt" site_id="180" lang="pt" logo="https://i.imgur.com/4w4vuad.png" xmltv_id="SPORT.TV5.HD.pt">SPORT TV5</channel>
+  <channel site="vodafone.pt" site_id="2719" lang="pt" logo="https://i.imgur.com/4w4vuad.png" xmltv_id="SPORT.TV5.HD.pt">SPORT TV 5</channel>
+  <channel site="sporttv.pt" site_id="5422" lang="pt" logo="https://i.imgur.com/4w4vuad.png" xmltv_id="SPORT.TV5.HD.pt">SPORT.TV5</channel>
+  <channel site="meo.pt" site_id="SPT6HD" lang="pt" logo="https://i.imgur.com/qmlQkyI.png" xmltv_id="Sport.TV.6.HD.pt">Sport TV6</channel>
+  <channel site="nostv.pt" site_id="610" lang="pt" logo="https://i.imgur.com/qmlQkyI.png" xmltv_id="Sport.TV.6.HD.pt">Sport TV6</channel>
+  <channel site="vodafone.pt" site_id="7251" lang="pt" logo="https://i.imgur.com/qmlQkyI.png" xmltv_id="Sport.TV.6.HD.pt">SPORT TV 6</channel>
+  <channel site="sporttv.pt" site_id="7577" lang="pt" logo="https://i.imgur.com/qmlQkyI.png" xmltv_id="Sport.TV.6.HD.pt">SPORT.TV6</channel>
+  <channel site="vodafone.pt" site_id="8835" lang="pt" logo="https://i.imgur.com/2HmCAm5.png" xmltv_id="Sport.TV.7.HD.pt">SPORT TV 7</channel>
+  <channel site="nostv.pt" site_id="706" lang="pt" logo="https://i.imgur.com/2HmCAm5.png" xmltv_id="Sport.TV.7.HD.pt">Sport TV7</channel>
+  <channel site="meo.pt" site_id="SPT7HD" lang="pt" logo="https://i.imgur.com/2HmCAm5.png" xmltv_id="Sport.TV.7.HD.pt">Sport TV7</channel>
+  <channel site="meo.pt" site_id="SPTVHD" lang="pt" logo="https://i.imgur.com/R5FZEW6.png" xmltv_id="SPORT.TV+.HD.pt">Sport TV +</channel>
+  <channel site="nostv.pt" site_id="417" lang="pt" logo="https://i.imgur.com/R5FZEW6.png" xmltv_id="SPORT.TV+.HD.pt">SPORT TV+</channel>
+  <channel site="vodafone.pt" site_id="2930" lang="pt" logo="https://i.imgur.com/R5FZEW6.png" xmltv_id="SPORT.TV+.HD.pt">SPORT TV+</channel>
+  <channel site="sporttv.pt" site_id="7133" lang="pt" logo="https://i.imgur.com/R5FZEW6.png" xmltv_id="SPORT.TV+.HD.pt">SPORT.TV+</channel>
+  <channel site="meo.pt" site_id="STARCHA" lang="pt" logo="https://i.imgur.com/hSDN9YQ.png" xmltv_id="Fox.pt">STAR Channel</channel>
+  <channel site="nostv.pt" site_id="174" lang="pt" logo="https://i.imgur.com/hSDN9YQ.png" xmltv_id="Fox.pt">Star Channel</channel>
+  <channel site="vodafone.pt" site_id="2715" lang="pt" logo="https://i.imgur.com/hSDN9YQ.png" xmltv_id="Fox.pt">STAR Channel</channel>
+  <channel site="meo.pt" site_id="STARCOM" lang="pt" logo="https://i.imgur.com/yLZZPPy.png" xmltv_id="FoxComedy.pt">STAR Comedy</channel>
+  <channel site="nostv.pt" site_id="113" lang="pt" logo="https://i.imgur.com/yLZZPPy.png" xmltv_id="FoxComedy.pt">Star Comedy</channel>
+  <channel site="vodafone.pt" site_id="2893" lang="pt" logo="https://i.imgur.com/yLZZPPy.png" xmltv_id="FoxComedy.pt">STAR Comedy</channel>
+  <channel site="meo.pt" site_id="STARCRI" lang="pt" logo="https://i.imgur.com/htrPojY.png" xmltv_id="FoxCrime.pt">STAR Crime</channel>
+  <channel site="nostv.pt" site_id="244" lang="pt" logo="https://i.imgur.com/htrPojY.png" xmltv_id="FoxCrime.pt">Star Crime</channel>
+  <channel site="vodafone.pt" site_id="2847" lang="pt" logo="https://i.imgur.com/htrPojY.png" xmltv_id="FoxCrime.pt">STAR Crime</channel>
+  <channel site="meo.pt" site_id="STARLIF" lang="pt" logo="https://i.imgur.com/O2miSLA.png" xmltv_id="FoxLife.pt">STAR Life</channel>
+  <channel site="nostv.pt" site_id="175" lang="pt" logo="https://i.imgur.com/O2miSLA.png" xmltv_id="FoxLife.pt">Star Life</channel>
+  <channel site="vodafone.pt" site_id="2717" lang="pt" logo="https://i.imgur.com/O2miSLA.png" xmltv_id="FoxLife.pt">STAR Life</channel>
+  <channel site="meo.pt" site_id="SYFHD" lang="pt" logo="https://i.imgur.com/4fMWhUE.png" xmltv_id="Syfy.HD.pt">SyFy</channel>
+  <channel site="nostv.pt" site_id="201" lang="pt" logo="https://i.imgur.com/4fMWhUE.png" xmltv_id="Syfy.HD.pt">Syfy</channel>
+  <channel site="vodafone.pt" site_id="2701" lang="pt" logo="https://i.imgur.com/4fMWhUE.png" xmltv_id="Syfy.HD.pt">SyFy</channel>
+  <channel site="meo.pt" site_id="TLC" lang="pt" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" xmltv_id="TLC.pt">TLC</channel>
+  <channel site="nostv.pt" site_id="23" lang="pt" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" xmltv_id="TLC.pt">TLC</channel>
+  <channel site="vodafone.pt" site_id="8398" lang="pt" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" xmltv_id="TLC.pt">TLC</channel>
+  <channel site="meo.pt" site_id="TVCACTH" lang="pt" logo="https://i.imgur.com/fsQ6dMR.png" xmltv_id="TVCine.ACTION.HD.pt">TVCine Action</channel>
+  <channel site="nostv.pt" site_id="224" lang="pt" logo="https://i.imgur.com/fsQ6dMR.png" xmltv_id="TVCine.ACTION.HD.pt">TVCine ACTION</channel>
+  <channel site="vodafone.pt" site_id="2832" lang="pt" logo="https://i.imgur.com/fsQ6dMR.png" xmltv_id="TVCine.ACTION.HD.pt">TVCine Action</channel>
+  <channel site="meo.pt" site_id="TVCEDIH" lang="pt" logo="https://i.imgur.com/G2pYTem.png" xmltv_id="TVCine.EDITION.HD.pt">TVCine Edition</channel>
+  <channel site="nostv.pt" site_id="74" lang="pt" logo="https://i.imgur.com/G2pYTem.png" xmltv_id="TVCine.EDITION.HD.pt">TVCine EDITION</channel>
+  <channel site="vodafone.pt" site_id="3024" lang="pt" logo="https://i.imgur.com/G2pYTem.png" xmltv_id="TVCine.EDITION.HD.pt">TVCine Edition</channel>
+  <channel site="meo.pt" site_id="TVCEMOH" lang="pt" logo="https://i.imgur.com/5yfDDx3.png" xmltv_id="TVCine.EMOTION.HD.pt">TVCine Emotion</channel>
+  <channel site="nostv.pt" site_id="223" lang="pt" logo="https://i.imgur.com/5yfDDx3.png" xmltv_id="TVCine.EMOTION.HD.pt">TVCine EMOTION</channel>
+  <channel site="vodafone.pt" site_id="2831" lang="pt" logo="https://i.imgur.com/5yfDDx3.png" xmltv_id="TVCine.EMOTION.HD.pt">TVCine Emotion</channel>
+  <channel site="meo.pt" site_id="TVCTOPH" lang="pt" logo="https://i.imgur.com/uMmmK0s.png" xmltv_id="TVCine.TOP.HD.pt">TVCine Top</channel>
+  <channel site="nostv.pt" site_id="141" lang="pt" logo="https://i.imgur.com/uMmmK0s.png" xmltv_id="TVCine.TOP.HD.pt">TVCine TOP</channel>
+  <channel site="vodafone.pt" site_id="2712" lang="pt" logo="https://i.imgur.com/uMmmK0s.png" xmltv_id="TVCine.TOP.HD.pt">TVCine Top</channel>
+  <channel site="meo.pt" site_id="TVI" lang="pt" logo="https://i.imgur.com/H8Tgl7m.png" xmltv_id="TVI.HD.pt">TVI</channel>
+  <channel site="nostv.pt" site_id="555" lang="pt" logo="https://i.imgur.com/H8Tgl7m.png" xmltv_id="TVI.HD.pt">TVI</channel>
+  <channel site="vodafone.pt" site_id="2671" lang="pt" logo="https://i.imgur.com/H8Tgl7m.png" xmltv_id="TVI.HD.pt">TVI</channel>
+  <channel site="tvi.iol.pt" site_id="tvi" lang="pt" logo="https://i.imgur.com/H8Tgl7m.png" xmltv_id="TVI.HD.pt">TVI</channel>
+  <channel site="meo.pt" site_id="TVIR" lang="pt" logo="https://i.imgur.com/C9rxqA5.png" xmltv_id="TVI.Reality.HD.pt">TVI Reality</channel>
+  <channel site="nostv.pt" site_id="567" lang="pt" logo="https://i.imgur.com/C9rxqA5.png" xmltv_id="TVI.Reality.HD.pt">TVI Reality</channel>
+  <channel site="vodafone.pt" site_id="8397" lang="pt" logo="https://i.imgur.com/C9rxqA5.png" xmltv_id="TVI.Reality.HD.pt">TVI Reality</channel>
+  <channel site="tvi.iol.pt" site_id="tvireality" lang="pt" logo="https://i.imgur.com/C9rxqA5.png" xmltv_id="TVI.Reality.HD.pt">TVI Reality</channel>
+  <channel site="meo.pt" site_id="VMAISTVI" lang="pt" logo="https://upload.wikimedia.org/wikipedia/pt/e/ef/V%2BTVI_Logo.png" xmltv_id="V+TVI.pt">V+ TVI</channel>
+  <channel site="nostv.pt" site_id="574" lang="pt" logo="https://upload.wikimedia.org/wikipedia/pt/e/ef/V%2BTVI_Logo.png" xmltv_id="V+TVI.pt">V+TVI</channel>
+  <channel site="vodafone.pt" site_id="8399" lang="pt" logo="https://upload.wikimedia.org/wikipedia/pt/e/ef/V%2BTVI_Logo.png" xmltv_id="V+TVI.pt">V+ TVI</channel>
+  <channel site="tvi.iol.pt" site_id="vmais" lang="pt" logo="https://upload.wikimedia.org/wikipedia/pt/e/ef/V%2BTVI_Logo.png" xmltv_id="V+TVI.pt">V+ TVI</channel>
+  <channel site="nostv.pt" site_id="377" lang="pt" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" xmltv_id="MTV.Portugal.HD.pt">MTV Portugal</channel>
+  <channel site="vodafone.pt" site_id="2925" lang="pt" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" xmltv_id="MTV.Portugal.HD.pt">MTV Portugal</channel>
 </channels>
