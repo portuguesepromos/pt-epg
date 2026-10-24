@@ -20,6 +20,7 @@ import gzip
 import json
 import math
 import os
+import re
 import shutil
 import sys
 import xml.etree.ElementTree as ET
@@ -101,6 +102,64 @@ def coverage_hours(progs, now, max_len_h=12):
     return total / 3600
 
 
+def logo_key(cid):
+    """'RTP.1.HD.pt' / 'RTP1.pt' / 'rtp1.pt' -> 'rtp1.pt'"""
+    base, _, cc = (cid or "").split("@")[0].rpartition(".")
+    base = re.sub(r"(\.|^)(HD|FHD|UHD|SD|4K)(?=\.|$)", ".", base, flags=re.I)
+    return re.sub(r"[^a-z0-9]", "", base.lower()) + "." + cc.lower()
+
+
+def load_logo_db(path):
+    """iptv-org logos.json (downloaded by the grabber's npm install) -> {key: url}"""
+    if not path or not os.path.exists(path):
+        return {}
+    try:
+        data = json.load(open(path, encoding="utf-8"))
+    except Exception as e:
+        print(f"warning: could not read {path}: {e}")
+        return {}
+    rank_fmt = {"PNG": 0, "SVG": 1, "JPEG": 2, "WebP": 3}
+    best = {}
+    for l in data:
+        cid, url = l.get("channel"), l.get("url")
+        if not cid or not url:
+            continue
+        rank = (l.get("feed") is not None, not l.get("in_use", True), rank_fmt.get(l.get("format"), 9))
+        keys = ([cid + "@" + l["feed"]] if l.get("feed") else []) + [cid, cid.lower(), logo_key(cid)]
+        for k in keys:
+            if k not in best or rank < best[k][0]:
+                best[k] = (rank, url)
+    return {k: v[1] for k, v in best.items()}
+
+
+def source_ids(channels_xml, sites_dir):
+    """{my xmltv_id: [iptv-org ids of its sources]} - read from the grabber's sites/*/*.channels.xml"""
+    wanted = {}
+    for el in ET.parse(channels_xml).getroot().iter("channel"):
+        wanted.setdefault(el.get("site"), {}).setdefault(el.get("site_id"), set()).add(el.get("xmltv_id", ""))
+    out = {}
+    for site, ids in wanted.items():
+        for f in glob.glob(os.path.join(sites_dir, site, "*.channels.xml")):
+            try:
+                root = ET.parse(f).getroot()
+            except Exception:
+                continue
+            for el in root.iter("channel"):
+                orig = el.get("xmltv_id")
+                for mine in ids.get(el.get("site_id"), ()):
+                    if orig and orig not in out.setdefault(mine, []):
+                        out[mine].append(orig)
+    return out
+
+
+def db_logo(db, ids):
+    for i in ids:
+        for k in (i, i.split("@")[0], i.lower(), logo_key(i)):
+            if k in db:
+                return db[k]
+    return None
+
+
 def dedupe(progs):
     """Sort by start time and drop programmes that start at the same time as the previous one."""
     out, seen = [], set()
@@ -124,6 +183,8 @@ def main():
     ap.add_argument("--min-channels", type=int, default=0,
                     help="fail (exit 1) if fewer channels than this have data, so a broken run "
                          "never replaces a good guide")
+    ap.add_argument("--logos", default=os.path.join("grabber", "temp", "data", "logos.json"),
+                    help="iptv-org logos.json, used for channels that got no <icon> from their source")
     ap.add_argument("--min-percent", type=float, default=60,
                     help="...but never ask for more than this %% of the channels in channels.xml, "
                          "so a short hand-picked list doesn't trip the check (default 60)")
@@ -151,10 +212,17 @@ def main():
         all_ids = [c for c in all_ids if c in aliases]
 
     # per-channel preference: order of the sources in channels.xml (first = preferred)
-    pref = {}
+    pref, chosen_logo = {}, {}
     if os.path.exists(args.channels):
         for el in ET.parse(args.channels).getroot().iter("channel"):
             pref.setdefault(el.get("xmltv_id", ""), []).append(el.get("site"))
+            if el.get("logo"):
+                chosen_logo.setdefault(el.get("xmltv_id", ""), el.get("logo"))
+    logo_db = load_logo_db(args.logos)
+    src_ids = {}
+    if logo_db and os.path.exists(args.channels):
+        sites_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(args.logos))), "sites")
+        src_ids = source_ids(args.channels, sites_dir)
 
     def ordered(cid):
         order = pref.get(cid)
@@ -199,7 +267,7 @@ def main():
         print(f"Note: {len(missing)} of {len(wanted)} picked channels got no data: " + ", ".join(missing[:50]))
 
     os.makedirs(os.path.dirname(args.output) or ".", exist_ok=True)
-    n_prog = 0
+    n_prog = n_icons = 0
     with open(args.output, "w", encoding="utf-8") as out:
         out.write('<?xml version="1.0" encoding="UTF-8"?>\n')
         out.write(f'<tv generator-info-name="my-pt-epg" date="{now.strftime("%Y%m%d%H%M%S +0000")}">\n')
@@ -216,6 +284,9 @@ def main():
                     icon = icon or c["icon"]
             alias = aliases.get(cid, {})
             names += [n for n in alias.get("names", []) if n not in names]
+            # logo: the one picked in channels.xml > the source's own > iptv-org database
+            icon = chosen_logo.get(cid) or icon or db_logo(logo_db, [cid] + alias.get("ids", []) + src_ids.get(cid, []))
+            n_icons += bool(icon)
             for out_id in [cid] + [a for a in alias.get("ids", []) if a != cid]:
                 out.write(f"  <channel id={quoteattr(out_id)}>\n")
                 for n in names:
@@ -245,6 +316,7 @@ def main():
         fh.write(f"Generated {now.isoformat()}\n\n" + "\n".join(report) + "\n")
 
     print(f"{len(chosen)}/{len(all_ids)} channels with data, {n_prog} programmes written -> {args.output}(.gz)")
+    print(f"{n_icons}/{len(chosen)} channels have a logo" + ("" if logo_db else f"  (no logo database at {args.logos})"))
 
 
 if __name__ == "__main__":
