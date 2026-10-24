@@ -270,10 +270,9 @@
   <channel site="nostv.pt" site_id="610" lang="pt" xmltv_id="Sport.TV.6.HD.pt">Sport TV6</channel>
   <channel site="vodafone.pt" site_id="7251" lang="pt" xmltv_id="Sport.TV.6.HD.pt">SPORT TV 6</channel>
   <channel site="sporttv.pt" site_id="7577" lang="pt" xmltv_id="Sport.TV.6.HD.pt">SPORT.TV6</channel>
-  <channel site="meo.pt" site_id="SPT7HD" lang="pt" xmltv_id="Sport.TV.7.HD.pt">Sport TV7</channel>
-  <channel site="nostv.pt" site_id="706" lang="pt" xmltv_id="Sport.TV.7.HD.pt">Sport TV7</channel>
   <channel site="vodafone.pt" site_id="8835" lang="pt" xmltv_id="Sport.TV.7.HD.pt">SPORT TV 7</channel>
-  <channel site="sporttv.pt" site_id="7600" lang="pt" xmltv_id="Sport.TV.7.HD.pt">SPORT.TV7</channel>
+  <channel site="nostv.pt" site_id="706" lang="pt" xmltv_id="Sport.TV.7.HD.pt">Sport TV7</channel>
+  <channel site="meo.pt" site_id="SPT7HD" lang="pt" xmltv_id="Sport.TV.7.HD.pt">Sport TV7</channel>
   <channel site="meo.pt" site_id="SPTVHD" lang="pt" xmltv_id="SPORT.TV+.HD.pt">Sport TV +</channel>
   <channel site="nostv.pt" site_id="417" lang="pt" xmltv_id="SPORT.TV+.HD.pt">SPORT TV+</channel>
   <channel site="vodafone.pt" site_id="2930" lang="pt" xmltv_id="SPORT.TV+.HD.pt">SPORT TV+</channel>
