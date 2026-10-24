@@ -18,6 +18,7 @@ import argparse
 import glob
 import gzip
 import json
+import math
 import os
 import shutil
 import sys
@@ -63,6 +64,10 @@ def load_guide(path):
         elif el.tag == "programme":
             cid = base_id(el.get("channel", ""))
             el.set("channel", cid)
+            # <image> is a recent XMLTV addition that older players/parsers
+            # don't know; <icon> already carries the picture, so drop it.
+            for img in el.findall("image"):
+                el.remove(img)
             programmes.setdefault(cid, []).append(ET.tostring(el, encoding="unicode").strip())
             # keep start/stop for scoring
             programmes[cid][-1] = (el.get("start"), el.get("stop"), programmes[cid][-1])
@@ -119,6 +124,9 @@ def main():
     ap.add_argument("--min-channels", type=int, default=0,
                     help="fail (exit 1) if fewer channels than this have data, so a broken run "
                          "never replaces a good guide")
+    ap.add_argument("--min-percent", type=float, default=60,
+                    help="...but never ask for more than this %% of the channels in channels.xml, "
+                         "so a short hand-picked list doesn't trip the check (default 60)")
     args = ap.parse_args()
 
     now = datetime.now(timezone.utc)
@@ -170,9 +178,25 @@ def main():
         else:
             report.append(f"{cid:40s} {'-- NO DATA --':12s}")
 
-    if len(chosen) < args.min_channels:
+    # The safety minimum scales with the size of your channel list:
+    # min(MIN_CHANNELS, min-percent of the channels you picked)
+    wanted = sorted(c for c in set(pref) if c) if pref else all_ids
+    need = args.min_channels
+    if need and wanted:
+        need = min(need, math.ceil(len(wanted) * args.min_percent / 100))
+    missing = [c for c in wanted if c not in chosen]
+    if len(chosen) < need:
         print("\n".join(report))
-        sys.exit(f"Only {len(chosen)} channels have data (minimum {args.min_channels}) - NOT publishing.")
+        print(f"\n{len(missing)} of {len(wanted)} channels in channels.xml got NO data:")
+        print("  " + ", ".join(missing[:200]))
+        sites = {}
+        for site, chans, progs in sources:
+            sites[site] = sum(1 for c in progs if progs[c])
+        print("Channels with programmes per site: " + ", ".join(f"{k}={v}" for k, v in sites.items()))
+        sys.exit(f"Only {len(chosen)} channels have data (need {need} = min({args.min_channels}, "
+                 f"{args.min_percent:g}% of {len(wanted)})) - NOT publishing.")
+    if missing:
+        print(f"Note: {len(missing)} of {len(wanted)} picked channels got no data: " + ", ".join(missing[:50]))
 
     os.makedirs(os.path.dirname(args.output) or ".", exist_ok=True)
     n_prog = 0
