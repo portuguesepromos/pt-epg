@@ -21,7 +21,8 @@ concurrency:
 
 env:
   DAYS: 1               # days of guide to fetch (1 = today only; 2 = today + tomorrow)
-  MIN_CHANNELS: 150     # don't publish if fewer channels than this have data
+  LOGO_FIX: invert      # dark logos -> light copies for dark apps: invert | plate | off
+  MIN_CHANNELS: 150     # safety check: needs min(150, 60% of the channels in channels.xml) with data, else nothing is published
 
 jobs:
   build:
@@ -29,12 +30,12 @@ jobs:
     timeout-minutes: 60
     steps:
       - name: Checkout this repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Get the latest iptv-org/epg grabber (site fixes arrive automatically)
         run: git clone --depth 1 -b master https://github.com/iptv-org/epg.git grabber
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v7
         with:
           node-version: 22
 
@@ -61,11 +62,20 @@ jobs:
             --channels channels.xml \
             --output public/epg.xml \
             --min-channels $MIN_CHANNELS
+          if [ "$LOGO_FIX" != "off" ]; then
+            # Pillow + numpy for the logo fixer; any problem here keeps the original logos
+            python3 -c "import PIL, numpy" 2>/dev/null \
+              || sudo apt-get install -y -qq python3-pil python3-numpy >/dev/null 2>&1 \
+              || { sudo apt-get update -qq && sudo apt-get install -y -qq python3-pil python3-numpy >/dev/null 2>&1; } || true
+            PAGES_URL="https://${GITHUB_REPOSITORY_OWNER,,}.github.io/${GITHUB_REPOSITORY#*/}"
+            python3 scripts/fix_logos.py --xml public/epg.xml --base-url "$PAGES_URL" --mode "$LOGO_FIX" \
+              || echo "logo fixing failed - original logos kept"
+          fi
           echo "<html><body><h3>My PT EPG</h3><p><a href='epg.xml.gz'>epg.xml.gz</a> | <a href='epg.xml'>epg.xml</a> | <a href='report.txt'>report.txt</a></p></body></html>" > public/index.html
           head -n 3 public/report.txt
           grep -c "NO DATA" public/report.txt || true
 
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@v5
         with:
           path: public
 
@@ -77,4 +87,4 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
