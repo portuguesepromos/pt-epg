@@ -2,9 +2,9 @@ name: Update EPG
 
 on:
   schedule:
-    # UTC. With DAYS=1 only "today" is fetched, so the 00:20 run is needed to get the new day
-    # right after midnight. GitHub may start scheduled runs a few minutes late.
-    - cron: "20 0,3,15 * * *"
+    # UTC, every 2 hours (00:20, 02:20, 04:20 ...) so the guide always starts ~2 hours before now.
+    # GitHub may start scheduled runs a few minutes late.
+    - cron: "20 */2 * * *"
   workflow_dispatch: # lets you run it by hand from the Actions tab
   push:
     branches: [main]
@@ -20,7 +20,8 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  DAYS: 1               # days of guide to fetch (1 = today only; 2 = today + tomorrow)
+  DAYS: 2               # days of guide to fetch (1 = today only; 2 = today + tomorrow)
+  PAST_HOURS: 2         # keep programmes that ended up to this many hours ago (older ones are dropped)
   LOGO_FIX: invert      # dark logos -> light copies for dark apps: invert | plate | off
   MIN_CHANNELS: 150     # safety check: needs min(150, 60% of the channels in channels.xml) with data, else nothing is published
 
@@ -61,7 +62,8 @@ jobs:
             --aliases aliases.json \
             --channels channels.xml \
             --output public/epg.xml \
-            --min-channels $MIN_CHANNELS
+            --min-channels $MIN_CHANNELS \
+            --past-hours $PAST_HOURS
           if [ "$LOGO_FIX" != "off" ]; then
             # Pillow + numpy for the logo fixer; any problem here keeps the original logos
             python3 -c "import PIL, numpy" 2>/dev/null \
