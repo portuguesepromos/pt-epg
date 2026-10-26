@@ -24,7 +24,7 @@ import re
 import shutil
 import sys
 import xml.etree.ElementTree as ET
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from xml.sax.saxutils import escape, quoteattr
 
 # Lower index = preferred when two sources are equally good
@@ -180,6 +180,8 @@ def main():
                     help="channels.xml - the order of sources per channel there = preference order")
     ap.add_argument("--only-aliased", action="store_true",
                     help="only output channels that appear in aliases.json")
+    ap.add_argument("--past-hours", type=float, default=-1,
+                    help="drop programmes that ended more than this many hours ago (-1 = keep all)")
     ap.add_argument("--min-channels", type=int, default=0,
                     help="fail (exit 1) if fewer channels than this have data, so a broken run "
                          "never replaces a good guide")
@@ -300,6 +302,17 @@ def main():
             if cid not in chosen:
                 continue
             progs = dedupe(chosen[cid][2])
+            if args.past_hours >= 0:
+                cutoff = now - timedelta(hours=args.past_hours)
+                kept = []
+                for p in progs:
+                    try:
+                        if parse_time(p[1]) < cutoff:
+                            continue
+                    except Exception:
+                        pass
+                    kept.append(p)
+                progs = kept
             out_ids = [cid] + [a for a in aliases.get(cid, {}).get("ids", []) if a != cid]
             old_attr = f"channel={quoteattr(cid)}"
             for _, _, xml in progs:
