@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
+  <channel site="tvguide.com" site_id="9233003805" lang="en" logo="https://i.imgur.com/CLyGvZZ.png" xmltv_id="ShowtimeShowcase.us">SHOWTIME SHOWCASE</channel>
+  <channel site="ontvtonight.com" site_id="us#69035588/showtime-showcase-west" lang="en" logo="https://i.imgur.com/CLyGvZZ.png" xmltv_id="ShowtimeShowcase.us">Showtime Showcase (West)</channel>
+  <channel site="ontvtonight.com" site_id="us#69032257/showtime-showcase-hdtv-east" lang="en" logo="https://i.imgur.com/CLyGvZZ.png" xmltv_id="ShowtimeShowcase.us">Showtime Showcase HDTV (East)</channel>
+  <channel site="ontvtonight.com" site_id="us#69032288/showtime-showcase-east" lang="en" logo="https://i.imgur.com/CLyGvZZ.png" xmltv_id="ShowtimeShowcase.us">Showtime Showcase (East)</channel>
   <channel site="tvpassport.com" site_id="cbs--eastern/1225" lang="en" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" xmltv_id="CBS.us">CBS - Eastern</channel>
   <channel site="tvpassport.com" site_id="cbs--pacific/9907" lang="en" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" xmltv_id="CBS.us">CBS - Pacific</channel>
   <channel site="tvguide.com" site_id="9200018514" lang="en" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" xmltv_id="CBS.us">CBS National</channel>
@@ -52,7 +56,6 @@
   <channel site="tvpassport.com" site_id="showtime-family-zone--pacific/2599" lang="en" logo="https://i.imgur.com/qwJUawJ.png" xmltv_id="ShowtimeFamilyZone.us">Showtime Family Zone - Pacific</channel>
   <channel site="tvpassport.com" site_id="showtime-extreme--pacific/2584" lang="en" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Showtime_Extreme.svg/960px-Showtime_Extreme.svg.png" xmltv_id="ShowtimeExtreme.us">Showtime Extreme - Pacific</channel>
   <channel site="tvpassport.com" site_id="showtime-extreme-hd--pacific/7569" lang="en" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Showtime_Extreme.svg/960px-Showtime_Extreme.svg.png" xmltv_id="ShowtimeExtreme.us">Showtime Extreme HD - Pacific</channel>
-  <channel site="ontvtonight.com" site_id="us#69035588/showtime-showcase-west" lang="en" logo="https://i.imgur.com/CLyGvZZ.png" xmltv_id="ShowtimeShowcase.us">Showtime Showcase (West)</channel>
   <channel site="tvguide.com" site_id="9200016599" lang="en" logo="https://i.imgur.com/Or0LKsu.png" xmltv_id="Showtime.us">Paramount+ with Showtime</channel>
   <channel site="tvguide.com" site_id="9233009829" lang="en" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/960px-Cinemax_2016.svg.png" xmltv_id="Cinemax.us">Cinemax</channel>
   <channel site="tvpassport.com" site_id="cinemax--eastern-feed/632" lang="en" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/960px-Cinemax_2016.svg.png" xmltv_id="Cinemax.us">Cinemax - Eastern Feed</channel>
