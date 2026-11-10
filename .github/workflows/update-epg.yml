@@ -20,7 +20,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  DAYS: 2               # days of guide to fetch (1 = today only; 2 = today + tomorrow)
+  DAYS: 5               # days of guide to fetch (1 = today only; 2 = today + tomorrow)
   PAST_HOURS: 2         # keep programmes that ended up to this many hours ago (older ones are dropped)
   LOGO_FIX: invert      # dark logos -> light copies for dark apps: invert | plate | off
   MIN_CHANNELS: 150     # safety check: needs min(150, 60% of the channels in channels.xml) with data, else nothing is published
